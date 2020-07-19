@@ -1,0 +1,13 @@
+{
+  "name": "maxzz",
+  "description": "README file generator",
+  "version": "1.0.0",
+  "author": "Max Zakharzhevskiy <maxzz@msn.com>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "graphql-request": "^2.0.0",
+    "node-fetch": "^2.6.0"
+  }
+}
