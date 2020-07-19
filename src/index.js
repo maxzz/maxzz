@@ -9,7 +9,7 @@ const makeQuery = (afterCursor) => {
     let query = /* GraphQL */ `
     query {
         viewer {
-          repositories(first: 100, privacy: PUBLIC, after:${afterCursor ? `"${afterCursor}"` : 'null'}) {
+          repositories(first: 5, privacy: PUBLIC, after:${afterCursor ? `"${afterCursor}"` : 'null'}) {
             pageInfo {
               hasNextPage
               endCursor
@@ -66,13 +66,24 @@ async function getRepos(token) {
     return repos;
 }
 
+function replaceChunk(content, marker, chunk) {
+    let re = new RegExp(`<!\-\- ${marker} starts \-\->.*<!\-\- ${marker} ends \-\->`, 's');
+    let newCnt = `<!-- ${marker} starts -->\n${chunk}\n<!-- ${marker} ends -->`;
+    return content.replace(re, newCnt);
+}
+
 async function main() {
     const MY_TOKEN = process.env.MAXZZ_TOKEN;
 
     let repos = await getRepos(MY_TOKEN);
+    let newCnt = `<pre>\n${JSON.stringify(repos, null, 4)}\n</pre>\n`;
 
-    console.log('-----------------------------------------');
-    console.log(JSON.stringify(repos, null, 4));
+    // console.log('-----------------------------------------');
+    // console.log(JSON.stringify(repos, null, 4));
+
+    let cnt = fs.readFileSync('./README.md').toString();
+    cnt = replaceChunk(cnt, 'recent_releases', newCnt);
+    fs.writeFileSync('./README.md', cnt);
 }
 
 main().catch((error) => console.error(error));
