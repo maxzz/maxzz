@@ -5,6 +5,9 @@
   "author": "Max Zakharzhevskiy <maxzz@msn.com>",
   "license": "MIT",
   "main": "src/index.js",
+  "scripts": {
+      "build": "node src/index.js"
+  },
   "dependencies": {
     "dotenv": "^8.2.0",
     "graphql-request": "^2.0.0",

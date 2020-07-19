@@ -73,8 +73,8 @@ function replaceChunk(content, marker, chunk) {
 }
 
 function sortRepos(repoA, repoB) {
-    var a = repoA.updatedAt;
-    var b = repoB.updatedAt;
+    const a = repoA.updatedAt;
+    const b = repoB.updatedAt;
     if (a < b) {
         return -1;
     }
