@@ -34,9 +34,9 @@ const makeQuery = (afterCursor) => {
           }
         }
       }
-    `; 
+    `;
     return query;
-}
+};
 
 async function getRepos(token) {
     const endpoint = 'https://api.github.com/graphql';
@@ -72,10 +72,24 @@ function replaceChunk(content, marker, chunk) {
     return content.replace(re, newCnt);
 }
 
+function sortRepos(repoA, repoB) {
+    var a = repoA.updatedAt;
+    var b = repoB.updatedAt;
+    if (a < b) {
+        return -1;
+    }
+    if (a > b) {
+        return 1;
+    }
+    return 0;
+}
+
 async function main() {
     const MY_TOKEN = process.env.MAXZZ_TOKEN;
 
     let repos = await getRepos(MY_TOKEN);
+    repos = repos.sort(sortRepos);
+    repos = repos.reverse();
     let newCnt = `<pre>\n${JSON.stringify(repos, null, 4)}\n</pre>\n`;
 
     // console.log('-----------------------------------------');
