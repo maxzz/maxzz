@@ -11,7 +11,14 @@
         "name": "maxzz",
         "url": "https://github.com/maxzz/maxzz",
         "createdAt": "2020-07-18T22:15:47Z",
-        "updatedAt": "2020-07-19T02:35:19Z",
+        "updatedAt": "2020-07-20T03:36:45Z",
+        "isFork": false
+    },
+    {
+        "name": "netsh-rule",
+        "url": "https://github.com/maxzz/netsh-rule",
+        "createdAt": "2020-07-13T03:45:29Z",
+        "updatedAt": "2020-07-20T03:28:51Z",
         "isFork": false
     },
     {
@@ -19,13 +26,6 @@
         "url": "https://github.com/maxzz/maxzz-python",
         "createdAt": "2020-07-18T01:33:44Z",
         "updatedAt": "2020-07-18T22:15:06Z",
-        "isFork": false
-    },
-    {
-        "name": "netsh-rule",
-        "url": "https://github.com/maxzz/netsh-rule",
-        "createdAt": "2020-07-13T03:45:29Z",
-        "updatedAt": "2020-07-13T05:09:30Z",
         "isFork": false
     },
     {
