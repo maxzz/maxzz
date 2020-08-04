@@ -6,7 +6,7 @@
 
 <link rel="stylesheet" href="src/css/style.css">
 
-![](src/assets/main.svg)
+![](https://github.com/maxzz/maxzz/src/assets/main.svg)
 
 ![](src/assets/another.svg)
 
