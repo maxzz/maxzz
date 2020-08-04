@@ -10,8 +10,8 @@
 ![](https://github.com/maxzz/maxzz/src/assets/main.svg)
 <!-- ![](src/assets/main.svg) -->
 
-
-![](src/assets/another.svg)
+![](https://github.com/maxzz/maxzz/src/assets/another.svg)
+<!-- ![](src/assets/another.svg) -->
 
 <!-- recent_releases starts -->
 Repo | created | updated
