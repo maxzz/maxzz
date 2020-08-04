@@ -1,0 +1,42 @@
+name: Build README
+
+on:
+  push:
+    workflow_dispatch:
+    schedule:
+      - cron:  '32 * * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [12.x]
+
+    steps:
+      - name: Checkout out repo
+        uses: actions/checkout@v2
+        
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - name: Get the latest from Git
+        run: git pull
+
+      - name: Build
+        env:
+          MAXZZ_TOKEN: ${{ secrets.MAXZZ_TOKEN }}
+        run: |-
+          yarn --version
+          yarn install
+          yarn build --if-present    
+
+      - name: Commit and push if README changed
+        run: |-
+          git diff
+          git config --global user.email "readme-bot@example.com"
+          git config --global user.name "README-bot"
+          git diff --quiet || (git add README.md && git commit -m "Updated README")
+          git push
