@@ -7,8 +7,8 @@
 <link rel="stylesheet" href="https://github.com/maxzz/maxzz/src/css/style.css">
 <!-- <link rel="stylesheet" href="src/css/style.css"> -->
 
-![](https://github.com/maxzz/maxzz/src/assets/main.svg)
-<!-- ![](src/assets/main.svg) -->
+<!-- ![](https://github.com/maxzz/maxzz/src/assets/main.svg) -->
+![](src/assets/main.svg)
 
 ![](src/assets/another.svg)
 <!-- ![](src/assets/another.svg) -->
