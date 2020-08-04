@@ -10,7 +10,7 @@
 ![](https://github.com/maxzz/maxzz/src/assets/main.svg)
 <!-- ![](src/assets/main.svg) -->
 
-![](https://github.com/maxzz/maxzz/src/assets/another.svg)
+![](src/assets/another.svg)
 <!-- ![](src/assets/another.svg) -->
 
 <!-- recent_releases starts -->
