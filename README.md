@@ -11,11 +11,12 @@
             <link rel="stylesheet" href="src/css/style.css">
 			<div class="container">
 				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
-				<p>Click to see the source</p>
 			</div>
 		</div>
 	</foreignObject>
 </svg>
+
+![](../github-frontpage/src/assets/another.svg)
 
 <!-- recent_releases starts -->
 <pre>

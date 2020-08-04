@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="394" height="567" viewBox="0 0 394 567">
+    <defs>
+        <style>
+            .a {
+                stroke: #707070;
+                fill: url(#a);
+            }
+
+            .b {
+                stroke: none;
+            }
+
+            .c {
+                fill: none;
+            }
+        </style>
+        <linearGradient id="a" x1="0.072" y1="0.025" x2="0.964" y2="0.959" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fc5c7d" />
+            <stop offset="0.402" stop-color="#6a82fb" />
+            <stop offset="1" stop-color="#14cfc8" />
+        </linearGradient>
+    </defs>
+    <g class="a">
+        <rect class="b" width="394" height="567" />
+        <rect class="c" x="0.5" y="0.5" width="393" height="566" />
+    </g>
+</svg>
