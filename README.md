@@ -4,7 +4,7 @@
 
 <!-- ### Plans, plans, plans ... -->
 
-<link rel="stylesheet" href="https://github.com/maxzz/maxzz/src/css/style.css">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/maxzz/maxzz/master/src/css/style.css">
 <!-- <link rel="stylesheet" href="src/css/style.css"> -->
 
 ![](https://raw.githubusercontent.com/maxzz/maxzz/master/src/assets/main.svg)
