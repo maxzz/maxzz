@@ -16,7 +16,7 @@
 <!-- recent_releases starts -->
 Repo | created | updated
 -|-|-
-[maxzz](https://github.com/maxzz/maxzz) | 2020-07-18T22:15:47Z | 2020-08-04T09:51:33Z
+[maxzz](https://github.com/maxzz/maxzz) | 2020-07-18T22:15:47Z | 2020-08-04T09:52:52Z
 [netsh-rule](https://github.com/maxzz/netsh-rule) | 2020-07-13T03:45:29Z | 2020-07-20T03:28:51Z
 [maxzz-python](https://github.com/maxzz/maxzz-python) | 2020-07-18T01:33:44Z | 2020-07-18T22:15:06Z
 [test-pm](https://github.com/maxzz/test-pm) | 2020-05-28T12:19:35Z | 2020-06-21T01:24:21Z
