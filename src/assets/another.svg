@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="394" height="567" viewBox="0 0 394 567">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 615 132">
     <defs>
         <style>
             .a {
@@ -21,7 +22,7 @@
         </linearGradient>
     </defs>
     <g class="a">
-        <rect class="b" width="394" height="567" />
-        <rect class="c" x="0.5" y="0.5" width="393" height="566" />
+        <rect class="b" width="615" height="132" />
+        <rect class="c" x="0.5" y="0.5" width="614" height="131" />
     </g>
 </svg>

@@ -84,13 +84,37 @@ function sortRepos(repoA, repoB) {
     return 0;
 }
 
+function formatRepos(repos) {
+    repos = repos.sort(sortRepos);
+    repos = repos.reverse();
+
+    //
+    let newCnt = 
+        `Repo | created | updated\n-|-|-\n` + 
+        repos.map(repo => {
+        return `[${repo.name}](${repo.url}) | ${repo.createdAt} | ${repo.updatedAt}`;
+    }).join('\n');
+
+
+    //
+    // let newCnt = repos.map(repo => {
+    //     return `
+    //         <a href="${repo.url}">${repo.name} ${repo.createdAt} ${repo.updatedAt}</a>
+    //     `;
+    // }).join('\n');
+    //let newCnt = `<pre>\n${s}\n</pre>\n`;
+
+    //
+    //let newCnt = `<pre>\n${JSON.stringify(repos, null, 4)}\n</pre>\n`;
+
+    return newCnt;
+}
+
 async function main() {
     const MY_TOKEN = process.env.MAXZZ_TOKEN;
 
     let repos = await getRepos(MY_TOKEN);
-    repos = repos.sort(sortRepos);
-    repos = repos.reverse();
-    let newCnt = `<pre>\n${JSON.stringify(repos, null, 4)}\n</pre>\n`;
+    let newCnt = formatRepos(repos);
 
     // console.log('-----------------------------------------');
     // console.log(JSON.stringify(repos, null, 4));
