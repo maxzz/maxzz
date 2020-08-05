@@ -149,6 +149,9 @@ async function main() {
     const mainImg = IS_LOCAL
         ? '![](src/assets/main.svg)'
         : '![](https://raw.githubusercontent.com/maxzz/maxzz/master/src/assets/main.svg)';
+    const mainHiImg = IS_LOCAL
+        ? '![](src/assets/main-hi.svg)'
+        : '![](https://raw.githubusercontent.com/maxzz/maxzz/master/src/assets/main-hi.svg)';
 
     // 1. Prepare the new content
     let repos = await getRepos(MY_TOKEN);
@@ -157,6 +160,7 @@ async function main() {
     // 2. Update README.md
     let cnt = fs.readFileSync('./src/assets/README-template.md').toString();
     cnt = cnt.replace(/\!\[\]\((\S*)src\/assets\/main\.svg\)/, mainImg);
+    cnt = cnt.replace(/\!\[\]\((\S*)src\/assets\/main-hi\.svg\)/, mainHiImg);
     cnt = replaceChunk(cnt, 'recent_releases', newCnt);
     fs.writeFileSync('./README.md', cnt);
 }

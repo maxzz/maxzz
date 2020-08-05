@@ -1,6 +1,6 @@
 ![Build README](https://github.com/maxzz/maxzz/workflows/Build%20README/badge.svg)
 
-## Hi there 👋
+## HI THERE ![](src/assets/main-hi.svg)
 
 ![](src/assets/main.svg)
 
