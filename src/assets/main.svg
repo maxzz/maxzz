@@ -48,6 +48,19 @@
                 stroke: none;
             }
         </style>
+        <style>
+            .pulseAnim {
+                transform-origin: 10.5px 10.5px;
+                animation: pulseAnim 5s infinite;
+            }
+            @keyframes pulseAnim {
+                50% {
+                    transform: scale(1.2);
+                    stroke-width: 4;
+                    opacity: 0.5;
+                }
+            }
+        </style>
         <radialGradient id="a" cx="0.686" cy="0.588" r="0.306"
             gradientTransform="matrix(1, -0.02, 0.031, 1.578, -0.019, -0.352)" gradientUnits="objectBoundingBox">
             <stop offset="0" stop-color="#f0d7fb" />
@@ -99,7 +112,7 @@
             </g>
             <g class="f" transform="translate(627 57)">
                 <circle class="g" cx="10.5" cy="10.5" r="10.5" />
-                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
+                <circle class="h pulseAnim" cx="10.5" cy="10.5" r="9.5" />
             </g>
             <g class="f" transform="translate(726)">
                 <circle class="g" cx="10.5" cy="10.5" r="10.5" />

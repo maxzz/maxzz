@@ -76,8 +76,9 @@ function formatRepos(repos) {
     repos = repos.sort(sortRepos);
     repos = repos.reverse();
 
-    let original = repos.filter(repo => !repo.isFork);
     let forked = repos.filter(repo => repo.isFork);
+    let original = repos.filter(repo => !repo.isFork);
+    original = moveReadmesToEnd(original);
 
     let padding = tablePadding();
 
@@ -88,6 +89,21 @@ function formatRepos(repos) {
     newCnt += `name${padding} | created | updated\n-|-|-\n` + buildTable(forked);
 
     return newCnt;
+
+    function moveReadmesToEnd(original) {
+        let readme = /^(?:maxzz)/i;
+        let readmes = [];
+        original = original.filter(repo => {
+            let isReadme = readme.test(repo.name);
+            if (isReadme) {
+                readmes.push(repo);
+            }
+            return !isReadme;
+        });
+        readmes = readmes.reverse();
+        original.push(...readmes);
+        return original;
+    }
 
     function tablePadding() {
         const lenRepo = 4; // 4 is length of 'Repo'.
