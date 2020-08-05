@@ -88,30 +88,43 @@ function formatRepos(repos) {
     repos = repos.sort(sortRepos);
     repos = repos.reverse();
 
-    //
-    let newCnt = 
-        `Repo | created | updated\n-|-|-\n` + 
-        repos.map(repo => {
-        return `[${repo.name}](${repo.url}) | ${repo.createdAt} | ${repo.updatedAt}`;
-    }).join('\n');
+    const lenRepo = 4; // 4 is length of 'Repo'.
+    let maxName = repos.reduce((acc, cur) => cur.name.length > acc ? cur.name.length : acc, lenRepo);
+    let padding = '&nbsp;'.repeat(maxName - lenRepo + 12); // for none monospace font
 
-
-    //
-    // let newCnt = repos.map(repo => {
-    //     return `
-    //         <a href="${repo.url}">${repo.name} ${repo.createdAt} ${repo.updatedAt}</a>
-    //     `;
-    // }).join('\n');
-    //let newCnt = `<pre>\n${s}\n</pre>\n`;
+    let original = repos.filter(repo => !repo.isFork);
+    let forked = repos.filter(repo => repo.isFork);
 
     //
-    //let newCnt = `<pre>\n${JSON.stringify(repos, null, 4)}\n</pre>\n`;
+    let newCnt = `\n## Original repositories\n\n`;
+    newCnt += `Repo${padding} | created | updated\n-|-|-\n` + buildTable(original);
+    newCnt += `\n\n## Collaboration repositories\n\n`;
+    newCnt += `Repo${padding} | created | updated\n-|-|-\n` + buildTable(forked);
 
     return newCnt;
+
+    function fmtDate(dateString) {
+        let s = new Intl.DateTimeFormat('en-US').format(new Date(dateString));
+        return s.split('/').map(_ => zeros(_, 2)).join('.');
+    }
+   
+    function buildTable(repos) {
+        return repos.map(repo => {
+            const code = '```';
+            return `[${repo.name}](${repo.url}) | ${code}${fmtDate(repo.createdAt)}${code} | ${code}${fmtDate(repo.updatedAt)}${code}`;
+        }).join('\n');
+    }
+
+    function zeros(v/*: string | number*/, total/*: number*/) {
+        // Returns v prefixed with '0's with length <= total or v as is.
+        v = v ? '' + v : '';
+        return v.length < total ? '0000000000'.slice(0, total - v.length) + v : v;
+    }
 }
 
 async function main() {
     const MY_TOKEN = process.env.MAXZZ_TOKEN;
+    const IS_LOCAL = process.env.IS_LOCAL;
 
     let repos = await getRepos(MY_TOKEN);
     let newCnt = formatRepos(repos);

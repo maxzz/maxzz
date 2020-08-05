@@ -1,60 +1,115 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-                .container {
-                    font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="799" height="450"
+    viewBox="0 0 799 450">
+    <defs>
+        <style>
+            .a,
+            .e,
+            .f {
+                stroke: #707070;
+            }
 
-                    display: flex;
-                    flex-direction: column;
-                    align-items: center;
-                    justify-content: center;
+            .a {
+                fill: url(#a);
+            }
 
-                    margin: 0;
-                    width: 100%;
-                    height: 400px;
+            .b,
+            .e,
+            .f,
+            .h {
+                fill: none;
+            }
 
-                    background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
-                    /* background-size: 600% 400%; */
-                    /* animation: gradientBackground 10s ease infinite; */
+            .b,
+            .c {
+                stroke: #9414ea;
+                stroke-width: 2px;
+            }
 
-                    border-radius: 10px;
-                    color: royalblue;
-                    /* text-align: center; */
-                }
+            .c {
+                fill: #fff;
+            }
 
-                h1 {
-                    font-size: 20px;
-                    /* line-height: 1.3; */
-                    /* letter-spacing: 5px; */
-                    /* text-transform: uppercase; */
-                    /* text-shadow: 
-                        0 1px 0 #efefef,
-                        0 2px 0 #efefef,
-                        0 3px 0 #efefef,
-                        0 4px 0 #efefef,
-                        0 12px 5px rgba(0, 0, 0, 0.1); */
-                }
+            .d {
+                fill: #9414ea;
+                font-size: 20px;
+                font-family: SegoeUI, Segoe UI;
+            }
 
-                @keyframes gradientBackground {
-                    0% {
-                        background-position: 0% 50%;
-                    }
+            .e {
+                stroke-dasharray: 4 4;
+            }
 
-                    50% {
-                        background-position: 100% 50%;
-                    }
+            .f {
+                stroke-dasharray: 4;
+            }
 
-                    100% {
-                        background-position: 0% 50%;
-                    }
-                }
-            </style>
-            <div class="container">
-                <h1>Plans, plans, plans ...</h1>
-                <!-- <a href="https://github.com/maxzz/maxzz">maxzz 2020-07-18T22:15:47Z 2020-07-20T03:37:03Z</a>
-                <a href="https://github.com/maxzz/netsh-rule">netsh-rule 2020-07-13T03:45:29Z 2020-07-20T03:28:51Z</a> -->
-            </div>
-        </div>
-    </foreignObject>
+            .g {
+                stroke: none;
+            }
+        </style>
+        <radialGradient id="a" cx="0.686" cy="0.588" r="0.306"
+            gradientTransform="matrix(1, -0.02, 0.031, 1.578, -0.019, -0.352)" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f0d7fb" />
+            <stop offset="1" stop-color="#e7afff" />
+        </radialGradient>
+    </defs>
+    <g transform="translate(-175 -607)">
+        <g class="a" transform="translate(175 607)">
+            <rect class="g" width="799" height="450" rx="11" />
+            <rect class="h" x="0.5" y="0.5" width="798" height="449" rx="10.5" />
+        </g>
+        <g transform="translate(202 636)">
+            <path class="b"
+                d="M873.345,852.778,1013.74,728.754l76.371-123.072,94.68,160.941,99.828-72.562,61.719,34.693,80.553-123.072,71.933-71.752,102.818-59.368"
+                transform="translate(-864.936 -464.778)" />
+            <g class="c" transform="translate(138 254.344)">
+                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
+                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
+            </g>
+            <g class="c" transform="translate(0 377)">
+                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
+                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
+            </g>
+            <g class="c" transform="translate(214 133.823)">
+                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
+                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
+            </g>
+            <g class="c" transform="translate(409 220.633)">
+                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
+                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
+            </g>
+            <g class="c" transform="translate(469 250.279)">
+                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
+                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
+            </g>
+            <g class="c" transform="translate(554 127.715)">
+                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
+                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
+            </g>
+            <g class="c" transform="translate(627 57)">
+                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
+                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
+            </g>
+            <g class="c" transform="translate(726)">
+                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
+                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
+            </g>
+            <g class="c" transform="translate(311 288.012)">
+                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
+                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
+            </g>
+        </g>
+        <g transform="translate(0 67)"><text class="d" transform="translate(273 961)">
+                <tspan x="0" y="0">ENTHUSIASM</tspan>
+            </text><text class="d" transform="translate(498 961)">
+                <tspan x="0" y="0">LEARNING</tspan>
+            </text><text class="d" transform="translate(771 961)">
+                <tspan x="0" y="0">GIVING BACK</tspan>
+            </text>
+            <line class="e" x2="2" y2="401" transform="translate(425.5 573.5)" />
+            <line class="f" x2="2" y2="401" transform="translate(680.5 565.5)" />
+        </g><text class="d" transform="translate(202 668)">
+            <tspan x="0" y="0">IDEAS, PLANS, DONE...</tspan>
+        </text>
+    </g>
 </svg>
