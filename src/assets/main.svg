@@ -2,45 +2,46 @@
     viewBox="0 0 799 450">
     <defs>
         <style>
-            .a,
-            .e,
-            .f {
-                stroke: #707070;
-            }
-
             .a {
+                stroke: #707070;
                 fill: url(#a);
             }
 
-            .b,
-            .e,
-            .f,
-            .h {
-                fill: none;
-            }
-
-            .b,
-            .c {
-                stroke: #9414ea;
-                stroke-width: 2px;
-            }
-
-            .c {
-                fill: #fff;
-            }
-
-            .d {
+            .b {
                 fill: #9414ea;
                 font-size: 20px;
                 font-family: SegoeUI, Segoe UI;
             }
 
-            .e {
+            .c,
+            .d,
+            .e,
+            .h {
+                fill: none;
+            }
+
+            .c,
+            .d,
+            .e,
+            .f {
+                stroke: #9414ea;
+            }
+
+            .c {
                 stroke-dasharray: 4 4;
             }
 
-            .f {
+            .d {
                 stroke-dasharray: 4;
+            }
+
+            .e,
+            .f {
+                stroke-width: 2px;
+            }
+
+            .f {
+                fill: #fff;
             }
 
             .g {
@@ -58,57 +59,57 @@
             <rect class="g" width="799" height="450" rx="11" />
             <rect class="h" x="0.5" y="0.5" width="798" height="449" rx="10.5" />
         </g>
-        <g transform="translate(202 636)">
-            <path class="b"
-                d="M873.345,852.778,1013.74,728.754l76.371-123.072,94.68,160.941,99.828-72.562,61.719,34.693,80.553-123.072,71.933-71.752,102.818-59.368"
-                transform="translate(-864.936 -464.778)" />
-            <g class="c" transform="translate(138 254.344)">
-                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
-                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
-            </g>
-            <g class="c" transform="translate(0 377)">
-                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
-                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
-            </g>
-            <g class="c" transform="translate(214 133.823)">
-                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
-                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
-            </g>
-            <g class="c" transform="translate(409 220.633)">
-                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
-                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
-            </g>
-            <g class="c" transform="translate(469 250.279)">
-                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
-                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
-            </g>
-            <g class="c" transform="translate(554 127.715)">
-                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
-                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
-            </g>
-            <g class="c" transform="translate(627 57)">
-                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
-                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
-            </g>
-            <g class="c" transform="translate(726)">
-                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
-                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
-            </g>
-            <g class="c" transform="translate(311 288.012)">
-                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
-                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
-            </g>
-        </g>
-        <g transform="translate(0 67)"><text class="d" transform="translate(273 961)">
+        <g transform="translate(0 67)"><text class="b" transform="translate(247 964)">
                 <tspan x="0" y="0">ENTHUSIASM</tspan>
-            </text><text class="d" transform="translate(498 961)">
+            </text><text class="b" transform="translate(507 964)">
                 <tspan x="0" y="0">LEARNING</tspan>
-            </text><text class="d" transform="translate(771 961)">
+            </text><text class="b" transform="translate(771 964)">
                 <tspan x="0" y="0">GIVING BACK</tspan>
             </text>
-            <line class="e" x2="2" y2="401" transform="translate(425.5 573.5)" />
-            <line class="f" x2="2" y2="401" transform="translate(680.5 565.5)" />
-        </g><text class="d" transform="translate(202 668)">
+            <line class="c" x2="2" y2="401" transform="translate(425.5 573.5)" />
+            <line class="d" x2="2" y2="401" transform="translate(680.5 565.5)" />
+        </g>
+        <g transform="translate(202 636)">
+            <path class="e"
+                d="M873.345,852.778,1013.74,728.754l76.371-123.072,94.68,160.941,99.828-72.562,61.719,34.693,80.553-123.072,71.933-71.752,102.818-59.368"
+                transform="translate(-864.936 -464.778)" />
+            <g class="f" transform="translate(138 254.344)">
+                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
+                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
+            </g>
+            <g class="f" transform="translate(0 377)">
+                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
+                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
+            </g>
+            <g class="f" transform="translate(214 133.823)">
+                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
+                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
+            </g>
+            <g class="f" transform="translate(409 220.633)">
+                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
+                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
+            </g>
+            <g class="f" transform="translate(469 250.279)">
+                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
+                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
+            </g>
+            <g class="f" transform="translate(554 127.715)">
+                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
+                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
+            </g>
+            <g class="f" transform="translate(627 57)">
+                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
+                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
+            </g>
+            <g class="f" transform="translate(726)">
+                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
+                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
+            </g>
+            <g class="f" transform="translate(311 288.012)">
+                <circle class="g" cx="10.5" cy="10.5" r="10.5" />
+                <circle class="h" cx="10.5" cy="10.5" r="9.5" />
+            </g>
+        </g><text class="b" transform="translate(202 668)">
             <tspan x="0" y="0">IDEAS, PLANS, DONE...</tspan>
         </text>
     </g>

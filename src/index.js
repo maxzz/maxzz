@@ -4,40 +4,6 @@ global.fetch = require('node-fetch');
 const GraphQLClient = require('graphql-request').GraphQLClient;
 require('dotenv').config();
 
-const makeQuery = (afterCursor) => {
-    // https://developer.github.com/v4/object/repository/
-    let query = /* GraphQL */ `
-    query {
-        viewer {
-          repositories(first: 5, privacy: PUBLIC, after:${afterCursor ? `"${afterCursor}"` : 'null'}) {
-            pageInfo {
-              hasNextPage
-              endCursor
-            }
-            nodes {
-              name
-              url
-              createdAt
-              updatedAt
-              isFork
-              # description
-      
-              # releases(last:1) {
-              #   totalCount
-              #   nodes {
-              #     name
-              #     publishedAt
-              #     url
-              #   }
-              # }
-            }
-          }
-        }
-      }
-    `;
-    return query;
-};
-
 async function getRepos(token) {
     const endpoint = 'https://api.github.com/graphql';
 
@@ -64,6 +30,40 @@ async function getRepos(token) {
     }
 
     return repos;
+
+    function makeQuery(afterCursor) {
+        // https://developer.github.com/v4/object/repository/
+        let query = /* GraphQL */ `
+        query {
+            viewer {
+              repositories(first: 25, privacy: PUBLIC, after:${afterCursor ? `"${afterCursor}"` : 'null'}) {
+                pageInfo {
+                  hasNextPage
+                  endCursor
+                }
+                nodes {
+                  name
+                  url
+                  createdAt
+                  updatedAt
+                  isFork
+                  # description
+          
+                  # releases(last:1) {
+                  #   totalCount
+                  #   nodes {
+                  #     name
+                  #     publishedAt
+                  #     url
+                  #   }
+                  # }
+                }
+              }
+            }
+          }
+        `;
+        return query;
+    }
 }
 
 function replaceChunk(content, marker, chunk) {
@@ -72,37 +72,42 @@ function replaceChunk(content, marker, chunk) {
     return content.replace(re, newCnt);
 }
 
-function sortRepos(repoA, repoB) {
-    const a = repoA.updatedAt;
-    const b = repoB.updatedAt;
-    if (a < b) {
-        return -1;
-    }
-    if (a > b) {
-        return 1;
-    }
-    return 0;
-}
-
 function formatRepos(repos) {
     repos = repos.sort(sortRepos);
     repos = repos.reverse();
 
-    const lenRepo = 4; // 4 is length of 'Repo'.
-    let maxName = repos.reduce((acc, cur) => cur.name.length > acc ? cur.name.length : acc, lenRepo);
-    let padding = '&nbsp;'.repeat(maxName - lenRepo + 12); // for none monospace font
-
     let original = repos.filter(repo => !repo.isFork);
     let forked = repos.filter(repo => repo.isFork);
 
+    let padding = tablePadding();
+
     //
     let newCnt = `\n## Original repositories\n\n`;
-    newCnt += `Repo${padding} | created | updated\n-|-|-\n` + buildTable(original);
+    newCnt += `name${padding} | created | updated\n-|-|-\n` + buildTable(original);
     newCnt += `\n\n## Collaboration repositories\n\n`;
-    newCnt += `Repo${padding} | created | updated\n-|-|-\n` + buildTable(forked);
+    newCnt += `name${padding} | created | updated\n-|-|-\n` + buildTable(forked);
 
     return newCnt;
 
+    function tablePadding() {
+        const lenRepo = 4; // 4 is length of 'Repo'.
+        let maxName = repos.reduce((acc, cur) => cur.name.length > acc ? cur.name.length : acc, lenRepo);
+        let padding = '&nbsp;'.repeat(maxName - lenRepo + 20); // for none monospace font
+        return padding;
+    }
+
+    function sortRepos(repoA, repoB) {
+        const a = repoA.updatedAt;
+        const b = repoB.updatedAt;
+        if (a < b) {
+            return -1;
+        }
+        if (a > b) {
+            return 1;
+        }
+        return 0;
+    }
+    
     function fmtDate(dateString) {
         let s = new Intl.DateTimeFormat('en-US').format(new Date(dateString));
         return s.split('/').map(_ => zeros(_, 2)).join('.');
@@ -125,14 +130,17 @@ function formatRepos(repos) {
 async function main() {
     const MY_TOKEN = process.env.MAXZZ_TOKEN;
     const IS_LOCAL = process.env.IS_LOCAL;
+    const mainImg = IS_LOCAL
+        ? '![](src/assets/main.svg)'
+        : '![](https://raw.githubusercontent.com/maxzz/maxzz/master/src/assets/main.svg)';
 
+    // 1. Prepare the new content
     let repos = await getRepos(MY_TOKEN);
     let newCnt = formatRepos(repos);
 
-    // console.log('-----------------------------------------');
-    // console.log(JSON.stringify(repos, null, 4));
-
-    let cnt = fs.readFileSync('./README.md').toString();
+    // 2. Update README.md
+    let cnt = fs.readFileSync('./src/assets/README-template.md').toString();
+    cnt = cnt.replace(/\!\[\]\((\S*)src\/assets\/main\.svg\)/, mainImg);
     cnt = replaceChunk(cnt, 'recent_releases', newCnt);
     fs.writeFileSync('./README.md', cnt);
 }
