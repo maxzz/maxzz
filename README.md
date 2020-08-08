@@ -1,6 +1,6 @@
 ![Build README](https://github.com/maxzz/maxzz/workflows/Build%20README/badge.svg)
 
-## HI THERE ![](https://raw.githubusercontent.com/maxzz/maxzz/master/src/assets/main-hi.svg)
+## HI THERE
 
 ![](https://raw.githubusercontent.com/maxzz/maxzz/master/src/assets/main.svg)
 
@@ -39,4 +39,5 @@ name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [ThreeJSEditorExtension](https://github.com/maxzz/ThreeJSEditorExtension) | ```01.11.2016``` | ```01.11.2016```
 <!-- recent_releases ends -->
 
-![max](https://avatars.githubusercontent.com/maxzz?s=150&v=1)
+<!-- ![max](https://avatars.githubusercontent.com/maxzz?s=150&v=1) -->
+![](https://raw.githubusercontent.com/maxzz/maxzz/master/src/assets/main-hi.svg)
