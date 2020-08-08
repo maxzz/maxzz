@@ -1,6 +1,6 @@
 ![Build README](https://github.com/maxzz/maxzz/workflows/Build%20README/badge.svg)
 
-## HI THERE
+## HI THERE ![](https://raw.githubusercontent.com/maxzz/maxzz/master/src/assets/main-hi.svg)
 
 ![](https://raw.githubusercontent.com/maxzz/maxzz/master/src/assets/main.svg)
 
@@ -21,7 +21,7 @@ name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [giffy](https://github.com/maxzz/giffy) | ```03.15.2020``` | ```03.15.2020```
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020```
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020```
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```08.05.2020```
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```08.08.2020```
 
 ## Collaboration repositories
 
@@ -39,5 +39,4 @@ name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [ThreeJSEditorExtension](https://github.com/maxzz/ThreeJSEditorExtension) | ```01.11.2016``` | ```01.11.2016```
 <!-- recent_releases ends -->
 
-<!-- ![max](https://avatars.githubusercontent.com/maxzz?s=150&v=1) -->
-![](https://raw.githubusercontent.com/maxzz/maxzz/master/src/assets/main-hi.svg)
+![max](https://avatars.githubusercontent.com/maxzz?s=150&v=1)
