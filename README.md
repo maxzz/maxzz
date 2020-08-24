@@ -10,9 +10,9 @@
 
 name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated
 -|-|-
+[ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```08.24.2020```
 [netsh-rule](https://github.com/maxzz/netsh-rule) | ```07.13.2020``` | ```07.20.2020```
 [test-pm](https://github.com/maxzz/test-pm) | ```05.28.2020``` | ```06.21.2020```
-[ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```06.17.2020```
 [gluehtml](https://github.com/maxzz/gluehtml) | ```05.27.2020``` | ```05.30.2020```
 [ngon-gen](https://github.com/maxzz/ngon-gen) | ```05.12.2020``` | ```05.17.2020```
 [vue-evens-todos](https://github.com/maxzz/vue-evens-todos) | ```05.04.2020``` | ```05.04.2020```
