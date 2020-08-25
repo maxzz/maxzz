@@ -21,7 +21,7 @@ name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [giffy](https://github.com/maxzz/giffy) | ```03.15.2020``` | ```03.15.2020```
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020```
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020```
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```08.08.2020```
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```08.25.2020```
 
 ## Collaboration repositories
 
