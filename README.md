@@ -1,6 +1,7 @@
 ![Build README](https://github.com/maxzz/maxzz/workflows/Build%20README/badge.svg)
 
-## HI THERE ![](https://raw.githubusercontent.com/maxzz/maxzz/master/src/assets/main-hi.svg)
+<!-- ## HI THERE ![](https://raw.githubusercontent.com/maxzz/maxzz/master/src/assets/main-hi.svg) -->
+## HI THERE
 
 ![](https://raw.githubusercontent.com/maxzz/maxzz/master/src/assets/main.svg)
 
