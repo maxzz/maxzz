@@ -126,7 +126,7 @@
             <g class="f" transform="translate(627 57)">
                 <circle class="g" cx="10.5" cy="10.5" r="10.5" />
                 <circle class="h pulseAnim" cx="10.5" cy="10.5" r="9.5" />
-                <image href="maxz-128.png" transform="translate(2,2)" height="16" width="16"/>
+                <image href="https://raw.githubusercontent.com/maxzz/maxzz/master/src/assets/maxz-128.png" transform="translate(2,2)" height="16" width="16"/>
             </g>
             <g class="f" transform="translate(726)">
                 <circle class="g" cx="10.5" cy="10.5" r="10.5" />
