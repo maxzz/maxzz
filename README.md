@@ -10,6 +10,7 @@
 
 name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated
 -|-|-
+[rardir](https://github.com/maxzz/rardir) | ```09.16.2020``` | ```09.16.2020```
 [ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```09.04.2020```
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```09.03.2020```
 [giffy](https://github.com/maxzz/giffy) | ```03.15.2020``` | ```09.03.2020```
@@ -21,7 +22,7 @@ name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [test-graphql](https://github.com/maxzz/test-graphql) | ```03.16.2020``` | ```03.16.2020```
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020```
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020```
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```09.08.2020```
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```09.14.2020```
 
 ## Collaboration repositories
 
