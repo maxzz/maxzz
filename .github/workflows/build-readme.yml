@@ -35,6 +35,7 @@ jobs:
 
       - name: Commit and push if README changed
         run: |-
+          git pull
           git diff
           git config --global user.email "readme-bot@example.com"
           git config --global user.name "README-bot"
