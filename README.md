@@ -41,4 +41,5 @@ name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [ThreeJSEditorExtension](https://github.com/maxzz/ThreeJSEditorExtension) | ```01.11.2016``` | ```01.11.2016```
 <!-- recent_releases ends -->
 
-![max](https://avatars.githubusercontent.com/maxzz?s=150&v=1)
+<!-- ![max](https://avatars.githubusercontent.com/maxzz?s=150&v=1) -->
+![](https://raw.githubusercontent.com/maxzz/maxzz/master/src/assets/maxz-128.png)
