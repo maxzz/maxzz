@@ -11,7 +11,7 @@
 
 name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated
 -|-|-
-[test-pm-domain-logins](https://github.com/maxzz/test-pm-domain-logins) | ```10.22.2020``` | ```10.22.2020```
+[test-pm-domain-logins](https://github.com/maxzz/test-pm-domain-logins) | ```10.22.2020``` | ```10.24.2020```
 [gradients](https://github.com/maxzz/gradients) | ```10.19.2020``` | ```10.22.2020```
 [rardir](https://github.com/maxzz/rardir) | ```09.16.2020``` | ```09.18.2020```
 [netsh-rule](https://github.com/maxzz/netsh-rule) | ```07.13.2020``` | ```09.17.2020```
@@ -25,7 +25,7 @@ name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [test-graphql](https://github.com/maxzz/test-graphql) | ```03.16.2020``` | ```03.16.2020```
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020```
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020```
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```10.19.2020```
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```10.22.2020```
 
 ## Collaboration repositories
 
