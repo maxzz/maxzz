@@ -80,15 +80,16 @@ function formatRepos(repos) {
     let forked = repos.filter(repo => repo.isFork);
     let original = moveRepoReadmeToEnd(repos.filter(repo => !repo.isFork));
 
-    let padding = columnRepoPadding(); // Padding to keep width of column 'repo' the same for upper and lower tables.
+    let paddingColumnRepo = columnRepoPadding(); // Padding to keep width of column 'repo' the same for upper and lower tables.
+    let paddingColumnHome = columnHomePadding(); // Padding to keep width of column 'home' the same for upper and lower tables.
 
     // Original repos
     let newCnt = `\n## Original repositories\n\n`;
-    newCnt += `repo${padding} | created | updated | home\n-|-|-|-\n` + buildTable(original);
+    newCnt += `repo${paddingColumnRepo} | created | updated | home${paddingColumnHome}\n-|-|-|-\n` + buildTable(original);
 
     // Collaboration repos
     newCnt += `\n\n## Collaboration repositories\n\n`;
-    newCnt += `repo${padding} | created | updated | home\n-|-|-|-\n` + buildTable(forked);
+    newCnt += `repo${paddingColumnRepo} | created | updated | home${paddingColumnHome}\n-|-|-|-\n` + buildTable(forked);
 
     return newCnt;
 
@@ -113,8 +114,15 @@ function formatRepos(repos) {
     }
 
     function columnRepoPadding() {
-        const lenRepo = 4; // 4 is the length of word 'Repo'.
+        const lenRepo = 4; // 4 is the length of word 'Repo'
         let maxName = columnLength(repos, lenRepo, 'name');
+        let padding = '&nbsp;'.repeat(maxName - lenRepo + 20); // for none monospace font
+        return padding;
+    }
+
+    function columnHomePadding() {
+        const lenRepo = 4; // 4 is the length of word 'Home'
+        let maxName = 'npm packge'.length; // This is max lenght of column 'home' (to keep it simple).
         let padding = '&nbsp;'.repeat(maxName - lenRepo + 20); // for none monospace font
         return padding;
     }
