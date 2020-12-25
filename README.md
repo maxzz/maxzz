@@ -11,7 +11,8 @@
 
 name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated
 -|-|-
-[border-radius-generator](https://github.com/maxzz/border-radius-generator) | ```12.14.2020``` | ```12.18.2020```
+[svg-icons-font-sw](https://github.com/maxzz/svg-icons-font-sw) | ```12.25.2020``` | ```12.25.2020```
+[border-radius-generator](https://github.com/maxzz/border-radius-generator) | ```12.14.2020``` | ```12.24.2020```
 [simple-siriwave](https://github.com/maxzz/simple-siriwave) | ```12.16.2020``` | ```12.16.2020```
 [back-to-90s-html](https://github.com/maxzz/back-to-90s-html) | ```12.13.2020``` | ```12.13.2020```
 [color-names](https://github.com/maxzz/color-names) | ```12.02.2020``` | ```12.02.2020```
@@ -32,7 +33,7 @@ name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [test-graphql](https://github.com/maxzz/test-graphql) | ```03.16.2020``` | ```03.16.2020```
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020```
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020```
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```12.16.2020```
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```12.21.2020```
 
 ## Collaboration repositories
 
