@@ -80,7 +80,7 @@ function formatRepos(repos) {
     let forked = repos.filter(repo => repo.isFork);
     let original = moveRepoReadmeToEnd(repos.filter(repo => !repo.isFork));
 
-    let padding = tablePadding(); // Padding to keep width of upper and lower tables the same.
+    let padding = columnRepoPadding(); // Padding to keep width of column 'repo' the same for upper and lower tables.
 
     // Original repos
     let newCnt = `\n## Original repositories\n\n`;
@@ -107,9 +107,14 @@ function formatRepos(repos) {
         return original;
     }
 
-    function tablePadding() {
+    function columnLength(repos, minLength, column) {
+        let max = repos.reduce((acc, cur) => cur[column].length > acc ? cur[column].length : acc, minLength);
+        return max;
+    }
+
+    function columnRepoPadding() {
         const lenRepo = 4; // 4 is the length of word 'Repo'.
-        let maxName = repos.reduce((acc, cur) => cur.name.length > acc ? cur.name.length : acc, lenRepo);
+        let maxName = columnLength(repos, lenRepo, 'name');
         let padding = '&nbsp;'.repeat(maxName - lenRepo + 20); // for none monospace font
         return padding;
     }
@@ -131,11 +136,28 @@ function formatRepos(repos) {
         return s.split('/').map(_ => zeros(_, 2)).join('.');
     }
 
+    function repoDemoPage(repo) {
+        if (repo.homepageUrl) {
+            return `[demo](${repo.homepageUrl})`;
+        }
+        const meta = {
+            'gradients': 'study',
+            'rardir': 'npm packge',
+            'netsh-rule': 'npm packge',
+            'react-lifecycles': 'study',
+            'gluehtml': 'npm packge',
+            'test-graphql': 'study',
+            'maxzz-proxy': 'server',
+            'maxzz-python': 'study',
+            'maxzz': 'this page',
+        };
+        return meta[repo.name] || '';
+    }
+   
     function buildTable(repos) {
         return repos.map(repo => {
             const code = '```';
-            const demo = repo.homepageUrl ? `[demo](${repo.homepageUrl})` : '';
-            return `[${repo.name}](${repo.url}) | ${code}${fmtDate(repo.createdAt)}${code} | ${code}${fmtDate(repo.updatedAt)}${code} | ${demo}`;
+            return `[${repo.name}](${repo.url}) | ${code}${fmtDate(repo.createdAt)}${code} | ${code}${fmtDate(repo.updatedAt)}${code} | ${repoDemoPage(repo)}`;
         }).join('\n');
     }
 
