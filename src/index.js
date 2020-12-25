@@ -116,14 +116,14 @@ function formatRepos(repos) {
     function columnRepoPadding() {
         const lenRepo = 4; // 4 is the length of word 'Repo'
         let maxName = columnLength(repos, lenRepo, 'name');
-        let padding = '&nbsp;'.repeat(maxName - lenRepo + 20); // for none monospace font
+        let padding = '&nbsp;'.repeat(maxName - lenRepo + 20); // +20 for none monospace font
         return padding;
     }
 
     function columnHomePadding() {
         const lenRepo = 4; // 4 is the length of word 'Home'
         let maxName = 'npm packge'.length; // This is max lenght of column 'home' (to keep it simple).
-        let padding = '&nbsp;'.repeat(maxName - lenRepo + 20); // for none monospace font
+        let padding = '&nbsp;'.repeat(maxName - lenRepo + 5); // +5 for none monospace font
         return padding;
     }
 
@@ -153,11 +153,20 @@ function formatRepos(repos) {
             'rardir': 'npm packge',
             'netsh-rule': 'npm packge',
             'react-lifecycles': 'study',
+            'giffy': 'TODO',
             'gluehtml': 'npm packge',
             'test-graphql': 'study',
             'maxzz-proxy': 'server',
             'maxzz-python': 'study',
             'maxzz': 'this page',
+
+            'http-wrapper-example': 'utility',
+            'myFlix': 'TODO',
+            'VueSolitaire': 'TODO',
+            'har-extractor': 'npm packge',
+            'ace-builds': 'editor',
+            'tanx-1': 'TODO',
+            'ThreeJSEditorExtension': 'extension',
         };
         return meta[repo.name] || '';
     }
