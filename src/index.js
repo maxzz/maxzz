@@ -47,6 +47,7 @@ async function getRepos(token) {
                   createdAt
                   updatedAt
                   isFork
+                  homepageUrl
                   # description
           
                   # releases(last:1) {
@@ -77,20 +78,21 @@ function formatRepos(repos) {
     repos = repos.reverse();
 
     let forked = repos.filter(repo => repo.isFork);
-    let original = repos.filter(repo => !repo.isFork);
-    original = moveReadmesToEnd(original);
+    let original = moveRepoReadmeToEnd(repos.filter(repo => !repo.isFork));
 
-    let padding = tablePadding();
+    let padding = tablePadding(); // Padding to keep width of upper and lower tables the same.
 
-    //
+    // Original repos
     let newCnt = `\n## Original repositories\n\n`;
-    newCnt += `name${padding} | created | updated\n-|-|-\n` + buildTable(original);
+    newCnt += `repo${padding} | created | updated | home\n-|-|-|-\n` + buildTable(original);
+
+    // Collaboration repos
     newCnt += `\n\n## Collaboration repositories\n\n`;
-    newCnt += `name${padding} | created | updated\n-|-|-\n` + buildTable(forked);
+    newCnt += `repo${padding} | created | updated | home\n-|-|-|-\n` + buildTable(forked);
 
     return newCnt;
 
-    function moveReadmesToEnd(original) {
+    function moveRepoReadmeToEnd(original) {
         let readme = /^(?:maxzz)/i;
         let readmes = [];
         original = original.filter(repo => {
@@ -106,7 +108,7 @@ function formatRepos(repos) {
     }
 
     function tablePadding() {
-        const lenRepo = 4; // 4 is length of 'Repo'.
+        const lenRepo = 4; // 4 is the length of word 'Repo'.
         let maxName = repos.reduce((acc, cur) => cur.name.length > acc ? cur.name.length : acc, lenRepo);
         let padding = '&nbsp;'.repeat(maxName - lenRepo + 20); // for none monospace font
         return padding;
@@ -128,11 +130,12 @@ function formatRepos(repos) {
         let s = new Intl.DateTimeFormat('en-US').format(new Date(dateString));
         return s.split('/').map(_ => zeros(_, 2)).join('.');
     }
-   
+
     function buildTable(repos) {
         return repos.map(repo => {
             const code = '```';
-            return `[${repo.name}](${repo.url}) | ${code}${fmtDate(repo.createdAt)}${code} | ${code}${fmtDate(repo.updatedAt)}${code}`;
+            const demo = repo.homepageUrl ? `[demo](${repo.homepageUrl})` : '';
+            return `[${repo.name}](${repo.url}) | ${code}${fmtDate(repo.createdAt)}${code} | ${code}${fmtDate(repo.updatedAt)}${code} | ${demo}`;
         }).join('\n');
     }
 
