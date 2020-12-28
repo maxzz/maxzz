@@ -11,6 +11,7 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
+[svg-icons-vite](https://github.com/maxzz/svg-icons-vite) | ```12.27.2020``` | ```12.27.2020``` | [demo](https://maxzz.github.io/svg-icons-vite/)
 [ngon-gen](https://github.com/maxzz/ngon-gen) | ```05.12.2020``` | ```12.25.2020``` | [demo](https://maxzz.github.io/ngon-gen/)
 [test-pm](https://github.com/maxzz/test-pm) | ```05.28.2020``` | ```12.25.2020``` | [demo](https://maxzz.github.io/test-pm/)
 [ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```12.25.2020``` | [demo](https://maxzz.github.io/ch-spy/)
