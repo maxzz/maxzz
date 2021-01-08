@@ -146,7 +146,7 @@ function formatRepos(repos) {
 
     function repoDemoPage(repo) {
         if (repo.homepageUrl) {
-            return `[demo](${repo.homepageUrl})`;
+            return `[${repo.homepageUrl.test(/npmjs\.com/) ? 'npm' : 'demo'}](${repo.homepageUrl})`;
         }
         const meta = {
             'gradients': 'study',
