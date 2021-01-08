@@ -11,6 +11,7 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
+[work-weeks](https://github.com/maxzz/work-weeks) | ```01.08.2021``` | ```01.08.2021``` | [demo](https://www.npmjs.com/package/work-weeks)
 [svg-icons-vite](https://github.com/maxzz/svg-icons-vite) | ```12.27.2020``` | ```12.27.2020``` | [demo](https://maxzz.github.io/svg-icons-vite/)
 [ngon-gen](https://github.com/maxzz/ngon-gen) | ```05.12.2020``` | ```12.25.2020``` | [demo](https://maxzz.github.io/ngon-gen/)
 [test-pm](https://github.com/maxzz/test-pm) | ```05.28.2020``` | ```12.25.2020``` | [demo](https://maxzz.github.io/test-pm/)
@@ -34,7 +35,7 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [test-graphql](https://github.com/maxzz/test-graphql) | ```03.16.2020``` | ```03.16.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020``` | server
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```12.28.2020``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```01.04.2021``` | this page
 
 ## Collaboration repositories
 
