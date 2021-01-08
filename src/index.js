@@ -146,7 +146,7 @@ function formatRepos(repos) {
 
     function repoDemoPage(repo) {
         if (repo.homepageUrl) {
-            return `[${repo.homepageUrl.test(/npmjs\.com/) ? 'npm' : 'demo'}](${repo.homepageUrl})`;
+            return `[${/npmjs\.com/.test(repo.homepageUrl) ? 'npm' : 'demo'}](${repo.homepageUrl})`;
         }
         const meta = {
             'gradients': 'study',
@@ -211,4 +211,7 @@ async function main() {
     fs.writeFileSync('./README.md', cnt);
 }
 
-main().catch((error) => console.error(error));
+main().catch((error) => {
+    console.error(error);
+    return -1;
+});
