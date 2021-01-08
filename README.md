@@ -11,7 +11,10 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[work-weeks](https://github.com/maxzz/work-weeks) | ```01.08.2021``` | ```01.08.2021``` | [demo](https://www.npmjs.com/package/work-weeks)
+[gluehtml](https://github.com/maxzz/gluehtml) | ```05.27.2020``` | ```01.08.2021``` | [npm](https://www.npmjs.com/package/gluehtml)
+[netsh-rule](https://github.com/maxzz/netsh-rule) | ```07.13.2020``` | ```01.08.2021``` | [npm](https://www.npmjs.com/package/netsh-rule)
+[rardir](https://github.com/maxzz/rardir) | ```09.16.2020``` | ```01.08.2021``` | [npm](https://www.npmjs.com/package/rardir)
+[work-weeks](https://github.com/maxzz/work-weeks) | ```01.08.2021``` | ```01.08.2021``` | [npm](https://www.npmjs.com/package/work-weeks)
 [svg-icons-vite](https://github.com/maxzz/svg-icons-vite) | ```12.27.2020``` | ```12.27.2020``` | [demo](https://maxzz.github.io/svg-icons-vite/)
 [ngon-gen](https://github.com/maxzz/ngon-gen) | ```05.12.2020``` | ```12.25.2020``` | [demo](https://maxzz.github.io/ngon-gen/)
 [test-pm](https://github.com/maxzz/test-pm) | ```05.28.2020``` | ```12.25.2020``` | [demo](https://maxzz.github.io/test-pm/)
@@ -26,28 +29,25 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [svg-bkg-stripes](https://github.com/maxzz/svg-bkg-stripes) | ```11.02.2020``` | ```11.11.2020``` | [demo](https://maxzz.github.io/svg-bkg-stripes/)
 [test-pm-domain-logins](https://github.com/maxzz/test-pm-domain-logins) | ```10.22.2020``` | ```11.07.2020``` | [demo](https://maxzz.github.io/test-pm-domain-logins/)
 [gradients](https://github.com/maxzz/gradients) | ```10.19.2020``` | ```10.22.2020``` | study
-[rardir](https://github.com/maxzz/rardir) | ```09.16.2020``` | ```09.18.2020``` | npm packge
-[netsh-rule](https://github.com/maxzz/netsh-rule) | ```07.13.2020``` | ```09.17.2020``` | npm packge
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```09.03.2020``` | study
 [giffy](https://github.com/maxzz/giffy) | ```03.15.2020``` | ```09.03.2020``` | TODO
-[gluehtml](https://github.com/maxzz/gluehtml) | ```05.27.2020``` | ```09.03.2020``` | npm packge
 [vue-evens-todos](https://github.com/maxzz/vue-evens-todos) | ```05.04.2020``` | ```05.04.2020``` | [demo](https://codesandbox.io/s/github/maxzz/vue-evens-todos)
 [test-graphql](https://github.com/maxzz/test-graphql) | ```03.16.2020``` | ```03.16.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020``` | server
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```01.04.2021``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```01.08.2021``` | this page
 
 ## Collaboration repositories
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
+[har-extractor](https://github.com/maxzz/har-extractor) | ```02.20.2019``` | ```01.08.2021``` | [npm](https://www.npmjs.com/package/har-extractor)
 [http-wrapper-example](https://github.com/maxzz/http-wrapper-example) | ```05.26.2020``` | ```05.26.2020``` | utility
 [css-effects-snippets](https://github.com/maxzz/css-effects-snippets) | ```05.19.2020``` | ```05.19.2020``` | [demo](https://emilkowalski.github.io/css-effects-snippets/)
 [mande](https://github.com/maxzz/mande) | ```05.19.2020``` | ```05.19.2020``` | [demo](https://posva.net/mande/)
 [json-ts](https://github.com/maxzz/json-ts) | ```05.17.2020``` | ```05.17.2020``` | [demo](https://shakyshane.github.io/json-ts/)
 [myFlix](https://github.com/maxzz/myFlix) | ```03.18.2020``` | ```03.27.2020``` | TODO
 [VueSolitaire](https://github.com/maxzz/VueSolitaire) | ```03.21.2020``` | ```03.21.2020``` | TODO
-[har-extractor](https://github.com/maxzz/har-extractor) | ```02.20.2019``` | ```02.20.2019``` | npm packge
 [ace-builds](https://github.com/maxzz/ace-builds) | ```05.18.2017``` | ```05.18.2017``` | editor
 [tanx-1](https://github.com/maxzz/tanx-1) | ```01.11.2016``` | ```01.11.2016``` | TODO
 [ThreeJSEditorExtension](https://github.com/maxzz/ThreeJSEditorExtension) | ```01.11.2016``` | ```01.11.2016``` | extension
