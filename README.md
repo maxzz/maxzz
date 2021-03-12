@@ -11,6 +11,8 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
+[revue-playground](https://github.com/maxzz/revue-playground) | ```03.12.2021``` | ```03.12.2021``` | [demo](https://maxzz.github.io/revue-playground/)
+[react-scrolling-carousel](https://github.com/maxzz/react-scrolling-carousel) | ```03.12.2021``` | ```03.12.2021``` | [demo](https://maxzz.github.io/react-scrolling-carousel/)
 [ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```02.20.2021``` | [demo](https://maxzz.github.io/ch-spy/)
 [gluehtml](https://github.com/maxzz/gluehtml) | ```05.27.2020``` | ```01.08.2021``` | [npm](https://www.npmjs.com/package/gluehtml)
 [netsh-rule](https://github.com/maxzz/netsh-rule) | ```07.13.2020``` | ```01.08.2021``` | [npm](https://www.npmjs.com/package/netsh-rule)
@@ -35,7 +37,7 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [test-graphql](https://github.com/maxzz/test-graphql) | ```03.16.2020``` | ```03.16.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020``` | server
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```03.01.2021``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```03.08.2021``` | this page
 
 ## Collaboration repositories
 
