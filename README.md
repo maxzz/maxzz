@@ -11,7 +11,7 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[react-spring-interpolation](https://github.com/maxzz/react-spring-interpolation) | ```03.15.2021``` | ```03.15.2021``` | [demo](https://maxzz.github.io/react-spring-interpolation/)
+[react-spring-interpolation](https://github.com/maxzz/react-spring-interpolation) | ```03.15.2021``` | ```03.19.2021``` | [demo](https://maxzz.github.io/react-spring-interpolation/)
 [vanilla-folding-carousel](https://github.com/maxzz/vanilla-folding-carousel) | ```03.14.2021``` | ```03.14.2021``` | [demo](https://maxzz.github.io/vanilla-folding-carousel/)
 [react-delay-unmount](https://github.com/maxzz/react-delay-unmount) | ```03.13.2021``` | ```03.13.2021``` | [demo](https://maxzz.github.io/react-delay-unmount/)
 [revue-playground](https://github.com/maxzz/revue-playground) | ```03.12.2021``` | ```03.12.2021``` | [demo](https://maxzz.github.io/revue-playground/)
@@ -40,7 +40,7 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [test-graphql](https://github.com/maxzz/test-graphql) | ```03.16.2020``` | ```03.16.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020``` | server
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```03.14.2021``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```03.15.2021``` | this page
 
 ## Collaboration repositories
 
