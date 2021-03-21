@@ -11,6 +11,7 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
+[animated-sidebar](https://github.com/maxzz/animated-sidebar) | ```03.21.2021``` | ```03.21.2021``` | [demo](https://maxzz.github.io/animated-sidebar)
 [svg-gradients](https://github.com/maxzz/svg-gradients) | ```10.19.2020``` | ```03.21.2021``` | [demo](https://maxzz.github.io/svg-gradients)
 [revue-playground](https://github.com/maxzz/revue-playground) | ```03.12.2021``` | ```03.21.2021``` | [demo](https://maxzz.github.io/revue-playground/)
 [ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```03.21.2021``` | [demo](https://maxzz.github.io/ch-spy/)
