@@ -11,7 +11,9 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```03.28.2021``` | [demo](https://maxzz.github.io/ch-spy/)
+[test-pm-second](https://github.com/maxzz/test-pm-second) | ```03.30.2021``` | ```03.30.2021``` | [demo](https://maxzz.github.io/test-pm-second/)
+[test-pm](https://github.com/maxzz/test-pm) | ```05.28.2020``` | ```03.30.2021``` | [demo](https://maxzz.github.io/test-pm/)
+[ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```03.29.2021``` | [demo](https://maxzz.github.io/ch-spy/)
 [work-weeks](https://github.com/maxzz/work-weeks) | ```01.08.2021``` | ```03.27.2021``` | [npm](https://www.npmjs.com/package/work-weeks)
 [ngon-gen](https://github.com/maxzz/ngon-gen) | ```05.12.2020``` | ```03.22.2021``` | [demo](https://maxzz.github.io/ngon-gen/)
 [animated-sidebar](https://github.com/maxzz/animated-sidebar) | ```03.21.2021``` | ```03.21.2021``` | [demo](https://maxzz.github.io/animated-sidebar)
@@ -28,7 +30,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [netsh-rule](https://github.com/maxzz/netsh-rule) | ```07.13.2020``` | ```01.08.2021``` | [npm](https://www.npmjs.com/package/netsh-rule)
 [rardir](https://github.com/maxzz/rardir) | ```09.16.2020``` | ```01.08.2021``` | [npm](https://www.npmjs.com/package/rardir)
 [svg-icons-vite](https://github.com/maxzz/svg-icons-vite) | ```12.27.2020``` | ```12.27.2020``` | [demo](https://maxzz.github.io/svg-icons-vite/)
-[test-pm](https://github.com/maxzz/test-pm) | ```05.28.2020``` | ```12.25.2020``` | [demo](https://maxzz.github.io/test-pm/)
 [svg-icons-font-sw](https://github.com/maxzz/svg-icons-font-sw) | ```12.25.2020``` | ```12.25.2020``` | [demo](https://maxzz.github.io/svg-icons-font-sw/)
 [border-radius-generator](https://github.com/maxzz/border-radius-generator) | ```12.14.2020``` | ```12.24.2020``` | [demo](https://maxzz.github.io/border-radius-generator/)
 [simple-siriwave](https://github.com/maxzz/simple-siriwave) | ```12.16.2020``` | ```12.16.2020``` | [demo](https://maxzz.github.io/simple-siriwave/)
@@ -43,7 +44,7 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [vue-evens-todos](https://github.com/maxzz/vue-evens-todos) | ```05.04.2020``` | ```05.04.2020``` | [demo](https://codesandbox.io/s/github/maxzz/vue-evens-todos)
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020``` | server
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```03.27.2021``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```03.29.2021``` | this page
 
 ## Collaboration repositories
 
