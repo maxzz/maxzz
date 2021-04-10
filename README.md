@@ -11,6 +11,7 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
+[blooming-gen](https://github.com/maxzz/blooming-gen) | ```04.08.2021``` | ```04.10.2021``` | [demo](https://maxzz.github.io/blooming-gen)
 [react-focus-within-menus](https://github.com/maxzz/react-focus-within-menus) | ```03.20.2021``` | ```04.01.2021``` | [demo](https://maxzz.github.io/react-focus-within-menus/)
 [test-pm-second](https://github.com/maxzz/test-pm-second) | ```03.30.2021``` | ```03.31.2021``` | [demo](https://maxzz.github.io/test-pm-second/)
 [test-pm](https://github.com/maxzz/test-pm) | ```05.28.2020``` | ```03.31.2021``` | [demo](https://maxzz.github.io/test-pm/)
@@ -44,7 +45,7 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [vue-evens-todos](https://github.com/maxzz/vue-evens-todos) | ```05.04.2020``` | ```05.04.2020``` | [demo](https://codesandbox.io/s/github/maxzz/vue-evens-todos)
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020``` | server
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```04.01.2021``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```04.05.2021``` | this page
 
 ## Collaboration repositories
 
