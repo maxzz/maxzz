@@ -11,6 +11,9 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
+[rarsrt](https://github.com/maxzz/rarsrt) | ```04.14.2021``` | ```04.14.2021``` | [npm](https://www.npmjs.com/package/rarsrt)
+[rardir](https://github.com/maxzz/rardir) | ```09.16.2020``` | ```04.13.2021``` | [npm](https://www.npmjs.com/package/rardir)
+[back-to-90s-html](https://github.com/maxzz/back-to-90s-html) | ```12.13.2020``` | ```04.12.2021``` | [demo](https://maxzz.github.io/back-to-90s-html/)
 [ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```04.12.2021``` | [demo](https://maxzz.github.io/ch-spy/)
 [blooming-gen](https://github.com/maxzz/blooming-gen) | ```04.08.2021``` | ```04.11.2021``` | [demo](https://maxzz.github.io/blooming-gen)
 [react-focus-within-menus](https://github.com/maxzz/react-focus-within-menus) | ```03.20.2021``` | ```04.01.2021``` | [demo](https://maxzz.github.io/react-focus-within-menus/)
@@ -29,12 +32,10 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-scrolling-carousel](https://github.com/maxzz/react-scrolling-carousel) | ```03.12.2021``` | ```03.12.2021``` | [demo](https://maxzz.github.io/react-scrolling-carousel/)
 [gluehtml](https://github.com/maxzz/gluehtml) | ```05.27.2020``` | ```01.08.2021``` | [npm](https://www.npmjs.com/package/gluehtml)
 [netsh-rule](https://github.com/maxzz/netsh-rule) | ```07.13.2020``` | ```01.08.2021``` | [npm](https://www.npmjs.com/package/netsh-rule)
-[rardir](https://github.com/maxzz/rardir) | ```09.16.2020``` | ```01.08.2021``` | [npm](https://www.npmjs.com/package/rardir)
 [svg-icons-vite](https://github.com/maxzz/svg-icons-vite) | ```12.27.2020``` | ```12.27.2020``` | [demo](https://maxzz.github.io/svg-icons-vite/)
 [svg-icons-font-sw](https://github.com/maxzz/svg-icons-font-sw) | ```12.25.2020``` | ```12.25.2020``` | [demo](https://maxzz.github.io/svg-icons-font-sw/)
 [border-radius-generator](https://github.com/maxzz/border-radius-generator) | ```12.14.2020``` | ```12.24.2020``` | [demo](https://maxzz.github.io/border-radius-generator/)
 [simple-siriwave](https://github.com/maxzz/simple-siriwave) | ```12.16.2020``` | ```12.16.2020``` | [demo](https://maxzz.github.io/simple-siriwave/)
-[back-to-90s-html](https://github.com/maxzz/back-to-90s-html) | ```12.13.2020``` | ```12.13.2020``` | [demo](https://maxzz.github.io/back-to-90s-html/)
 [color-names](https://github.com/maxzz/color-names) | ```12.02.2020``` | ```12.02.2020``` | [demo](https://maxzz.github.io/color-names/)
 [react-admin-address-book](https://github.com/maxzz/react-admin-address-book) | ```11.28.2020``` | ```11.30.2020``` | [demo](https://maxzz.github.io/react-admin-address-book/)
 [auto-dat-gui](https://github.com/maxzz/auto-dat-gui) | ```11.11.2020``` | ```11.18.2020``` | [demo](https://maxzz.github.io/auto-dat-gui/)
@@ -45,7 +46,7 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [vue-evens-todos](https://github.com/maxzz/vue-evens-todos) | ```05.04.2020``` | ```05.04.2020``` | [demo](https://codesandbox.io/s/github/maxzz/vue-evens-todos)
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020``` | server
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```04.10.2021``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```04.12.2021``` | this page
 
 ## Collaboration repositories
 
