@@ -11,14 +11,16 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[rarsrt](https://github.com/maxzz/rarsrt) | ```04.14.2021``` | ```04.14.2021``` | [npm](https://www.npmjs.com/package/rarsrt)
+[test-pm](https://github.com/maxzz/test-pm) | ```05.28.2020``` | ```04.19.2021``` | [demo](https://maxzz.github.io/test-pm/)
+[test-pm-second](https://github.com/maxzz/test-pm-second) | ```03.30.2021``` | ```04.19.2021``` | [demo](https://maxzz.github.io/test-pm-second/)
+[giffy](https://github.com/maxzz/giffy) | ```03.15.2020``` | ```04.18.2021``` | [demo](https://maxzz.github.io/giffy)
+[vue-evens-todos](https://github.com/maxzz/vue-evens-todos) | ```05.04.2020``` | ```04.17.2021``` | [demo](https://codesandbox.io/s/github/maxzz/vue-evens-todos)
+[back-to-90s-html](https://github.com/maxzz/back-to-90s-html) | ```12.13.2020``` | ```04.16.2021``` | [demo](https://maxzz.github.io/back-to-90s-html/)
+[rarsrt](https://github.com/maxzz/rarsrt) | ```04.14.2021``` | ```04.15.2021``` | [npm](https://www.npmjs.com/package/rarsrt)
 [rardir](https://github.com/maxzz/rardir) | ```09.16.2020``` | ```04.13.2021``` | [npm](https://www.npmjs.com/package/rardir)
-[back-to-90s-html](https://github.com/maxzz/back-to-90s-html) | ```12.13.2020``` | ```04.12.2021``` | [demo](https://maxzz.github.io/back-to-90s-html/)
 [ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```04.12.2021``` | [demo](https://maxzz.github.io/ch-spy/)
 [blooming-gen](https://github.com/maxzz/blooming-gen) | ```04.08.2021``` | ```04.11.2021``` | [demo](https://maxzz.github.io/blooming-gen)
 [react-focus-within-menus](https://github.com/maxzz/react-focus-within-menus) | ```03.20.2021``` | ```04.01.2021``` | [demo](https://maxzz.github.io/react-focus-within-menus/)
-[test-pm-second](https://github.com/maxzz/test-pm-second) | ```03.30.2021``` | ```03.31.2021``` | [demo](https://maxzz.github.io/test-pm-second/)
-[test-pm](https://github.com/maxzz/test-pm) | ```05.28.2020``` | ```03.31.2021``` | [demo](https://maxzz.github.io/test-pm/)
 [work-weeks](https://github.com/maxzz/work-weeks) | ```01.08.2021``` | ```03.27.2021``` | [npm](https://www.npmjs.com/package/work-weeks)
 [ngon-gen](https://github.com/maxzz/ngon-gen) | ```05.12.2020``` | ```03.22.2021``` | [demo](https://maxzz.github.io/ngon-gen/)
 [animated-sidebar](https://github.com/maxzz/animated-sidebar) | ```03.21.2021``` | ```03.21.2021``` | [demo](https://maxzz.github.io/animated-sidebar)
@@ -42,11 +44,9 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [svg-bkg-stripes](https://github.com/maxzz/svg-bkg-stripes) | ```11.02.2020``` | ```11.11.2020``` | [demo](https://maxzz.github.io/svg-bkg-stripes/)
 [test-pm-domain-logins](https://github.com/maxzz/test-pm-domain-logins) | ```10.22.2020``` | ```11.07.2020``` | [demo](https://maxzz.github.io/test-pm-domain-logins/)
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```09.03.2020``` | study
-[giffy](https://github.com/maxzz/giffy) | ```03.15.2020``` | ```09.03.2020``` | TODO
-[vue-evens-todos](https://github.com/maxzz/vue-evens-todos) | ```05.04.2020``` | ```05.04.2020``` | [demo](https://codesandbox.io/s/github/maxzz/vue-evens-todos)
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020``` | server
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```04.12.2021``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```04.14.2021``` | this page
 
 ## Collaboration repositories
 
