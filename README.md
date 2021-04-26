@@ -11,9 +11,11 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
+[quadratic-curves](https://github.com/maxzz/quadratic-curves) | ```04.23.2021``` | ```04.25.2021``` | 
+[server-ocr](https://github.com/maxzz/server-ocr) | ```04.22.2021``` | ```04.22.2021``` | 
+[giffy](https://github.com/maxzz/giffy) | ```03.15.2020``` | ```04.20.2021``` | [demo](https://maxzz.github.io/giffy)
+[test-pm-second](https://github.com/maxzz/test-pm-second) | ```03.30.2021``` | ```04.20.2021``` | [demo](https://maxzz.github.io/test-pm-second/)
 [test-pm](https://github.com/maxzz/test-pm) | ```05.28.2020``` | ```04.19.2021``` | [demo](https://maxzz.github.io/test-pm/)
-[test-pm-second](https://github.com/maxzz/test-pm-second) | ```03.30.2021``` | ```04.19.2021``` | [demo](https://maxzz.github.io/test-pm-second/)
-[giffy](https://github.com/maxzz/giffy) | ```03.15.2020``` | ```04.18.2021``` | [demo](https://maxzz.github.io/giffy)
 [vue-evens-todos](https://github.com/maxzz/vue-evens-todos) | ```05.04.2020``` | ```04.17.2021``` | [demo](https://codesandbox.io/s/github/maxzz/vue-evens-todos)
 [back-to-90s-html](https://github.com/maxzz/back-to-90s-html) | ```12.13.2020``` | ```04.16.2021``` | [demo](https://maxzz.github.io/back-to-90s-html/)
 [rarsrt](https://github.com/maxzz/rarsrt) | ```04.14.2021``` | ```04.15.2021``` | [npm](https://www.npmjs.com/package/rarsrt)
@@ -46,7 +48,7 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```09.03.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020``` | server
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```04.14.2021``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```04.19.2021``` | this page
 
 ## Collaboration repositories
 
