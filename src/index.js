@@ -149,6 +149,9 @@ function formatRepos(repos) {
             return `[${/npmjs\.com/.test(repo.homepageUrl) ? 'npm' : 'demo'}](${repo.homepageUrl})`;
         }
         const meta = {
+            'spawn-loading-test': 'tests',
+            'quadratic-curves': 'WIP',
+            'server-ocr': 'study',
             'gradients': 'study',
             'rardir': 'npm packge',
             'netsh-rule': 'npm packge',
@@ -168,7 +171,7 @@ function formatRepos(repos) {
             'tanx-1': 'TODO',
             'ThreeJSEditorExtension': 'extension',
         };
-        return meta[repo.name] || '';
+        return meta[repo.name] || 'WIP';
     }
    
     function buildTable(repos) {
