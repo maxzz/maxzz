@@ -11,10 +11,10 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[spawn-loading-test](https://github.com/maxzz/spawn-loading-test) | ```04.29.2021``` | ```04.29.2021``` | 
+[spawn-loading-test](https://github.com/maxzz/spawn-loading-test) | ```04.29.2021``` | ```04.30.2021``` | tests
+[server-ocr](https://github.com/maxzz/server-ocr) | ```04.22.2021``` | ```04.29.2021``` | study
 [rarsrt](https://github.com/maxzz/rarsrt) | ```04.14.2021``` | ```04.28.2021``` | [npm](https://www.npmjs.com/package/rarsrt)
-[quadratic-curves](https://github.com/maxzz/quadratic-curves) | ```04.23.2021``` | ```04.27.2021``` | 
-[server-ocr](https://github.com/maxzz/server-ocr) | ```04.22.2021``` | ```04.22.2021``` | 
+[quadratic-curves](https://github.com/maxzz/quadratic-curves) | ```04.23.2021``` | ```04.27.2021``` | WIP
 [giffy](https://github.com/maxzz/giffy) | ```03.15.2020``` | ```04.20.2021``` | [demo](https://maxzz.github.io/giffy)
 [test-pm-second](https://github.com/maxzz/test-pm-second) | ```03.30.2021``` | ```04.20.2021``` | [demo](https://maxzz.github.io/test-pm-second/)
 [test-pm](https://github.com/maxzz/test-pm) | ```05.28.2020``` | ```04.19.2021``` | [demo](https://maxzz.github.io/test-pm/)
@@ -49,14 +49,14 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```09.03.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020``` | server
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```04.26.2021``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```04.30.2021``` | this page
 
 ## Collaboration repositories
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
 [js.org](https://github.com/maxzz/js.org) | ```03.14.2021``` | ```03.14.2021``` | [demo](https://js.org)
-[js-file-downloader](https://github.com/maxzz/js-file-downloader) | ```02.20.2021``` | ```02.20.2021``` | 
+[js-file-downloader](https://github.com/maxzz/js-file-downloader) | ```02.20.2021``` | ```02.20.2021``` | WIP
 [har-extractor](https://github.com/maxzz/har-extractor) | ```02.20.2019``` | ```01.08.2021``` | [npm](https://www.npmjs.com/package/har-extractor)
 [http-wrapper-example](https://github.com/maxzz/http-wrapper-example) | ```05.26.2020``` | ```05.26.2020``` | utility
 [css-effects-snippets](https://github.com/maxzz/css-effects-snippets) | ```05.19.2020``` | ```05.19.2020``` | [demo](https://emilkowalski.github.io/css-effects-snippets/)
