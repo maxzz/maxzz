@@ -149,6 +149,7 @@ function formatRepos(repos) {
             return `[${/npmjs\.com/.test(repo.homepageUrl) ? 'npm' : 'demo'}](${repo.homepageUrl})`;
         }
         const meta = {
+            'ch-spy-ext': 'extension',
             'spawn-loading-test': 'tests',
             'quadratic-curves': 'WIP',
             'server-ocr': 'study',
