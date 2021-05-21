@@ -11,13 +11,13 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
+[css-3d](https://github.com/maxzz/css-3d) | ```05.06.2021``` | ```05.21.2021``` | [demo](https://maxzz.github.io/css-3d)
+[rarsrt](https://github.com/maxzz/rarsrt) | ```04.14.2021``` | ```05.19.2021``` | [npm](https://www.npmjs.com/package/rarsrt)
 [ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```05.16.2021``` | [demo](https://maxzz.github.io/ch-spy/)
-[css-3d](https://github.com/maxzz/css-3d) | ```05.06.2021``` | ```05.15.2021``` | [demo](https://maxzz.github.io/css-3d)
 [ch-spy-ext](https://github.com/maxzz/ch-spy-ext) | ```05.08.2021``` | ```05.08.2021``` | extension
 [volume-illusion](https://github.com/maxzz/volume-illusion) | ```05.04.2021``` | ```05.06.2021``` | [demo](https://maxzz.github.io/volume-illusion)
 [spawn-loading-test](https://github.com/maxzz/spawn-loading-test) | ```04.29.2021``` | ```04.30.2021``` | tests
 [server-ocr](https://github.com/maxzz/server-ocr) | ```04.22.2021``` | ```04.29.2021``` | study
-[rarsrt](https://github.com/maxzz/rarsrt) | ```04.14.2021``` | ```04.28.2021``` | [npm](https://www.npmjs.com/package/rarsrt)
 [quadratic-curves](https://github.com/maxzz/quadratic-curves) | ```04.23.2021``` | ```04.27.2021``` | WIP
 [giffy](https://github.com/maxzz/giffy) | ```03.15.2020``` | ```04.20.2021``` | [demo](https://maxzz.github.io/giffy)
 [test-pm-second](https://github.com/maxzz/test-pm-second) | ```03.30.2021``` | ```04.20.2021``` | [demo](https://maxzz.github.io/test-pm-second/)
@@ -52,7 +52,7 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```09.03.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020``` | server
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```05.10.2021``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```05.17.2021``` | this page
 
 ## Collaboration repositories
 
