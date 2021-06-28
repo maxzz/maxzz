@@ -11,9 +11,9 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[noise-gen](https://github.com/maxzz/noise-gen) | ```05.26.2021``` | ```06.20.2021``` | [demo](https://maxzz.github.io/noise-gen/)
+[noise-gen](https://github.com/maxzz/noise-gen) | ```05.26.2021``` | ```06.27.2021``` | [demo](https://maxzz.github.io/noise-gen/)
+[css-3d](https://github.com/maxzz/css-3d) | ```05.06.2021``` | ```06.26.2021``` | [demo](https://maxzz.github.io/css-3d)
 [site-egghead.io-ctx](https://github.com/maxzz/site-egghead.io-ctx) | ```06.19.2021``` | ```06.19.2021``` | WIP
-[css-3d](https://github.com/maxzz/css-3d) | ```05.06.2021``` | ```06.13.2021``` | [demo](https://maxzz.github.io/css-3d)
 [ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```05.24.2021``` | [demo](https://maxzz.github.io/ch-spy/)
 [rarsrt](https://github.com/maxzz/rarsrt) | ```04.14.2021``` | ```05.19.2021``` | [npm](https://www.npmjs.com/package/rarsrt)
 [ch-spy-ext](https://github.com/maxzz/ch-spy-ext) | ```05.08.2021``` | ```05.08.2021``` | extension
@@ -54,7 +54,7 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```09.03.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020``` | server
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```06.18.2021``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```06.21.2021``` | this page
 
 ## Collaboration repositories
 
