@@ -11,8 +11,8 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[red3-path](https://github.com/maxzz/red3-path) | ```08.23.2021``` | ```08.29.2021``` | [demo](https://maxzz.github.io/red3-path/)
-[red3-voronoi](https://github.com/maxzz/red3-voronoi) | ```08.23.2021``` | ```08.23.2021``` | [demo](https://maxzz.github.io/red3-voronoi/)
+[red3-path](https://github.com/maxzz/red3-path) | ```08.23.2021``` | ```09.05.2021``` | [demo](https://maxzz.github.io/red3-path/)
+[red3-voronoi](https://github.com/maxzz/red3-voronoi) | ```08.23.2021``` | ```09.04.2021``` | [demo](https://maxzz.github.io/red3-voronoi/)
 [red3-curves](https://github.com/maxzz/red3-curves) | ```08.08.2021``` | ```08.20.2021``` | [demo](https://maxzz.github.io/red3-curves)
 [noise-gen](https://github.com/maxzz/noise-gen) | ```05.26.2021``` | ```08.12.2021``` | [demo](https://maxzz.github.io/noise-gen/)
 [react-d3](https://github.com/maxzz/react-d3) | ```07.11.2021``` | ```08.08.2021``` | [demo](https://maxzz.github.io/react-d3)
@@ -59,7 +59,7 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```09.03.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020``` | server
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```08.27.2021``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```08.30.2021``` | this page
 
 ## Collaboration repositories
 
