@@ -11,7 +11,8 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```10.03.2021``` | WIP
+[auto-dat-gui](https://github.com/maxzz/auto-dat-gui) | ```11.11.2020``` | ```10.10.2021``` | [demo](https://maxzz.github.io/auto-dat-gui/)
+[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```10.09.2021``` | WIP
 [react-sm](https://github.com/maxzz/react-sm) | ```07.07.2021``` | ```09.18.2021``` | [demo](https://maxzz.github.io/react-sm)
 [red3-path](https://github.com/maxzz/red3-path) | ```08.23.2021``` | ```09.09.2021``` | [demo](https://maxzz.github.io/red3-path/)
 [red3-voronoi](https://github.com/maxzz/red3-voronoi) | ```08.23.2021``` | ```09.04.2021``` | [demo](https://maxzz.github.io/red3-voronoi/)
@@ -54,13 +55,12 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [simple-siriwave](https://github.com/maxzz/simple-siriwave) | ```12.16.2020``` | ```12.16.2020``` | [demo](https://maxzz.github.io/simple-siriwave/)
 [color-names](https://github.com/maxzz/color-names) | ```12.02.2020``` | ```12.02.2020``` | [demo](https://maxzz.github.io/color-names/)
 [react-admin-address-book](https://github.com/maxzz/react-admin-address-book) | ```11.28.2020``` | ```11.30.2020``` | [demo](https://maxzz.github.io/react-admin-address-book/)
-[auto-dat-gui](https://github.com/maxzz/auto-dat-gui) | ```11.11.2020``` | ```11.18.2020``` | [demo](https://maxzz.github.io/auto-dat-gui/)
 [svg-bkg-stripes](https://github.com/maxzz/svg-bkg-stripes) | ```11.02.2020``` | ```11.11.2020``` | [demo](https://maxzz.github.io/svg-bkg-stripes/)
 [test-pm-domain-logins](https://github.com/maxzz/test-pm-domain-logins) | ```10.22.2020``` | ```11.07.2020``` | [demo](https://maxzz.github.io/test-pm-domain-logins/)
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```09.03.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020``` | server
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```09.27.2021``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```10.04.2021``` | this page
 
 ## Collaboration repositories
 
