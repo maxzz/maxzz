@@ -11,7 +11,7 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```10.17.2021``` | WIP
+[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```10.25.2021``` | WIP
 [real-time-resize-rcv](https://github.com/maxzz/real-time-resize-rcv) | ```10.16.2021``` | ```10.16.2021``` | [demo](https://codesandbox.io/s/github/maxzz/real-time-resize-rcv)
 [auto-dat-gui](https://github.com/maxzz/auto-dat-gui) | ```11.11.2020``` | ```10.10.2021``` | [demo](https://maxzz.github.io/auto-dat-gui/)
 [react-sm](https://github.com/maxzz/react-sm) | ```07.07.2021``` | ```09.18.2021``` | [demo](https://maxzz.github.io/react-sm)
@@ -61,7 +61,8 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```09.03.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020``` | server
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```10.16.2021``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```10.18.2021``` | this page
+[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```10.20.2021``` | [demo](https://maxzz.github.io)
 
 ## Collaboration repositories
 
