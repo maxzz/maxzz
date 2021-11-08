@@ -11,7 +11,9 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```10.31.2021``` | WIP
+[css-3d](https://github.com/maxzz/css-3d) | ```05.06.2021``` | ```11.07.2021``` | [demo](https://maxzz.github.io/css-3d)
+[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```11.07.2021``` | WIP
+[rardir](https://github.com/maxzz/rardir) | ```09.16.2020``` | ```11.03.2021``` | [npm](https://www.npmjs.com/package/rardir)
 [real-time-resize-rcv](https://github.com/maxzz/real-time-resize-rcv) | ```10.16.2021``` | ```10.16.2021``` | [demo](https://codesandbox.io/s/github/maxzz/real-time-resize-rcv)
 [auto-dat-gui](https://github.com/maxzz/auto-dat-gui) | ```11.11.2020``` | ```10.10.2021``` | [demo](https://maxzz.github.io/auto-dat-gui/)
 [react-sm](https://github.com/maxzz/react-sm) | ```07.07.2021``` | ```09.18.2021``` | [demo](https://maxzz.github.io/react-sm)
@@ -20,7 +22,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [red3-curves](https://github.com/maxzz/red3-curves) | ```08.08.2021``` | ```08.20.2021``` | [demo](https://maxzz.github.io/red3-curves)
 [noise-gen](https://github.com/maxzz/noise-gen) | ```05.26.2021``` | ```08.12.2021``` | [demo](https://maxzz.github.io/noise-gen/)
 [react-d3](https://github.com/maxzz/react-d3) | ```07.11.2021``` | ```08.08.2021``` | [demo](https://maxzz.github.io/react-d3)
-[css-3d](https://github.com/maxzz/css-3d) | ```05.06.2021``` | ```06.26.2021``` | [demo](https://maxzz.github.io/css-3d)
 [site-egghead.io-ctx](https://github.com/maxzz/site-egghead.io-ctx) | ```06.19.2021``` | ```06.19.2021``` | WIP
 [ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```05.24.2021``` | [demo](https://maxzz.github.io/ch-spy/)
 [rarsrt](https://github.com/maxzz/rarsrt) | ```04.14.2021``` | ```05.19.2021``` | [npm](https://www.npmjs.com/package/rarsrt)
@@ -34,7 +35,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [test-pm](https://github.com/maxzz/test-pm) | ```05.28.2020``` | ```04.19.2021``` | [demo](https://maxzz.github.io/test-pm/)
 [vue-evens-todos](https://github.com/maxzz/vue-evens-todos) | ```05.04.2020``` | ```04.17.2021``` | [demo](https://codesandbox.io/s/github/maxzz/vue-evens-todos)
 [back-to-90s-html](https://github.com/maxzz/back-to-90s-html) | ```12.13.2020``` | ```04.16.2021``` | [demo](https://maxzz.github.io/back-to-90s-html/)
-[rardir](https://github.com/maxzz/rardir) | ```09.16.2020``` | ```04.13.2021``` | [npm](https://www.npmjs.com/package/rardir)
 [blooming-gen](https://github.com/maxzz/blooming-gen) | ```04.08.2021``` | ```04.11.2021``` | [demo](https://maxzz.github.io/blooming-gen)
 [react-focus-within-menus](https://github.com/maxzz/react-focus-within-menus) | ```03.20.2021``` | ```04.01.2021``` | [demo](https://maxzz.github.io/react-focus-within-menus/)
 [work-weeks](https://github.com/maxzz/work-weeks) | ```01.08.2021``` | ```03.27.2021``` | [npm](https://www.npmjs.com/package/work-weeks)
@@ -62,7 +62,7 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020``` | server
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```10.20.2021``` | [demo](https://maxzz.github.io)
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```10.25.2021``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```11.01.2021``` | this page
 
 ## Collaboration repositories
 
