@@ -11,7 +11,9 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[test-pm-domain-logins](https://github.com/maxzz/test-pm-domain-logins) | ```10.22.2020``` | ```12.09.2021``` | [demo](https://maxzz.github.io/test-pm-domain-logins/)
+[test-pm-second](https://github.com/maxzz/test-pm-second) | ```03.30.2021``` | ```12.10.2021``` | [demo](https://maxzz.github.io/test-pm-second/)
+[test-pm-domain-logins](https://github.com/maxzz/test-pm-domain-logins) | ```10.22.2020``` | ```12.10.2021``` | [demo](https://maxzz.github.io/test-pm-domain-logins/)
+[test-pm](https://github.com/maxzz/test-pm) | ```05.28.2020``` | ```12.10.2021``` | [demo](https://maxzz.github.io/test-pm/)
 [dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```12.06.2021``` | WIP
 [rardir](https://github.com/maxzz/rardir) | ```09.16.2020``` | ```12.03.2021``` | [npm](https://www.npmjs.com/package/rardir)
 [react-spring-tests](https://github.com/maxzz/react-spring-tests) | ```11.21.2021``` | ```11.27.2021``` | [demo](https://maxzz.github.io/react-spring-tests)
@@ -33,8 +35,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [server-ocr](https://github.com/maxzz/server-ocr) | ```04.22.2021``` | ```04.29.2021``` | study
 [quadratic-curves](https://github.com/maxzz/quadratic-curves) | ```04.23.2021``` | ```04.27.2021``` | WIP
 [giffy](https://github.com/maxzz/giffy) | ```03.15.2020``` | ```04.20.2021``` | [demo](https://maxzz.github.io/giffy)
-[test-pm-second](https://github.com/maxzz/test-pm-second) | ```03.30.2021``` | ```04.20.2021``` | [demo](https://maxzz.github.io/test-pm-second/)
-[test-pm](https://github.com/maxzz/test-pm) | ```05.28.2020``` | ```04.19.2021``` | [demo](https://maxzz.github.io/test-pm/)
 [vue-evens-todos](https://github.com/maxzz/vue-evens-todos) | ```05.04.2020``` | ```04.17.2021``` | [demo](https://codesandbox.io/s/github/maxzz/vue-evens-todos)
 [back-to-90s-html](https://github.com/maxzz/back-to-90s-html) | ```12.13.2020``` | ```04.16.2021``` | [demo](https://maxzz.github.io/back-to-90s-html/)
 [blooming-gen](https://github.com/maxzz/blooming-gen) | ```04.08.2021``` | ```04.11.2021``` | [demo](https://maxzz.github.io/blooming-gen)
@@ -63,7 +63,7 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020``` | server
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```10.20.2021``` | [demo](https://maxzz.github.io)
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```12.06.2021``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```12.09.2021``` | this page
 
 ## Collaboration repositories
 
