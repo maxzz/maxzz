@@ -11,12 +11,13 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[test-pm-second](https://github.com/maxzz/test-pm-second) | ```03.30.2021``` | ```12.12.2021``` | [demo](https://maxzz.github.io/test-pm-second/)
+[react-spring-tests](https://github.com/maxzz/react-spring-tests) | ```11.21.2021``` | ```12.19.2021``` | [demo](https://maxzz.github.io/react-spring-tests)
+[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```12.19.2021``` | WIP
+[ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```12.16.2021``` | [demo](https://maxzz.github.io/ch-spy/)
+[test-pm-second](https://github.com/maxzz/test-pm-second) | ```03.30.2021``` | ```12.13.2021``` | [demo](https://maxzz.github.io/test-pm-second/)
 [test-pm-domain-logins](https://github.com/maxzz/test-pm-domain-logins) | ```10.22.2020``` | ```12.10.2021``` | [demo](https://maxzz.github.io/test-pm-domain-logins/)
 [test-pm](https://github.com/maxzz/test-pm) | ```05.28.2020``` | ```12.10.2021``` | [demo](https://maxzz.github.io/test-pm/)
-[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```12.06.2021``` | WIP
 [rardir](https://github.com/maxzz/rardir) | ```09.16.2020``` | ```12.03.2021``` | [npm](https://www.npmjs.com/package/rardir)
-[react-spring-tests](https://github.com/maxzz/react-spring-tests) | ```11.21.2021``` | ```11.27.2021``` | [demo](https://maxzz.github.io/react-spring-tests)
 [css-3d](https://github.com/maxzz/css-3d) | ```05.06.2021``` | ```11.07.2021``` | [demo](https://maxzz.github.io/css-3d)
 [real-time-resize-rcv](https://github.com/maxzz/real-time-resize-rcv) | ```10.16.2021``` | ```10.16.2021``` | [demo](https://codesandbox.io/s/github/maxzz/real-time-resize-rcv)
 [auto-dat-gui](https://github.com/maxzz/auto-dat-gui) | ```11.11.2020``` | ```10.10.2021``` | [demo](https://maxzz.github.io/auto-dat-gui/)
@@ -27,7 +28,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [noise-gen](https://github.com/maxzz/noise-gen) | ```05.26.2021``` | ```08.12.2021``` | [demo](https://maxzz.github.io/noise-gen/)
 [react-d3](https://github.com/maxzz/react-d3) | ```07.11.2021``` | ```08.08.2021``` | [demo](https://maxzz.github.io/react-d3)
 [site-egghead.io-ctx](https://github.com/maxzz/site-egghead.io-ctx) | ```06.19.2021``` | ```06.19.2021``` | WIP
-[ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```05.24.2021``` | [demo](https://maxzz.github.io/ch-spy/)
 [rarsrt](https://github.com/maxzz/rarsrt) | ```04.14.2021``` | ```05.19.2021``` | [npm](https://www.npmjs.com/package/rarsrt)
 [ch-spy-ext](https://github.com/maxzz/ch-spy-ext) | ```05.08.2021``` | ```05.08.2021``` | extension
 [volume-illusion](https://github.com/maxzz/volume-illusion) | ```05.04.2021``` | ```05.06.2021``` | [demo](https://maxzz.github.io/volume-illusion)
@@ -63,7 +63,7 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020``` | server
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```10.20.2021``` | [demo](https://maxzz.github.io)
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```12.11.2021``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```12.13.2021``` | this page
 
 ## Collaboration repositories
 
