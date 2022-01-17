@@ -11,7 +11,7 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[svg-path](https://github.com/maxzz/svg-path) | ```12.21.2021``` | ```01.09.2022``` | [demo](https://maxzz.github.io/svg-path)
+[svg-path](https://github.com/maxzz/svg-path) | ```12.21.2021``` | ```01.11.2022``` | [demo](https://maxzz.github.io/svg-path)
 [dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```12.29.2021``` | WIP
 [animated-sidebar](https://github.com/maxzz/animated-sidebar) | ```03.21.2021``` | ```12.26.2021``` | [demo](https://maxzz.github.io/animated-sidebar)
 [react-spring-tests](https://github.com/maxzz/react-spring-tests) | ```11.21.2021``` | ```12.20.2021``` | [demo](https://maxzz.github.io/react-spring-tests)
@@ -64,7 +64,7 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020``` | server
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```10.20.2021``` | [demo](https://maxzz.github.io)
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```01.03.2022``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```01.10.2022``` | this page
 
 ## Collaboration repositories
 
