@@ -11,8 +11,9 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
+[work-weeks](https://github.com/maxzz/work-weeks) | ```01.08.2021``` | ```01.17.2022``` | [npm](https://www.npmjs.com/package/work-weeks)
+[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```01.17.2022``` | [demo](https://maxzz.github.io/dropzone)
 [svg-path](https://github.com/maxzz/svg-path) | ```12.21.2021``` | ```01.11.2022``` | [demo](https://maxzz.github.io/svg-path)
-[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```12.29.2021``` | WIP
 [animated-sidebar](https://github.com/maxzz/animated-sidebar) | ```03.21.2021``` | ```12.26.2021``` | [demo](https://maxzz.github.io/animated-sidebar)
 [react-spring-tests](https://github.com/maxzz/react-spring-tests) | ```11.21.2021``` | ```12.20.2021``` | [demo](https://maxzz.github.io/react-spring-tests)
 [ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```12.16.2021``` | [demo](https://maxzz.github.io/ch-spy/)
@@ -41,7 +42,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [back-to-90s-html](https://github.com/maxzz/back-to-90s-html) | ```12.13.2020``` | ```04.16.2021``` | [demo](https://maxzz.github.io/back-to-90s-html/)
 [blooming-gen](https://github.com/maxzz/blooming-gen) | ```04.08.2021``` | ```04.11.2021``` | [demo](https://maxzz.github.io/blooming-gen)
 [react-focus-within-menus](https://github.com/maxzz/react-focus-within-menus) | ```03.20.2021``` | ```04.01.2021``` | [demo](https://maxzz.github.io/react-focus-within-menus/)
-[work-weeks](https://github.com/maxzz/work-weeks) | ```01.08.2021``` | ```03.27.2021``` | [npm](https://www.npmjs.com/package/work-weeks)
 [ngon-gen](https://github.com/maxzz/ngon-gen) | ```05.12.2020``` | ```03.22.2021``` | [demo](https://maxzz.github.io/ngon-gen/)
 [svg-gradients](https://github.com/maxzz/svg-gradients) | ```10.19.2020``` | ```03.21.2021``` | [demo](https://maxzz.github.io/svg-gradients)
 [revue-playground](https://github.com/maxzz/revue-playground) | ```03.12.2021``` | ```03.21.2021``` | [demo](https://maxzz.github.io/revue-playground/)
