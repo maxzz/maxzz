@@ -11,6 +11,9 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
+[cursors](https://github.com/maxzz/cursors) | ```02.07.2022``` | ```02.07.2022``` | WIP
+[border-radius-generator](https://github.com/maxzz/border-radius-generator) | ```12.14.2020``` | ```01.31.2022``` | [demo](https://maxzz.github.io/border-radius-generator)
+[noise-gen](https://github.com/maxzz/noise-gen) | ```05.26.2021``` | ```01.31.2022``` | [demo](https://maxzz.github.io/noise-gen)
 [work-weeks](https://github.com/maxzz/work-weeks) | ```01.08.2021``` | ```01.17.2022``` | [npm](https://www.npmjs.com/package/work-weeks)
 [dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```01.17.2022``` | [demo](https://maxzz.github.io/dropzone)
 [svg-path](https://github.com/maxzz/svg-path) | ```12.21.2021``` | ```01.11.2022``` | [demo](https://maxzz.github.io/svg-path)
@@ -28,7 +31,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [red3-path](https://github.com/maxzz/red3-path) | ```08.23.2021``` | ```09.09.2021``` | [demo](https://maxzz.github.io/red3-path/)
 [red3-voronoi](https://github.com/maxzz/red3-voronoi) | ```08.23.2021``` | ```09.04.2021``` | [demo](https://maxzz.github.io/red3-voronoi/)
 [red3-curves](https://github.com/maxzz/red3-curves) | ```08.08.2021``` | ```08.20.2021``` | [demo](https://maxzz.github.io/red3-curves)
-[noise-gen](https://github.com/maxzz/noise-gen) | ```05.26.2021``` | ```08.12.2021``` | [demo](https://maxzz.github.io/noise-gen/)
 [react-d3](https://github.com/maxzz/react-d3) | ```07.11.2021``` | ```08.08.2021``` | [demo](https://maxzz.github.io/react-d3)
 [site-egghead.io-ctx](https://github.com/maxzz/site-egghead.io-ctx) | ```06.19.2021``` | ```06.19.2021``` | WIP
 [rarsrt](https://github.com/maxzz/rarsrt) | ```04.14.2021``` | ```05.19.2021``` | [npm](https://www.npmjs.com/package/rarsrt)
@@ -55,7 +57,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [netsh-rule](https://github.com/maxzz/netsh-rule) | ```07.13.2020``` | ```01.08.2021``` | [npm](https://www.npmjs.com/package/netsh-rule)
 [svg-icons-vite](https://github.com/maxzz/svg-icons-vite) | ```12.27.2020``` | ```12.27.2020``` | [demo](https://maxzz.github.io/svg-icons-vite/)
 [svg-icons-font-sw](https://github.com/maxzz/svg-icons-font-sw) | ```12.25.2020``` | ```12.25.2020``` | [demo](https://maxzz.github.io/svg-icons-font-sw/)
-[border-radius-generator](https://github.com/maxzz/border-radius-generator) | ```12.14.2020``` | ```12.24.2020``` | [demo](https://maxzz.github.io/border-radius-generator/)
 [simple-siriwave](https://github.com/maxzz/simple-siriwave) | ```12.16.2020``` | ```12.16.2020``` | [demo](https://maxzz.github.io/simple-siriwave/)
 [color-names](https://github.com/maxzz/color-names) | ```12.02.2020``` | ```12.02.2020``` | [demo](https://maxzz.github.io/color-names/)
 [react-admin-address-book](https://github.com/maxzz/react-admin-address-book) | ```11.28.2020``` | ```11.30.2020``` | [demo](https://maxzz.github.io/react-admin-address-book/)
