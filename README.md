@@ -11,6 +11,7 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
+[page-qa2](https://github.com/maxzz/page-qa2) | ```03.05.2022``` | ```03.09.2022``` | [demo](https://maxzz.github.io/page-qa2)
 [cursors](https://github.com/maxzz/cursors) | ```02.07.2022``` | ```02.07.2022``` | [demo](https://maxzz.github.io/cursors)
 [border-radius-generator](https://github.com/maxzz/border-radius-generator) | ```12.14.2020``` | ```01.31.2022``` | [demo](https://maxzz.github.io/border-radius-generator)
 [noise-gen](https://github.com/maxzz/noise-gen) | ```05.26.2021``` | ```01.31.2022``` | [demo](https://maxzz.github.io/noise-gen)
