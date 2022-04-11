@@ -11,6 +11,8 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
+[volume-illusion](https://github.com/maxzz/volume-illusion) | ```05.04.2021``` | ```04.07.2022``` | [demo](https://maxzz.github.io/volume-illusion)
+[color-names22](https://github.com/maxzz/color-names22) | ```04.04.2022``` | ```04.06.2022``` | [demo](https://maxzz.github.io/color-names22)
 [page-qa2](https://github.com/maxzz/page-qa2) | ```03.05.2022``` | ```03.09.2022``` | [demo](https://maxzz.github.io/page-qa2)
 [cursors](https://github.com/maxzz/cursors) | ```02.07.2022``` | ```02.07.2022``` | [demo](https://maxzz.github.io/cursors)
 [border-radius-generator](https://github.com/maxzz/border-radius-generator) | ```12.14.2020``` | ```01.31.2022``` | [demo](https://maxzz.github.io/border-radius-generator)
@@ -36,7 +38,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [site-egghead.io-ctx](https://github.com/maxzz/site-egghead.io-ctx) | ```06.19.2021``` | ```06.19.2021``` | WIP
 [rarsrt](https://github.com/maxzz/rarsrt) | ```04.14.2021``` | ```05.19.2021``` | [npm](https://www.npmjs.com/package/rarsrt)
 [ch-spy-ext](https://github.com/maxzz/ch-spy-ext) | ```05.08.2021``` | ```05.08.2021``` | extension
-[volume-illusion](https://github.com/maxzz/volume-illusion) | ```05.04.2021``` | ```05.06.2021``` | [demo](https://maxzz.github.io/volume-illusion)
 [spawn-loading-test](https://github.com/maxzz/spawn-loading-test) | ```04.29.2021``` | ```04.30.2021``` | tests
 [server-ocr](https://github.com/maxzz/server-ocr) | ```04.22.2021``` | ```04.29.2021``` | study
 [quadratic-curves](https://github.com/maxzz/quadratic-curves) | ```04.23.2021``` | ```04.27.2021``` | WIP
