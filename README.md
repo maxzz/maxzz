@@ -11,7 +11,8 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[leva-ui-dynamic-boxes](https://github.com/maxzz/leva-ui-dynamic-boxes) | ```04.27.2022``` | ```04.27.2022``` | WIP
+[test-pm-domain-logins22](https://github.com/maxzz/test-pm-domain-logins22) | ```05.07.2022``` | ```05.07.2022``` | WIP
+[leva-ui-dynamic-boxes](https://github.com/maxzz/leva-ui-dynamic-boxes) | ```04.27.2022``` | ```05.04.2022``` | [demo](https://maxzz.github.io/leva-ui-dynamic-boxes)
 [ngon-gen22-template](https://github.com/maxzz/ngon-gen22-template) | ```04.25.2022``` | ```04.25.2022``` | [demo](https://maxzz.github.io/ngon-gen22)
 [ngon-gen22](https://github.com/maxzz/ngon-gen22) | ```04.25.2022``` | ```04.25.2022``` | [demo](https://maxzz.github.io/ngon-gen22)
 [svg-path](https://github.com/maxzz/svg-path) | ```12.21.2021``` | ```04.25.2022``` | [demo](https://maxzz.github.io/svg-path)
@@ -69,8 +70,8 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```09.03.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020``` | server
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
-[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```10.20.2021``` | [demo](https://maxzz.github.io)
 [maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```01.10.2022``` | this page
+[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```05.06.2022``` | [demo](https://maxzz.github.io)
 
 ## Collaboration repositories
 
