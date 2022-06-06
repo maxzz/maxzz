@@ -11,6 +11,7 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
+[color-names22](https://github.com/maxzz/color-names22) | ```04.04.2022``` | ```06.03.2022``` | [demo](https://maxzz.github.io/color-names22)
 [test-pm-second](https://github.com/maxzz/test-pm-second) | ```03.30.2021``` | ```05.21.2022``` | [demo](https://maxzz.github.io/test-pm-second)
 [test-pm-domain-logins22](https://github.com/maxzz/test-pm-domain-logins22) | ```05.07.2022``` | ```05.09.2022``` | [demo](https://maxzz.github.io/test-pm-domain-logins22/)
 [leva-ui-dynamic-boxes](https://github.com/maxzz/leva-ui-dynamic-boxes) | ```04.27.2022``` | ```05.04.2022``` | [demo](https://maxzz.github.io/leva-ui-dynamic-boxes)
@@ -18,7 +19,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [ngon-gen22](https://github.com/maxzz/ngon-gen22) | ```04.25.2022``` | ```04.25.2022``` | [demo](https://maxzz.github.io/ngon-gen22)
 [svg-path](https://github.com/maxzz/svg-path) | ```12.21.2021``` | ```04.25.2022``` | [demo](https://maxzz.github.io/svg-path)
 [volume-illusion](https://github.com/maxzz/volume-illusion) | ```05.04.2021``` | ```04.07.2022``` | [demo](https://maxzz.github.io/volume-illusion)
-[color-names22](https://github.com/maxzz/color-names22) | ```04.04.2022``` | ```04.06.2022``` | [demo](https://maxzz.github.io/color-names22)
 [page-qa2](https://github.com/maxzz/page-qa2) | ```03.05.2022``` | ```03.09.2022``` | [demo](https://maxzz.github.io/page-qa2)
 [cursors](https://github.com/maxzz/cursors) | ```02.07.2022``` | ```02.07.2022``` | [demo](https://maxzz.github.io/cursors)
 [border-radius-generator](https://github.com/maxzz/border-radius-generator) | ```12.14.2020``` | ```01.31.2022``` | [demo](https://maxzz.github.io/border-radius-generator)
