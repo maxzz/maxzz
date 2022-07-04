@@ -11,6 +11,7 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
+[red3-path](https://github.com/maxzz/red3-path) | ```08.23.2021``` | ```07.02.2022``` | [demo](https://maxzz.github.io/red3-path/)
 [page-extension-installation](https://github.com/maxzz/page-extension-installation) | ```06.23.2022``` | ```06.25.2022``` | [demo](https://maxzz.github.io/page-extension-installation)
 [color-names22](https://github.com/maxzz/color-names22) | ```04.04.2022``` | ```06.03.2022``` | [demo](https://maxzz.github.io/color-names22)
 [test-pm-second](https://github.com/maxzz/test-pm-second) | ```03.30.2021``` | ```05.21.2022``` | [demo](https://maxzz.github.io/test-pm-second)
@@ -36,7 +37,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [real-time-resize-rcv](https://github.com/maxzz/real-time-resize-rcv) | ```10.16.2021``` | ```10.16.2021``` | [demo](https://codesandbox.io/s/github/maxzz/real-time-resize-rcv)
 [auto-dat-gui](https://github.com/maxzz/auto-dat-gui) | ```11.11.2020``` | ```10.10.2021``` | [demo](https://maxzz.github.io/auto-dat-gui/)
 [react-sm](https://github.com/maxzz/react-sm) | ```07.07.2021``` | ```09.18.2021``` | [demo](https://maxzz.github.io/react-sm)
-[red3-path](https://github.com/maxzz/red3-path) | ```08.23.2021``` | ```09.09.2021``` | [demo](https://maxzz.github.io/red3-path/)
 [red3-voronoi](https://github.com/maxzz/red3-voronoi) | ```08.23.2021``` | ```09.04.2021``` | [demo](https://maxzz.github.io/red3-voronoi/)
 [red3-curves](https://github.com/maxzz/red3-curves) | ```08.08.2021``` | ```08.20.2021``` | [demo](https://maxzz.github.io/red3-curves)
 [react-d3](https://github.com/maxzz/react-d3) | ```07.11.2021``` | ```08.08.2021``` | [demo](https://maxzz.github.io/react-d3)
