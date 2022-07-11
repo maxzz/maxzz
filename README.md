@@ -11,6 +11,8 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
+[simple-border-radius22](https://github.com/maxzz/simple-border-radius22) | ```07.07.2022``` | ```07.07.2022``` | [demo](https://maxzz.github.io/simple-border-radius22)
+[red3-curves](https://github.com/maxzz/red3-curves) | ```08.08.2021``` | ```07.05.2022``` | [demo](https://maxzz.github.io/red3-curves)
 [red3-path](https://github.com/maxzz/red3-path) | ```08.23.2021``` | ```07.02.2022``` | [demo](https://maxzz.github.io/red3-path/)
 [page-extension-installation](https://github.com/maxzz/page-extension-installation) | ```06.23.2022``` | ```06.25.2022``` | [demo](https://maxzz.github.io/page-extension-installation)
 [color-names22](https://github.com/maxzz/color-names22) | ```04.04.2022``` | ```06.03.2022``` | [demo](https://maxzz.github.io/color-names22)
@@ -38,7 +40,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [auto-dat-gui](https://github.com/maxzz/auto-dat-gui) | ```11.11.2020``` | ```10.10.2021``` | [demo](https://maxzz.github.io/auto-dat-gui/)
 [react-sm](https://github.com/maxzz/react-sm) | ```07.07.2021``` | ```09.18.2021``` | [demo](https://maxzz.github.io/react-sm)
 [red3-voronoi](https://github.com/maxzz/red3-voronoi) | ```08.23.2021``` | ```09.04.2021``` | [demo](https://maxzz.github.io/red3-voronoi/)
-[red3-curves](https://github.com/maxzz/red3-curves) | ```08.08.2021``` | ```08.20.2021``` | [demo](https://maxzz.github.io/red3-curves)
 [react-d3](https://github.com/maxzz/react-d3) | ```07.11.2021``` | ```08.08.2021``` | [demo](https://maxzz.github.io/react-d3)
 [site-egghead.io-ctx](https://github.com/maxzz/site-egghead.io-ctx) | ```06.19.2021``` | ```06.19.2021``` | WIP
 [rarsrt](https://github.com/maxzz/rarsrt) | ```04.14.2021``` | ```05.19.2021``` | [npm](https://www.npmjs.com/package/rarsrt)
