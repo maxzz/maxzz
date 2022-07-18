@@ -11,9 +11,9 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
+[red3-path](https://github.com/maxzz/red3-path) | ```08.23.2021``` | ```07.12.2022``` | [demo](https://maxzz.github.io/red3-path/)
 [simple-border-radius22](https://github.com/maxzz/simple-border-radius22) | ```07.07.2022``` | ```07.07.2022``` | [demo](https://maxzz.github.io/simple-border-radius22)
 [red3-curves](https://github.com/maxzz/red3-curves) | ```08.08.2021``` | ```07.05.2022``` | [demo](https://maxzz.github.io/red3-curves)
-[red3-path](https://github.com/maxzz/red3-path) | ```08.23.2021``` | ```07.02.2022``` | [demo](https://maxzz.github.io/red3-path/)
 [page-extension-installation](https://github.com/maxzz/page-extension-installation) | ```06.23.2022``` | ```06.25.2022``` | [demo](https://maxzz.github.io/page-extension-installation)
 [color-names22](https://github.com/maxzz/color-names22) | ```04.04.2022``` | ```06.03.2022``` | [demo](https://maxzz.github.io/color-names22)
 [test-pm-second](https://github.com/maxzz/test-pm-second) | ```03.30.2021``` | ```05.21.2022``` | [demo](https://maxzz.github.io/test-pm-second)
