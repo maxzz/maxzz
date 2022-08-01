@@ -11,6 +11,7 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
+[gluehtml](https://github.com/maxzz/gluehtml) | ```05.27.2020``` | ```07.29.2022``` | [npm](https://www.npmjs.com/package/gluehtml)
 [svg-bkg-stripes](https://github.com/maxzz/svg-bkg-stripes) | ```11.02.2020``` | ```07.19.2022``` | [demo](https://maxzz.github.io/svg-bkg-stripes)
 [react-admin-address-book](https://github.com/maxzz/react-admin-address-book) | ```11.28.2020``` | ```07.19.2022``` | [demo](https://maxzz.github.io/react-admin-address-book)
 [color-names](https://github.com/maxzz/color-names) | ```12.02.2020``` | ```07.19.2022``` | [demo](https://maxzz.github.io/color-names)
@@ -67,7 +68,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-gsap-menu](https://github.com/maxzz/react-gsap-menu) | ```03.21.2021``` | ```03.21.2021``` | [demo](https://maxzz.github.io/react-gsap-menu)
 [test-graphql](https://github.com/maxzz/test-graphql) | ```03.16.2020``` | ```03.20.2021``` | study
 [vanilla-folding-carousel](https://github.com/maxzz/vanilla-folding-carousel) | ```03.14.2021``` | ```03.14.2021``` | [demo](https://maxzz.github.io/vanilla-folding-carousel/)
-[gluehtml](https://github.com/maxzz/gluehtml) | ```05.27.2020``` | ```01.08.2021``` | [npm](https://www.npmjs.com/package/gluehtml)
 [netsh-rule](https://github.com/maxzz/netsh-rule) | ```07.13.2020``` | ```01.08.2021``` | [npm](https://www.npmjs.com/package/netsh-rule)
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```09.03.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020``` | server
