@@ -9,8 +9,10 @@
 
 ## Original repositories
 
-repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
+[pm-domain-credentials-switch](https://github.com/maxzz/pm-domain-credentials-switch) | ```09.02.2022``` | ```09.02.2022``` | WIP
+[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```09.01.2022``` | [demo](https://maxzz.github.io/dropzone)
 [gluehtml](https://github.com/maxzz/gluehtml) | ```05.27.2020``` | ```07.29.2022``` | [npm](https://www.npmjs.com/package/gluehtml)
 [svg-bkg-stripes](https://github.com/maxzz/svg-bkg-stripes) | ```11.02.2020``` | ```07.19.2022``` | [demo](https://maxzz.github.io/svg-bkg-stripes)
 [react-admin-address-book](https://github.com/maxzz/react-admin-address-book) | ```11.28.2020``` | ```07.19.2022``` | [demo](https://maxzz.github.io/react-admin-address-book)
@@ -41,7 +43,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [border-radius-generator](https://github.com/maxzz/border-radius-generator) | ```12.14.2020``` | ```01.31.2022``` | [demo](https://maxzz.github.io/border-radius-generator)
 [noise-gen](https://github.com/maxzz/noise-gen) | ```05.26.2021``` | ```01.31.2022``` | [demo](https://maxzz.github.io/noise-gen)
 [work-weeks](https://github.com/maxzz/work-weeks) | ```01.08.2021``` | ```01.17.2022``` | [npm](https://www.npmjs.com/package/work-weeks)
-[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```01.17.2022``` | [demo](https://maxzz.github.io/dropzone)
 [animated-sidebar](https://github.com/maxzz/animated-sidebar) | ```03.21.2021``` | ```12.26.2021``` | [demo](https://maxzz.github.io/animated-sidebar)
 [react-spring-tests](https://github.com/maxzz/react-spring-tests) | ```11.21.2021``` | ```12.20.2021``` | [demo](https://maxzz.github.io/react-spring-tests)
 [ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```12.16.2021``` | [demo](https://maxzz.github.io/ch-spy/)
@@ -77,7 +78,7 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 ## Collaboration repositories
 
-repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
 [js.org](https://github.com/maxzz/js.org) | ```03.14.2021``` | ```03.14.2021``` | [demo](https://js.org)
 [js-file-downloader](https://github.com/maxzz/js-file-downloader) | ```02.20.2021``` | ```02.20.2021``` | WIP
