@@ -11,6 +11,7 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
+[ch-spy-ext](https://github.com/maxzz/ch-spy-ext) | ```05.08.2021``` | ```09.19.2022``` | [demo](https://github.com/maxzz/ch-spy)
 [pm-domain-credentials-switch](https://github.com/maxzz/pm-domain-credentials-switch) | ```09.02.2022``` | ```09.02.2022``` | WIP
 [dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```09.01.2022``` | [demo](https://maxzz.github.io/dropzone)
 [gluehtml](https://github.com/maxzz/gluehtml) | ```05.27.2020``` | ```07.29.2022``` | [npm](https://www.npmjs.com/package/gluehtml)
@@ -25,7 +26,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-spring-interpolation](https://github.com/maxzz/react-spring-interpolation) | ```03.15.2021``` | ```07.19.2022``` | [demo](https://maxzz.github.io/react-spring-interpolation)
 [ngon-gen](https://github.com/maxzz/ngon-gen) | ```05.12.2020``` | ```07.18.2022``` | [demo](https://maxzz.github.io/ngon-gen)
 [site-egghead.io-ctx](https://github.com/maxzz/site-egghead.io-ctx) | ```06.19.2021``` | ```07.18.2022``` | [demo](https://github.com/maxzz/ch-spy)
-[ch-spy-ext](https://github.com/maxzz/ch-spy-ext) | ```05.08.2021``` | ```07.18.2022``` | [demo](https://github.com/maxzz/ch-spy)
 [red3-path](https://github.com/maxzz/red3-path) | ```08.23.2021``` | ```07.12.2022``` | [demo](https://maxzz.github.io/red3-path/)
 [simple-border-radius22](https://github.com/maxzz/simple-border-radius22) | ```07.07.2022``` | ```07.07.2022``` | [demo](https://maxzz.github.io/simple-border-radius22)
 [red3-curves](https://github.com/maxzz/red3-curves) | ```08.08.2021``` | ```07.05.2022``` | [demo](https://maxzz.github.io/red3-curves)
