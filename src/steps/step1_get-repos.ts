@@ -5,11 +5,12 @@ export type Repo = {
     url: string;                // 'https://github.com/maxzz/ThreeJSEditorExtension'
     createdAt: string;          // '2016-01-11T03:07:12Z'
     updatedAt: string;          // '2016-01-11T03:07:13Z'
+    pushedAt: string;           // Identifies when the repository was last pushed to. //https://docs.github.com/en/graphql/reference/objects#repository
     isFork: boolean;            // true
     homepageUrl: string | null; // null
 }
 
-function makeQuery(afterCursor: string) {
+function makeQuery(afterCursor: string): string {
     // https://developer.github.com/v4/object/repository/
     let query = /* GraphQL */ `
     query {
@@ -24,6 +25,7 @@ function makeQuery(afterCursor: string) {
               url
               createdAt
               updatedAt
+              pushedAt
               isFork
               homepageUrl
               # description
@@ -71,3 +73,35 @@ export async function getRepos(token: string): Promise<Repo[]> {
 
     return repos;
 }
+
+/*
+https://docs.github.com/en/graphql/overview/explorer
+query {
+    viewer {
+        repositories(first: 100, privacy: PUBLIC, after:null) {
+        pageInfo {
+            hasNextPage
+            endCursor
+        }
+        nodes {
+            name
+            url
+            createdAt
+            updatedAt
+            isFork
+            homepageUrl
+            # description
+
+            # releases(last:1) {
+            #   totalCount
+            #   nodes {
+            #     name
+            #     publishedAt
+            #     url
+            #   }
+            # }
+        }
+        }
+    }
+}
+*/

@@ -38,8 +38,8 @@ function columnHomePadding(): string {
 }
 
 function sortRepos(repoA: Repo, repoB: Repo): 0 | 1 | -1 {
-    const a = repoA.updatedAt;
-    const b = repoB.updatedAt;
+    const a = repoA.pushedAt;
+    const b = repoB.pushedAt;
     if (a < b) {
         return -1;
     }
@@ -88,7 +88,7 @@ function repoDemoPage(repo: Repo): string {
 function buildTable(repos: Repo[]): string {
     return repos.map(repo => {
         const code = '```';
-        return `[${repo.name}](${repo.url}) | ${code}${fmtDate(repo.createdAt)}${code} | ${code}${fmtDate(repo.updatedAt)}${code} | ${repoDemoPage(repo)}`;
+        return `[${repo.name}](${repo.url}) | ${code}${fmtDate(repo.createdAt)}${code} | ${code}${fmtDate(repo.pushedAt)}${code} | ${repoDemoPage(repo)}`;
     }).join('\n');
 }
 
