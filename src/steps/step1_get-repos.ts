@@ -9,6 +9,41 @@ export type Repo = {
     homepageUrl: string | null; // null
 }
 
+function makeQuery(afterCursor: string) {
+    // https://developer.github.com/v4/object/repository/
+    let query = /* GraphQL */ `
+    query {
+        viewer {
+          repositories(first: 25, privacy: PUBLIC, after:${afterCursor ? `"${afterCursor}"` : 'null'}) {
+            pageInfo {
+              hasNextPage
+              endCursor
+            }
+            nodes {
+              name
+              url
+              createdAt
+              updatedAt
+              isFork
+              homepageUrl
+              # description
+
+              # releases(last:1) {
+              #   totalCount
+              #   nodes {
+              #     name
+              #     publishedAt
+              #     url
+              #   }
+              # }
+            }
+          }
+        }
+      }
+    `;
+    return query;
+}
+
 export async function getRepos(token: string): Promise<Repo[]> {
     const endpoint = 'https://api.github.com/graphql';
 
@@ -35,39 +70,4 @@ export async function getRepos(token: string): Promise<Repo[]> {
     }
 
     return repos;
-
-    function makeQuery(afterCursor: string) {
-        // https://developer.github.com/v4/object/repository/
-        let query = /* GraphQL */ `
-        query {
-            viewer {
-              repositories(first: 25, privacy: PUBLIC, after:${afterCursor ? `"${afterCursor}"` : 'null'}) {
-                pageInfo {
-                  hasNextPage
-                  endCursor
-                }
-                nodes {
-                  name
-                  url
-                  createdAt
-                  updatedAt
-                  isFork
-                  homepageUrl
-                  # description
-
-                  # releases(last:1) {
-                  #   totalCount
-                  #   nodes {
-                  #     name
-                  #     publishedAt
-                  #     url
-                  #   }
-                  # }
-                }
-              }
-            }
-          }
-        `;
-        return query;
-    }
 }

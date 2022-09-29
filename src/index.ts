@@ -10,7 +10,7 @@ async function main() {
 
     // 1. Prepare the new content
     let repos: Repo[] = await getRepos(MY_TOKEN);
-    let newCnt = formatRepos(repos);
+    let newCnt: string = formatRepos(repos);
 
     // 2. Update README.md
     saveReadme(newCnt);

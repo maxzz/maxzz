@@ -1,6 +1,6 @@
 import { Repo } from "./step1_get-repos";
 
-export function formatRepos(repos: Repo[]) {
+export function formatRepos(repos: Repo[]): string {
     repos = repos.sort(sortRepos);
     repos = repos.reverse();
 
