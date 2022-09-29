@@ -1,6 +1,15 @@
 const GraphQLClient = require('graphql-request').GraphQLClient;
 
-export async function getRepos(token: string) {
+export type Repo = {
+    name: string;               // 'ThreeJSEditorExtension'
+    url: string;                // 'https://github.com/maxzz/ThreeJSEditorExtension'
+    createdAt: string;          // '2016-01-11T03:07:12Z'
+    updatedAt: string;          // '2016-01-11T03:07:13Z'
+    isFork: boolean;            // true
+    homepageUrl: string | null; // null
+}
+
+export async function getRepos(token: string): Promise<Repo[]> {
     const endpoint = 'https://api.github.com/graphql';
 
     const graphQLClient = new GraphQLClient(endpoint, {
@@ -9,7 +18,7 @@ export async function getRepos(token: string) {
         },
     });
 
-    let repos: any[] = [];
+    let repos: Repo[] = [];
     let hasNextPage = true;
     let endCursor = '';
 
@@ -45,7 +54,7 @@ export async function getRepos(token: string) {
                   isFork
                   homepageUrl
                   # description
-          
+
                   # releases(last:1) {
                   #   totalCount
                   #   nodes {

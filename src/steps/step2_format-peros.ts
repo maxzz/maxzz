@@ -1,4 +1,6 @@
-export function formatRepos(repos: any[]) {
+import { Repo } from "./step1_get-repos";
+
+export function formatRepos(repos: Repo[]) {
     repos = repos.sort(sortRepos);
     repos = repos.reverse();
 
@@ -18,9 +20,9 @@ export function formatRepos(repos: any[]) {
 
     return newCnt;
 
-    function moveRepoReadmeToEnd(original: any[]) {
+    function moveRepoReadmeToEnd(original: Repo[]) {
         let readme = /^(?:maxzz)/i;
-        let readmes: any[] = [];
+        let readmes: Repo[] = [];
         original = original.filter(repo => {
             let isReadme = readme.test(repo.name);
             if (isReadme) {
@@ -33,8 +35,11 @@ export function formatRepos(repos: any[]) {
         return original;
     }
 
-    function columnLength(repos: any[], minLength: number, column: string) {
-        let max = repos.reduce((acc, cur) => cur[column].length > acc ? cur[column].length : acc, minLength);
+    function columnLength(repos: Repo[], minLength: number, column: keyof Omit<Repo, 'isFork'>) {
+        const max = repos.reduce((acc, cur) => {
+            const currentLength = cur[column]?.length || 0;
+            return currentLength > acc ? currentLength : acc;
+        }, minLength);
         return max;
     }
 
@@ -52,7 +57,7 @@ export function formatRepos(repos: any[]) {
         return padding;
     }
 
-    function sortRepos(repoA: any, repoB: any) {
+    function sortRepos(repoA: Repo, repoB: Repo) {
         const a = repoA.updatedAt;
         const b = repoB.updatedAt;
         if (a < b) {
@@ -63,13 +68,13 @@ export function formatRepos(repos: any[]) {
         }
         return 0;
     }
-    
+
     function fmtDate(dateString: string) {
         let s = new Intl.DateTimeFormat('en-US').format(new Date(dateString));
         return s.split('/').map(_ => zeros(_, 2)).join('.');
     }
 
-    function repoDemoPage(repo: any) {
+    function repoDemoPage(repo: Repo) {
         if (repo.homepageUrl) {
             return `[${/npmjs\.com/.test(repo.homepageUrl) ? 'npm' : 'demo'}](${repo.homepageUrl})`;
         }
@@ -99,8 +104,8 @@ export function formatRepos(repos: any[]) {
         };
         return meta[repo.name] || 'WIP';
     }
-   
-    function buildTable(repos: any[]) {
+
+    function buildTable(repos: Repo[]) {
         return repos.map(repo => {
             const code = '```';
             return `[${repo.name}](${repo.url}) | ${code}${fmtDate(repo.createdAt)}${code} | ${code}${fmtDate(repo.updatedAt)}${code} | ${repoDemoPage(repo)}`;
