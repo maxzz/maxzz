@@ -2,24 +2,19 @@ const fs = require('fs');
 
 const IS_LOCAL = process.env.IS_LOCAL;
 
-const localRepoUrl = 'src/assets/';
-const remoteRepoUrl = 'https://raw.githubusercontent.com/maxzz/maxzz/master/src/assets/';
+const localAssetsUrl = 'src/assets/';
+const remoteAssetsUrl = 'https://raw.githubusercontent.com/maxzz/maxzz/master/src/assets/';
+const assetsUrl = IS_LOCAL ? localAssetsUrl : remoteAssetsUrl;
 
 const imageUrls = {
-    mainImg: IS_LOCAL
-        ? '![](src/assets/main.svg)'
-        : `![](${remoteRepoUrl}main.svg)`,
-    mainHiImg: IS_LOCAL
-        ? '![](src/assets/main-hi.svg)'
-        : `![](${remoteRepoUrl}main-hi.svg)`,
-    photeImg: IS_LOCAL
-        ? '![](src/assets/maxz-128.png)'
-        : `![](${remoteRepoUrl}maxz-128.png)`,
+    mainImg: `![](${assetsUrl}main.svg)`,
+    mainHiImg: `![](${assetsUrl}main-hi.svg)`,
+    photeImg: `![](${assetsUrl}maxz-128.png)`,
 };
 
 function replaceChunk(content: string, marker: string, chunk: string) {
-    let re = new RegExp(`<!\-\- ${marker} starts \-\->.*<!\-\- ${marker} ends \-\->`, 's');
-    let newCnt = `<!-- ${marker} starts -->\n${chunk}\n<!-- ${marker} ends -->`;
+    const re = new RegExp(`<!\-\- ${marker} starts \-\->.*<!\-\- ${marker} ends \-\->`, 's');
+    const newCnt = `<!-- ${marker} starts -->\n${chunk}\n<!-- ${marker} ends -->`;
     return content.replace(re, newCnt);
 }
 
