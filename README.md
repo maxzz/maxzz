@@ -72,9 +72,9 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [netsh-rule](https://github.com/maxzz/netsh-rule) | ```07.12.2020``` | ```01.07.2021``` | [npm](https://www.npmjs.com/package/netsh-rule)
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```09.02.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.05.2020``` | server
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```01.09.2022``` | this page
 [maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```05.06.2022``` | [demo](https://maxzz.github.io)
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.17.2020``` | ```07.18.2022``` | study
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```09.28.2022``` | this page
 
 ## Collaboration repositories
 
@@ -99,3 +99,4 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 ![](src/assets/maxz-128.png)
 <!-- ![](https://avatars.githubusercontent.com/maxzz?s=150&v=1) -->
 
+<!-- TODO: https://githubmemory.com/@maxzz -->
