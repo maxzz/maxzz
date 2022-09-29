@@ -4,7 +4,7 @@ global.fetch = require('node-fetch');
 const GraphQLClient = require('graphql-request').GraphQLClient;
 require('dotenv').config();
 
-async function getRepos(token) {
+async function getRepos(token: string) {
     const endpoint = 'https://api.github.com/graphql';
 
     const graphQLClient = new GraphQLClient(endpoint, {
@@ -13,7 +13,7 @@ async function getRepos(token) {
         },
     });
 
-    let repos = [];
+    let repos: any[] = [];
     let hasNextPage = true;
     let endCursor = '';
 
@@ -31,7 +31,7 @@ async function getRepos(token) {
 
     return repos;
 
-    function makeQuery(afterCursor) {
+    function makeQuery(afterCursor: string) {
         // https://developer.github.com/v4/object/repository/
         let query = /* GraphQL */ `
         query {
@@ -67,13 +67,13 @@ async function getRepos(token) {
     }
 }
 
-function replaceChunk(content, marker, chunk) {
+function replaceChunk(content: string, marker: string, chunk: string) {
     let re = new RegExp(`<!\-\- ${marker} starts \-\->.*<!\-\- ${marker} ends \-\->`, 's');
     let newCnt = `<!-- ${marker} starts -->\n${chunk}\n<!-- ${marker} ends -->`;
     return content.replace(re, newCnt);
 }
 
-function formatRepos(repos) {
+function formatRepos(repos: any[]) {
     repos = repos.sort(sortRepos);
     repos = repos.reverse();
 
@@ -93,9 +93,9 @@ function formatRepos(repos) {
 
     return newCnt;
 
-    function moveRepoReadmeToEnd(original) {
+    function moveRepoReadmeToEnd(original: any[]) {
         let readme = /^(?:maxzz)/i;
-        let readmes = [];
+        let readmes: any[] = [];
         original = original.filter(repo => {
             let isReadme = readme.test(repo.name);
             if (isReadme) {
@@ -108,7 +108,7 @@ function formatRepos(repos) {
         return original;
     }
 
-    function columnLength(repos, minLength, column) {
+    function columnLength(repos: any[], minLength: number, column: string) {
         let max = repos.reduce((acc, cur) => cur[column].length > acc ? cur[column].length : acc, minLength);
         return max;
     }
@@ -127,7 +127,7 @@ function formatRepos(repos) {
         return padding;
     }
 
-    function sortRepos(repoA, repoB) {
+    function sortRepos(repoA: any, repoB: any) {
         const a = repoA.updatedAt;
         const b = repoB.updatedAt;
         if (a < b) {
@@ -139,16 +139,16 @@ function formatRepos(repos) {
         return 0;
     }
     
-    function fmtDate(dateString) {
+    function fmtDate(dateString: string) {
         let s = new Intl.DateTimeFormat('en-US').format(new Date(dateString));
         return s.split('/').map(_ => zeros(_, 2)).join('.');
     }
 
-    function repoDemoPage(repo) {
+    function repoDemoPage(repo: any) {
         if (repo.homepageUrl) {
             return `[${/npmjs\.com/.test(repo.homepageUrl) ? 'npm' : 'demo'}](${repo.homepageUrl})`;
         }
-        const meta = {
+        const meta: Record<string, string> = {
             'ch-spy-ext': 'extension',
             'spawn-loading-test': 'tests',
             'quadratic-curves': 'WIP',
@@ -175,14 +175,14 @@ function formatRepos(repos) {
         return meta[repo.name] || 'WIP';
     }
    
-    function buildTable(repos) {
+    function buildTable(repos: any[]) {
         return repos.map(repo => {
             const code = '```';
             return `[${repo.name}](${repo.url}) | ${code}${fmtDate(repo.createdAt)}${code} | ${code}${fmtDate(repo.updatedAt)}${code} | ${repoDemoPage(repo)}`;
         }).join('\n');
     }
 
-    function zeros(v/*: string | number*/, total/*: number*/) {
+    function zeros(v: string | number, total: number) {
         // Returns v prefixed with '0's with length <= total or v as is.
         v = v ? '' + v : '';
         return v.length < total ? '0000000000'.slice(0, total - v.length) + v : v;
@@ -190,7 +190,7 @@ function formatRepos(repos) {
 }
 
 async function main() {
-    const MY_TOKEN = process.env.MAXZZ_TOKEN;
+    const MY_TOKEN = process.env.MAXZZ_TOKEN || '';
     const IS_LOCAL = process.env.IS_LOCAL;
     const mainImg = IS_LOCAL
         ? '![](src/assets/main.svg)'
@@ -221,3 +221,5 @@ main().catch((error) => {
 });
 
 //TODO: https://githubmemory.com/@maxzz
+
+console.log('run 4');
