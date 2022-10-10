@@ -11,10 +11,10 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[quadratic-curves](https://github.com/maxzz/quadratic-curves) | ```04.23.2021``` | ```10.02.2022``` | [demo](https://maxzz.github.io/quadratic-curves)
-[react-d3](https://github.com/maxzz/react-d3) | ```07.11.2021``` | ```10.01.2022``` | [demo](https://maxzz.github.io/react-d3)
+[quadratic-curves](https://github.com/maxzz/quadratic-curves) | ```04.23.2021``` | ```10.10.2022``` | [demo](https://maxzz.github.io/quadratic-curves)
+[react-d3](https://github.com/maxzz/react-d3) | ```07.11.2021``` | ```10.09.2022``` | [demo](https://maxzz.github.io/react-d3)
+[page-qa2](https://github.com/maxzz/page-qa2) | ```03.05.2022``` | ```10.07.2022``` | [demo](https://maxzz.github.io/page-qa2)
 [pmac](https://github.com/maxzz/pmac) | ```09.02.2022``` | ```09.28.2022``` | [demo](https://maxzz.github.io/pmac)
-[page-qa2](https://github.com/maxzz/page-qa2) | ```03.05.2022``` | ```09.22.2022``` | [demo](https://maxzz.github.io/page-qa2)
 [rarsrt](https://github.com/maxzz/rarsrt) | ```04.14.2021``` | ```09.20.2022``` | [npm](https://www.npmjs.com/package/rarsrt)
 [ch-spy-ext](https://github.com/maxzz/ch-spy-ext) | ```05.08.2021``` | ```09.19.2022``` | [demo](https://github.com/maxzz/ch-spy)
 [dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```09.14.2022``` | [demo](https://maxzz.github.io/dropzone)
@@ -73,8 +73,8 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```03.29.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020``` | server
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
-[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```09.28.2022``` | [demo](https://maxzz.github.io)
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```09.29.2022``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```10.03.2022``` | this page
+[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```10.05.2022``` | [demo](https://maxzz.github.io)
 
 ## Collaboration repositories
 
