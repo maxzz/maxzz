@@ -11,7 +11,7 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[pmac](https://github.com/maxzz/pmac) | ```09.02.2022``` | ```10.23.2022``` | [demo](https://maxzz.github.io/pmac)
+[pmac](https://github.com/maxzz/pmac) | ```09.02.2022``` | ```10.30.2022``` | [demo](https://maxzz.github.io/pmac)
 [rarsrt](https://github.com/maxzz/rarsrt) | ```04.14.2021``` | ```10.22.2022``` | [npm](https://www.npmjs.com/package/rarsrt)
 [ngon-gen22](https://github.com/maxzz/ngon-gen22) | ```04.25.2022``` | ```10.18.2022``` | [demo](https://maxzz.github.io/ngon-gen22)
 [quadratic-curves](https://github.com/maxzz/quadratic-curves) | ```04.23.2021``` | ```10.17.2022``` | [demo](https://maxzz.github.io/quadratic-curves)
@@ -74,7 +74,7 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020``` | server
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```10.16.2022``` | [demo](https://maxzz.github.io)
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```10.17.2022``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```10.24.2022``` | this page
 
 ## Collaboration repositories
 
