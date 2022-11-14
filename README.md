@@ -11,7 +11,12 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[page-qa2](https://github.com/maxzz/page-qa2) | ```03.05.2022``` | ```11.07.2022``` | [demo](https://maxzz.github.io/page-qa2)
+[noise-gen](https://github.com/maxzz/noise-gen) | ```05.26.2021``` | ```11.13.2022``` | [demo](https://maxzz.github.io/noise-gen)
+[sftp-shell](https://github.com/maxzz/sftp-shell) | ```11.10.2022``` | ```11.12.2022``` | WIP
+[sftp-test](https://github.com/maxzz/sftp-test) | ```11.10.2022``` | ```11.10.2022``` | WIP
+[netsh-rule](https://github.com/maxzz/netsh-rule) | ```07.13.2020``` | ```11.09.2022``` | [npm](https://www.npmjs.com/package/netsh-rule)
+[page-qa2](https://github.com/maxzz/page-qa2) | ```03.05.2022``` | ```11.09.2022``` | [demo](https://maxzz.github.io/page-qa2)
+[page-extension-installation](https://github.com/maxzz/page-extension-installation) | ```06.23.2022``` | ```11.08.2022``` | [demo](https://maxzz.github.io/page-extension-installation)
 [pmac](https://github.com/maxzz/pmac) | ```09.02.2022``` | ```11.07.2022``` | [demo](https://maxzz.github.io/pmac)
 [topdirs](https://github.com/maxzz/topdirs) | ```11.03.2022``` | ```11.03.2022``` | WIP
 [rarsrt](https://github.com/maxzz/rarsrt) | ```04.14.2021``` | ```11.03.2022``` | [npm](https://www.npmjs.com/package/rarsrt)
@@ -30,14 +35,12 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [red3-path](https://github.com/maxzz/red3-path) | ```08.23.2021``` | ```07.15.2022``` | [demo](https://maxzz.github.io/red3-path/)
 [red3-curves](https://github.com/maxzz/red3-curves) | ```08.08.2021``` | ```07.06.2022``` | [demo](https://maxzz.github.io/red3-curves)
 [test-pm-domain-logins22](https://github.com/maxzz/test-pm-domain-logins22) | ```05.07.2022``` | ```07.01.2022``` | [demo](https://maxzz.github.io/test-pm-domain-logins22/)
-[page-extension-installation](https://github.com/maxzz/page-extension-installation) | ```06.23.2022``` | ```06.29.2022``` | [demo](https://maxzz.github.io/page-extension-installation)
 [cursors](https://github.com/maxzz/cursors) | ```02.07.2022``` | ```06.10.2022``` | [demo](https://maxzz.github.io/cursors)
 [leva-ui-dynamic-boxes](https://github.com/maxzz/leva-ui-dynamic-boxes) | ```04.27.2022``` | ```05.28.2022``` | [demo](https://maxzz.github.io/leva-ui-dynamic-boxes)
 [test-pm-second](https://github.com/maxzz/test-pm-second) | ```03.30.2021``` | ```05.22.2022``` | [demo](https://maxzz.github.io/test-pm-second)
 [test-pm-domain-logins](https://github.com/maxzz/test-pm-domain-logins) | ```10.22.2020``` | ```05.20.2022``` | [demo](https://maxzz.github.io/test-pm-domain-logins/)
 [svg-path](https://github.com/maxzz/svg-path) | ```12.21.2021``` | ```05.07.2022``` | [demo](https://maxzz.github.io/svg-path)
 [ngon-gen22-template](https://github.com/maxzz/ngon-gen22-template) | ```04.25.2022``` | ```04.25.2022``` | [demo](https://maxzz.github.io/ngon-gen22)
-[netsh-rule](https://github.com/maxzz/netsh-rule) | ```07.13.2020``` | ```03.27.2022``` | [npm](https://www.npmjs.com/package/netsh-rule)
 [ngon-gen](https://github.com/maxzz/ngon-gen) | ```05.12.2020``` | ```02.10.2022``` | [demo](https://maxzz.github.io/ngon-gen)
 [work-weeks](https://github.com/maxzz/work-weeks) | ```01.08.2021``` | ```01.17.2022``` | [npm](https://www.npmjs.com/package/work-weeks)
 [react-spring-tests](https://github.com/maxzz/react-spring-tests) | ```11.21.2021``` | ```12.20.2021``` | [demo](https://maxzz.github.io/react-spring-tests)
@@ -46,7 +49,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [real-time-resize-rcv](https://github.com/maxzz/real-time-resize-rcv) | ```10.16.2021``` | ```10.16.2021``` | [demo](https://codesandbox.io/s/github/maxzz/real-time-resize-rcv)
 [react-sm](https://github.com/maxzz/react-sm) | ```07.07.2021``` | ```09.18.2021``` | [demo](https://maxzz.github.io/react-sm)
 [red3-voronoi](https://github.com/maxzz/red3-voronoi) | ```08.23.2021``` | ```09.04.2021``` | [demo](https://maxzz.github.io/red3-voronoi/)
-[noise-gen](https://github.com/maxzz/noise-gen) | ```05.26.2021``` | ```08.12.2021``` | [demo](https://maxzz.github.io/noise-gen)
 [site-egghead.io-ctx](https://github.com/maxzz/site-egghead.io-ctx) | ```06.19.2021``` | ```06.19.2021``` | [demo](https://github.com/maxzz/ch-spy)
 [volume-illusion](https://github.com/maxzz/volume-illusion) | ```05.04.2021``` | ```05.06.2021``` | [demo](https://maxzz.github.io/volume-illusion)
 [spawn-loading-test](https://github.com/maxzz/spawn-loading-test) | ```04.29.2021``` | ```04.30.2021``` | tests
@@ -74,8 +76,8 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```03.29.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020``` | server
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```10.31.2022``` | this page
-[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```11.06.2022``` | [demo](https://maxzz.github.io)
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```11.07.2022``` | this page
+[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```11.10.2022``` | [demo](https://maxzz.github.io)
 
 ## Collaboration repositories
 
