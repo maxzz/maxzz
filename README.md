@@ -11,7 +11,7 @@
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[noise-gen](https://github.com/maxzz/noise-gen) | ```05.26.2021``` | ```11.13.2022``` | [demo](https://maxzz.github.io/noise-gen)
+[noise-gen](https://github.com/maxzz/noise-gen) | ```05.26.2021``` | ```11.21.2022``` | [demo](https://maxzz.github.io/noise-gen)
 [sftp-shell](https://github.com/maxzz/sftp-shell) | ```11.10.2022``` | ```11.12.2022``` | WIP
 [sftp-test](https://github.com/maxzz/sftp-test) | ```11.10.2022``` | ```11.10.2022``` | WIP
 [netsh-rule](https://github.com/maxzz/netsh-rule) | ```07.13.2020``` | ```11.09.2022``` | [npm](https://www.npmjs.com/package/netsh-rule)
@@ -76,8 +76,8 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```03.29.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020``` | server
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```11.07.2022``` | this page
 [maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```11.10.2022``` | [demo](https://maxzz.github.io)
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```11.14.2022``` | this page
 
 ## Collaboration repositories
 
