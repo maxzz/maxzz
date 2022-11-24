@@ -78,7 +78,7 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```03.29.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```01.06.2020``` | server
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
-[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```11.10.2022``` | [demo](https://maxzz.github.io)
+[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```11.24.2022``` | [demo](https://maxzz.github.io)
 [maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```11.24.2022``` | this page
 
 ## Collaboration repositories
@@ -100,6 +100,9 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 <!-- recent_releases ends -->
 
 ![](https://komarev.com/ghpvc/?username=maxzz&color=brightgreen)
+
+<!-- https://github.com/lowlighter/metrics -->
+![Metrics](https://metrics.lecoq.io/maxzz?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=America%2FLos_Angeles)
 
 ![](https://raw.githubusercontent.com/maxzz/maxzz/master/src/assets/maxz-128.png)
 <!-- ![](https://avatars.githubusercontent.com/maxzz?s=150&v=1) -->
