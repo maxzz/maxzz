@@ -13,11 +13,12 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[wmax-vanilla-web](https://github.com/maxzz/wmax-vanilla-web) | ```12.18.2022``` | ```12.18.2022``` | WIP
-[sftp-shell](https://github.com/maxzz/sftp-shell) | ```11.10.2022``` | ```12.18.2022``` | WIP
+[cursors](https://github.com/maxzz/cursors) | ```02.07.2022``` | ```12.25.2022``` | [demo](https://maxzz.github.io/cursors)
+[wmax-vanilla-vite](https://github.com/maxzz/wmax-vanilla-vite) | ```12.19.2022``` | ```12.25.2022``` | WIP
+[sftp-shell](https://github.com/maxzz/sftp-shell) | ```11.10.2022``` | ```12.24.2022``` | WIP
+[wmax-vanilla-gulp](https://github.com/maxzz/wmax-vanilla-gulp) | ```12.18.2022``` | ```12.19.2022``` | WIP
 [sftp-test](https://github.com/maxzz/sftp-test) | ```11.10.2022``` | ```12.12.2022``` | WIP
 [test-graphql](https://github.com/maxzz/test-graphql) | ```03.16.2020``` | ```12.12.2022``` | study
-[cursors](https://github.com/maxzz/cursors) | ```02.07.2022``` | ```12.09.2022``` | [demo](https://maxzz.github.io/cursors)
 [ngon-gen22-template](https://github.com/maxzz/ngon-gen22-template) | ```04.25.2022``` | ```12.03.2022``` | [demo](https://maxzz.github.io/ngon-gen22)
 [react-d3](https://github.com/maxzz/react-d3) | ```07.11.2021``` | ```12.02.2022``` | [demo](https://maxzz.github.io/react-d3)
 [page-qa2](https://github.com/maxzz/page-qa2) | ```03.05.2022``` | ```12.02.2022``` | [demo](https://maxzz.github.io/page-qa2)
@@ -80,7 +81,7 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```12.03.2022``` | [demo](https://maxzz.github.io)
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```12.12.2022``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```12.19.2022``` | this page
 
 ## Collaboration repositories
 
