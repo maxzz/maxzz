@@ -13,7 +13,12 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[cursors](https://github.com/maxzz/cursors) | ```02.07.2022``` | ```12.25.2022``` | [demo](https://maxzz.github.io/cursors)
+[srt-from-vtt](https://github.com/maxzz/srt-from-vtt) | ```12.29.2022``` | ```01.01.2023``` | WIP
+[rarsrt](https://github.com/maxzz/rarsrt) | ```04.14.2021``` | ```01.01.2023``` | [npm](https://www.npmjs.com/package/rarsrt)
+[react-delay-unmount](https://github.com/maxzz/react-delay-unmount) | ```03.13.2021``` | ```12.26.2022``` | [demo](https://maxzz.github.io/react-delay-unmount)
+[work-weeks](https://github.com/maxzz/work-weeks) | ```01.08.2021``` | ```12.26.2022``` | [npm](https://www.npmjs.com/package/work-weeks)
+[server-ocr](https://github.com/maxzz/server-ocr) | ```04.22.2021``` | ```12.26.2022``` | study
+[cursors](https://github.com/maxzz/cursors) | ```02.07.2022``` | ```12.26.2022``` | [demo](https://maxzz.github.io/cursors)
 [wmax-vanilla-vite](https://github.com/maxzz/wmax-vanilla-vite) | ```12.19.2022``` | ```12.25.2022``` | WIP
 [sftp-shell](https://github.com/maxzz/sftp-shell) | ```11.10.2022``` | ```12.24.2022``` | WIP
 [wmax-vanilla-gulp](https://github.com/maxzz/wmax-vanilla-gulp) | ```12.18.2022``` | ```12.19.2022``` | WIP
@@ -31,7 +36,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [page-extension-installation](https://github.com/maxzz/page-extension-installation) | ```06.23.2022``` | ```11.08.2022``` | [demo](https://maxzz.github.io/page-extension-installation)
 [pmac](https://github.com/maxzz/pmac) | ```09.02.2022``` | ```11.07.2022``` | [demo](https://maxzz.github.io/pmac)
 [topdirs](https://github.com/maxzz/topdirs) | ```11.03.2022``` | ```11.03.2022``` | WIP
-[rarsrt](https://github.com/maxzz/rarsrt) | ```04.14.2021``` | ```11.03.2022``` | [npm](https://www.npmjs.com/package/rarsrt)
 [rardir](https://github.com/maxzz/rardir) | ```09.16.2020``` | ```11.03.2022``` | [npm](https://www.npmjs.com/package/rardir)
 [quadratic-curves](https://github.com/maxzz/quadratic-curves) | ```04.23.2021``` | ```10.17.2022``` | [demo](https://maxzz.github.io/quadratic-curves)
 [ch-spy-ext](https://github.com/maxzz/ch-spy-ext) | ```05.08.2021``` | ```09.19.2022``` | [demo](https://github.com/maxzz/ch-spy)
@@ -47,7 +51,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [test-pm-domain-logins](https://github.com/maxzz/test-pm-domain-logins) | ```10.22.2020``` | ```05.20.2022``` | [demo](https://maxzz.github.io/test-pm-domain-logins/)
 [svg-path](https://github.com/maxzz/svg-path) | ```12.21.2021``` | ```05.07.2022``` | [demo](https://maxzz.github.io/svg-path)
 [ngon-gen](https://github.com/maxzz/ngon-gen) | ```05.12.2020``` | ```02.10.2022``` | [demo](https://maxzz.github.io/ngon-gen)
-[work-weeks](https://github.com/maxzz/work-weeks) | ```01.08.2021``` | ```01.17.2022``` | [npm](https://www.npmjs.com/package/work-weeks)
 [test-pm](https://github.com/maxzz/test-pm) | ```05.28.2020``` | ```12.10.2021``` | [demo](https://maxzz.github.io/test-pm/)
 [css-3d](https://github.com/maxzz/css-3d) | ```05.06.2021``` | ```11.07.2021``` | [demo](https://maxzz.github.io/css-3d)
 [real-time-resize-rcv](https://github.com/maxzz/real-time-resize-rcv) | ```10.16.2021``` | ```10.16.2021``` | [demo](https://codesandbox.io/s/github/maxzz/real-time-resize-rcv)
@@ -56,7 +59,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [site-egghead.io-ctx](https://github.com/maxzz/site-egghead.io-ctx) | ```06.19.2021``` | ```06.19.2021``` | [demo](https://github.com/maxzz/ch-spy)
 [volume-illusion](https://github.com/maxzz/volume-illusion) | ```05.04.2021``` | ```05.06.2021``` | [demo](https://maxzz.github.io/volume-illusion)
 [spawn-loading-test](https://github.com/maxzz/spawn-loading-test) | ```04.29.2021``` | ```04.30.2021``` | tests
-[server-ocr](https://github.com/maxzz/server-ocr) | ```04.22.2021``` | ```04.22.2021``` | study
 [vue-evens-todos](https://github.com/maxzz/vue-evens-todos) | ```05.04.2020``` | ```04.17.2021``` | [demo](https://codesandbox.io/s/github/maxzz/vue-evens-todos)
 [back-to-90s-html](https://github.com/maxzz/back-to-90s-html) | ```12.13.2020``` | ```04.16.2021``` | [demo](https://maxzz.github.io/back-to-90s-html/)
 [blooming-gen](https://github.com/maxzz/blooming-gen) | ```04.08.2021``` | ```04.11.2021``` | [demo](https://maxzz.github.io/blooming-gen)
@@ -67,7 +69,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-gsap-menu](https://github.com/maxzz/react-gsap-menu) | ```03.21.2021``` | ```03.21.2021``` | [demo](https://maxzz.github.io/react-gsap-menu)
 [react-spring-interpolation](https://github.com/maxzz/react-spring-interpolation) | ```03.15.2021``` | ```03.20.2021``` | [demo](https://maxzz.github.io/react-spring-interpolation)
 [vanilla-folding-carousel](https://github.com/maxzz/vanilla-folding-carousel) | ```03.14.2021``` | ```03.14.2021``` | [demo](https://maxzz.github.io/vanilla-folding-carousel/)
-[react-delay-unmount](https://github.com/maxzz/react-delay-unmount) | ```03.13.2021``` | ```03.13.2021``` | [demo](https://maxzz.github.io/react-delay-unmount)
 [react-scrolling-carousel](https://github.com/maxzz/react-scrolling-carousel) | ```03.12.2021``` | ```03.12.2021``` | [demo](https://maxzz.github.io/react-scrolling-carousel)
 [svg-icons-vite](https://github.com/maxzz/svg-icons-vite) | ```12.27.2020``` | ```12.27.2020``` | [demo](https://maxzz.github.io/svg-icons-vite)
 [svg-icons-font-sw](https://github.com/maxzz/svg-icons-font-sw) | ```12.25.2020``` | ```12.25.2020``` | [demo](https://maxzz.github.io/svg-icons-font-sw)
@@ -81,7 +82,7 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```12.03.2022``` | [demo](https://maxzz.github.io)
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```12.19.2022``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```12.26.2022``` | this page
 
 ## Collaboration repositories
 
