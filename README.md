@@ -13,9 +13,10 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
+[forms-formik](https://github.com/maxzz/forms-formik) | ```01.06.2023``` | ```01.08.2023``` | WIP
+[react-delay-unmount](https://github.com/maxzz/react-delay-unmount) | ```03.13.2021``` | ```01.06.2023``` | [demo](https://maxzz.github.io/react-delay-unmount)
+[rarsrt](https://github.com/maxzz/rarsrt) | ```04.14.2021``` | ```01.06.2023``` | [npm](https://www.npmjs.com/package/rarsrt)
 [srt-from-vtt](https://github.com/maxzz/srt-from-vtt) | ```12.29.2022``` | ```01.01.2023``` | WIP
-[rarsrt](https://github.com/maxzz/rarsrt) | ```04.14.2021``` | ```01.01.2023``` | [npm](https://www.npmjs.com/package/rarsrt)
-[react-delay-unmount](https://github.com/maxzz/react-delay-unmount) | ```03.13.2021``` | ```12.26.2022``` | [demo](https://maxzz.github.io/react-delay-unmount)
 [work-weeks](https://github.com/maxzz/work-weeks) | ```01.08.2021``` | ```12.26.2022``` | [npm](https://www.npmjs.com/package/work-weeks)
 [server-ocr](https://github.com/maxzz/server-ocr) | ```04.22.2021``` | ```12.26.2022``` | study
 [cursors](https://github.com/maxzz/cursors) | ```02.07.2022``` | ```12.26.2022``` | [demo](https://maxzz.github.io/cursors)
@@ -80,9 +81,9 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [svg-bkg-stripes](https://github.com/maxzz/svg-bkg-stripes) | ```11.02.2020``` | ```11.11.2020``` | [demo](https://maxzz.github.io/svg-bkg-stripes)
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```03.29.2020``` | study
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
-[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```12.03.2022``` | [demo](https://maxzz.github.io)
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```12.26.2022``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```01.02.2023``` | this page
+[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```01.05.2023``` | [demo](https://maxzz.github.io)
 
 ## Collaboration repositories
 
