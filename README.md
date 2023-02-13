@@ -13,7 +13,8 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[electron-react](https://github.com/maxzz/electron-react) | ```01.26.2023``` | ```02.05.2023``` | WIP
+[electron-react](https://github.com/maxzz/electron-react) | ```01.26.2023``` | ```02.12.2023``` | WIP
+[electron-vite-plugin-e](https://github.com/maxzz/electron-vite-plugin-e) | ```02.07.2023``` | ```02.07.2023``` | WIP
 [react-delay-unmount](https://github.com/maxzz/react-delay-unmount) | ```03.13.2021``` | ```01.30.2023``` | [demo](https://maxzz.github.io/react-delay-unmount)
 [forms-wreducer](https://github.com/maxzz/forms-wreducer) | ```01.15.2023``` | ```01.28.2023``` | [demo](https://maxzz.github.io/forms-wreducer)
 [forms-formik](https://github.com/maxzz/forms-formik) | ```01.06.2023``` | ```01.24.2023``` | [demo](https://maxzz.github.io/forms-formik)
@@ -85,8 +86,8 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```03.29.2020``` | study
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```01.30.2023``` | this page
-[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```02.03.2023``` | [demo](https://maxzz.github.io)
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```02.06.2023``` | this page
+[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```02.07.2023``` | [demo](https://maxzz.github.io)
 
 ## Collaboration repositories
 
