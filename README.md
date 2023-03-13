@@ -13,9 +13,11 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
+[page-qa2](https://github.com/maxzz/page-qa2) | ```03.05.2022``` | ```03.12.2023``` | [demo](https://maxzz.github.io/page-qa2)
+[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```03.10.2023``` | [demo](https://maxzz.github.io/dropzone)
+[sftp-shell](https://github.com/maxzz/sftp-shell) | ```11.10.2022``` | ```03.09.2023``` | WIP
+[color-names22](https://github.com/maxzz/color-names22) | ```04.04.2022``` | ```03.08.2023``` | [demo](https://maxzz.github.io/color-names22)
 [giffy](https://github.com/maxzz/giffy) | ```03.15.2020``` | ```03.06.2023``` | [demo](https://maxzz.github.io/giffy)
-[sftp-shell](https://github.com/maxzz/sftp-shell) | ```11.10.2022``` | ```03.05.2023``` | WIP
-[page-qa2](https://github.com/maxzz/page-qa2) | ```03.05.2022``` | ```03.05.2023``` | [demo](https://maxzz.github.io/page-qa2)
 [ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```03.05.2023``` | [demo](https://maxzz.github.io/ch-spy/)
 [ngon-gen](https://github.com/maxzz/ngon-gen) | ```05.12.2020``` | ```03.04.2023``` | [demo](https://maxzz.github.io/ngon-gen)
 [ui-pie-menu](https://github.com/maxzz/ui-pie-menu) | ```02.22.2023``` | ```03.02.2023``` | WIP
@@ -38,7 +40,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-d3](https://github.com/maxzz/react-d3) | ```07.11.2021``` | ```12.02.2022``` | [demo](https://maxzz.github.io/react-d3)
 [ngon-gen22](https://github.com/maxzz/ngon-gen22) | ```04.25.2022``` | ```12.01.2022``` | [demo](https://maxzz.github.io/ngon-gen22)
 [react-spring-tests](https://github.com/maxzz/react-spring-tests) | ```11.21.2021``` | ```12.01.2022``` | [demo](https://maxzz.github.io/react-spring-tests)
-[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```11.27.2022``` | [demo](https://maxzz.github.io/dropzone)
 [noise-gen](https://github.com/maxzz/noise-gen) | ```05.26.2021``` | ```11.24.2022``` | [demo](https://maxzz.github.io/noise-gen)
 [netsh-rule](https://github.com/maxzz/netsh-rule) | ```07.13.2020``` | ```11.09.2022``` | [npm](https://www.npmjs.com/package/netsh-rule)
 [page-extension-installation](https://github.com/maxzz/page-extension-installation) | ```06.23.2022``` | ```11.08.2022``` | [demo](https://maxzz.github.io/page-extension-installation)
@@ -48,7 +49,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [quadratic-curves](https://github.com/maxzz/quadratic-curves) | ```04.23.2021``` | ```10.17.2022``` | [demo](https://maxzz.github.io/quadratic-curves)
 [ch-spy-ext](https://github.com/maxzz/ch-spy-ext) | ```05.08.2021``` | ```09.19.2022``` | [demo](https://github.com/maxzz/ch-spy)
 [gluehtml](https://github.com/maxzz/gluehtml) | ```05.27.2020``` | ```09.10.2022``` | [npm](https://www.npmjs.com/package/gluehtml)
-[color-names22](https://github.com/maxzz/color-names22) | ```04.04.2022``` | ```08.09.2022``` | [demo](https://maxzz.github.io/color-names22)
 [simple-border-radius22](https://github.com/maxzz/simple-border-radius22) | ```07.07.2022``` | ```08.01.2022``` | [demo](https://maxzz.github.io/simple-border-radius22)
 [red3-path](https://github.com/maxzz/red3-path) | ```08.23.2021``` | ```07.15.2022``` | [demo](https://maxzz.github.io/red3-path/)
 [red3-curves](https://github.com/maxzz/red3-curves) | ```08.08.2021``` | ```07.06.2022``` | [demo](https://maxzz.github.io/red3-curves)
@@ -87,8 +87,8 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```03.29.2020``` | study
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
-[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```02.25.2023``` | [demo](https://maxzz.github.io)
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```02.27.2023``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```03.06.2023``` | this page
+[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```03.08.2023``` | [demo](https://maxzz.github.io)
 
 ## Collaboration repositories
 
