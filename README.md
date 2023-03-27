@@ -13,6 +13,8 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
+[forms-react-hook-form](https://github.com/maxzz/forms-react-hook-form) | ```03.23.2023``` | ```03.25.2023``` | [demo](https://maxzz.github.io/forms-react-hook-form)
+[rarsrt](https://github.com/maxzz/rarsrt) | ```04.14.2021``` | ```03.23.2023``` | [npm](https://www.npmjs.com/package/rarsrt)
 [color-names22](https://github.com/maxzz/color-names22) | ```04.04.2022``` | ```03.19.2023``` | [demo](https://maxzz.github.io/color-names22)
 [page-qa2](https://github.com/maxzz/page-qa2) | ```03.05.2022``` | ```03.19.2023``` | [demo](https://maxzz.github.io/page-qa2)
 [dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```03.13.2023``` | [demo](https://maxzz.github.io/dropzone)
@@ -28,7 +30,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [forms-formik](https://github.com/maxzz/forms-formik) | ```01.06.2023``` | ```01.24.2023``` | [demo](https://maxzz.github.io/forms-formik)
 [ui-vanilla-dropdown](https://github.com/maxzz/ui-vanilla-dropdown) | ```01.13.2023``` | ```01.13.2023``` | [demo](https://maxzz.github.io/ui-vanilla-dropdown)
 [wmax-vanilla-vite](https://github.com/maxzz/wmax-vanilla-vite) | ```12.19.2022``` | ```01.11.2023``` | [demo](https://maxzz.github.io/wmax-vanilla-vite)
-[rarsrt](https://github.com/maxzz/rarsrt) | ```04.14.2021``` | ```01.06.2023``` | [npm](https://www.npmjs.com/package/rarsrt)
 [srt-from-vtt](https://github.com/maxzz/srt-from-vtt) | ```12.29.2022``` | ```01.01.2023``` | WIP
 [work-weeks](https://github.com/maxzz/work-weeks) | ```01.08.2021``` | ```12.26.2022``` | [npm](https://www.npmjs.com/package/work-weeks)
 [server-ocr](https://github.com/maxzz/server-ocr) | ```04.22.2021``` | ```12.26.2022``` | study
@@ -87,8 +88,8 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```03.29.2020``` | study
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
-[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```03.08.2023``` | [demo](https://maxzz.github.io)
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```03.13.2023``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```03.20.2023``` | this page
+[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```03.25.2023``` | [demo](https://maxzz.github.io)
 
 ## Collaboration repositories
 
