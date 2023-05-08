@@ -13,8 +13,8 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[reactivity-valtio-jotai](https://github.com/maxzz/reactivity-valtio-jotai) | ```04.27.2023``` | ```04.29.2023``` | [demo](https://maxzz.github.io/reactivity-valtio-jotai)
-[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```04.27.2023``` | [demo](https://maxzz.github.io/dropzone)
+[reactivity-valtio-jotai](https://github.com/maxzz/reactivity-valtio-jotai) | ```04.27.2023``` | ```05.08.2023``` | [demo](https://maxzz.github.io/reactivity-valtio-jotai)
+[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```05.07.2023``` | [demo](https://maxzz.github.io/dropzone)
 [forms-react-hook-form-radix](https://github.com/maxzz/forms-react-hook-form-radix) | ```04.06.2023``` | ```04.12.2023``` | [demo](https://maxzz.github.io/forms-react-hook-form-radix)
 [forms-react-hook-form](https://github.com/maxzz/forms-react-hook-form) | ```03.23.2023``` | ```04.11.2023``` | [demo](https://maxzz.github.io/forms-react-hook-form)
 [color-names22](https://github.com/maxzz/color-names22) | ```04.04.2022``` | ```04.04.2023``` | [demo](https://maxzz.github.io/color-names22)
@@ -90,8 +90,8 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```03.29.2020``` | study
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```04.24.2023``` | this page
-[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```04.28.2023``` | [demo](https://maxzz.github.io)
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```05.01.2023``` | this page
+[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```05.02.2023``` | [demo](https://maxzz.github.io)
 
 ## Collaboration repositories
 
