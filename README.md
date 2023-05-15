@@ -13,8 +13,10 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[reactivity-valtio-jotai](https://github.com/maxzz/reactivity-valtio-jotai) | ```04.27.2023``` | ```05.08.2023``` | [demo](https://maxzz.github.io/reactivity-valtio-jotai)
-[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```05.07.2023``` | [demo](https://maxzz.github.io/dropzone)
+[srp-play-tssrp6a](https://github.com/maxzz/srp-play-tssrp6a) | ```05.14.2023``` | ```05.15.2023``` | WIP
+[reactivity-valtio-jotai](https://github.com/maxzz/reactivity-valtio-jotai) | ```04.27.2023``` | ```05.14.2023``` | [demo](https://maxzz.github.io/reactivity-valtio-jotai)
+[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```05.10.2023``` | [demo](https://maxzz.github.io/dropzone)
+[giffy](https://github.com/maxzz/giffy) | ```03.15.2020``` | ```05.08.2023``` | [demo](https://maxzz.github.io/giffy)
 [forms-react-hook-form-radix](https://github.com/maxzz/forms-react-hook-form-radix) | ```04.06.2023``` | ```04.12.2023``` | [demo](https://maxzz.github.io/forms-react-hook-form-radix)
 [forms-react-hook-form](https://github.com/maxzz/forms-react-hook-form) | ```03.23.2023``` | ```04.11.2023``` | [demo](https://maxzz.github.io/forms-react-hook-form)
 [color-names22](https://github.com/maxzz/color-names22) | ```04.04.2022``` | ```04.04.2023``` | [demo](https://maxzz.github.io/color-names22)
@@ -23,7 +25,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [test-pm-domain-logins22](https://github.com/maxzz/test-pm-domain-logins22) | ```05.07.2022``` | ```03.27.2023``` | [demo](https://maxzz.github.io/test-pm-domain-logins22/)
 [rarsrt](https://github.com/maxzz/rarsrt) | ```04.14.2021``` | ```03.23.2023``` | [npm](https://www.npmjs.com/package/rarsrt)
 [sftp-shell](https://github.com/maxzz/sftp-shell) | ```11.10.2022``` | ```03.09.2023``` | WIP
-[giffy](https://github.com/maxzz/giffy) | ```03.15.2020``` | ```03.06.2023``` | [demo](https://maxzz.github.io/giffy)
 [ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```03.05.2023``` | [demo](https://maxzz.github.io/ch-spy/)
 [ngon-gen](https://github.com/maxzz/ngon-gen) | ```05.12.2020``` | ```03.04.2023``` | [demo](https://maxzz.github.io/ngon-gen)
 [electron-react](https://github.com/maxzz/electron-react) | ```01.26.2023``` | ```02.21.2023``` | WIP
@@ -90,8 +91,8 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```03.29.2020``` | study
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```05.01.2023``` | this page
 [maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```05.02.2023``` | [demo](https://maxzz.github.io)
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```05.08.2023``` | this page
 
 ## Collaboration repositories
 
