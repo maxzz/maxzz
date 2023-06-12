@@ -13,9 +13,11 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[srp-play-tssrp6a](https://github.com/maxzz/srp-play-tssrp6a) | ```05.14.2023``` | ```06.03.2023``` | [demo](https://maxzz.github.io/srp-play-tssrp6a)
+[ts-sjcl](https://github.com/maxzz/ts-sjcl) | ```06.12.2023``` | ```06.12.2023``` | WIP
+[srp-play-tssrp6a](https://github.com/maxzz/srp-play-tssrp6a) | ```05.14.2023``` | ```06.11.2023``` | [demo](https://maxzz.github.io/srp-play-tssrp6a)
+[electron-react](https://github.com/maxzz/electron-react) | ```01.26.2023``` | ```06.07.2023``` | WIP
+[reactivity-valtio-jotai](https://github.com/maxzz/reactivity-valtio-jotai) | ```04.27.2023``` | ```06.05.2023``` | [demo](https://maxzz.github.io/reactivity-valtio-jotai)
 [dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```05.28.2023``` | [demo](https://maxzz.github.io/dropzone)
-[reactivity-valtio-jotai](https://github.com/maxzz/reactivity-valtio-jotai) | ```04.27.2023``` | ```05.20.2023``` | [demo](https://maxzz.github.io/reactivity-valtio-jotai)
 [workers-comlink](https://github.com/maxzz/workers-comlink) | ```05.18.2023``` | ```05.20.2023``` | [demo](https://maxzz.github.io/workers-comlink)
 [giffy](https://github.com/maxzz/giffy) | ```03.15.2020``` | ```05.08.2023``` | [demo](https://maxzz.github.io/giffy)
 [forms-react-hook-form-radix](https://github.com/maxzz/forms-react-hook-form-radix) | ```04.06.2023``` | ```04.12.2023``` | [demo](https://maxzz.github.io/forms-react-hook-form-radix)
@@ -28,7 +30,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [sftp-shell](https://github.com/maxzz/sftp-shell) | ```11.10.2022``` | ```03.09.2023``` | WIP
 [ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```03.05.2023``` | [demo](https://maxzz.github.io/ch-spy/)
 [ngon-gen](https://github.com/maxzz/ngon-gen) | ```05.12.2020``` | ```03.04.2023``` | [demo](https://maxzz.github.io/ngon-gen)
-[electron-react](https://github.com/maxzz/electron-react) | ```01.26.2023``` | ```02.21.2023``` | WIP
 [electron-vite-plugin-e](https://github.com/maxzz/electron-vite-plugin-e) | ```02.07.2023``` | ```02.07.2023``` | WIP
 [react-delay-unmount](https://github.com/maxzz/react-delay-unmount) | ```03.13.2021``` | ```01.30.2023``` | [demo](https://maxzz.github.io/react-delay-unmount)
 [forms-wreducer](https://github.com/maxzz/forms-wreducer) | ```01.15.2023``` | ```01.28.2023``` | [demo](https://maxzz.github.io/forms-wreducer)
@@ -92,8 +93,8 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```03.29.2020``` | study
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```05.29.2023``` | this page
 [maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```06.04.2023``` | [demo](https://maxzz.github.io)
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```06.05.2023``` | this page
 
 ## Collaboration repositories
 
