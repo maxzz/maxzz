@@ -13,9 +13,11 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[ts-sjcl](https://github.com/maxzz/ts-sjcl) | ```06.12.2023``` | ```06.12.2023``` | WIP
+[electron-react](https://github.com/maxzz/electron-react) | ```01.26.2023``` | ```06.17.2023``` | WIP
+[electron-window-monitor](https://github.com/maxzz/electron-window-monitor) | ```06.16.2023``` | ```06.17.2023``` | WIP
+[ts-sjcl](https://github.com/maxzz/ts-sjcl) | ```06.12.2023``` | ```06.15.2023``` | WIP
+[ts-srpclient](https://github.com/maxzz/ts-srpclient) | ```06.15.2023``` | ```06.15.2023``` | WIP
 [srp-play-tssrp6a](https://github.com/maxzz/srp-play-tssrp6a) | ```05.14.2023``` | ```06.11.2023``` | [demo](https://maxzz.github.io/srp-play-tssrp6a)
-[electron-react](https://github.com/maxzz/electron-react) | ```01.26.2023``` | ```06.07.2023``` | WIP
 [reactivity-valtio-jotai](https://github.com/maxzz/reactivity-valtio-jotai) | ```04.27.2023``` | ```06.05.2023``` | [demo](https://maxzz.github.io/reactivity-valtio-jotai)
 [dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```05.28.2023``` | [demo](https://maxzz.github.io/dropzone)
 [workers-comlink](https://github.com/maxzz/workers-comlink) | ```05.18.2023``` | ```05.20.2023``` | [demo](https://maxzz.github.io/workers-comlink)
@@ -94,7 +96,7 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
 [maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```06.04.2023``` | [demo](https://maxzz.github.io)
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```06.05.2023``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```06.12.2023``` | this page
 
 ## Collaboration repositories
 
