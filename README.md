@@ -13,7 +13,8 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[electron-window-monitor](https://github.com/maxzz/electron-window-monitor) | ```06.16.2023``` | ```06.25.2023``` | WIP
+[electron-window-monitor](https://github.com/maxzz/electron-window-monitor) | ```06.16.2023``` | ```07.03.2023``` | WIP
+[pmat-manual-mode](https://github.com/maxzz/pmat-manual-mode) | ```06.26.2023``` | ```06.30.2023``` | WIP
 [react-spring-transition-chain](https://github.com/maxzz/react-spring-transition-chain) | ```06.25.2023``` | ```06.25.2023``` | [demo](https://codesandbox.io/s/github/maxzz/react-spring-transition-chain)
 [react-spring-message-hub](https://github.com/maxzz/react-spring-message-hub) | ```06.25.2023``` | ```06.25.2023``` | [demo](https://codesandbox.io/s/github/maxzz/react-spring-message-hub)
 [electron-react](https://github.com/maxzz/electron-react) | ```01.26.2023``` | ```06.17.2023``` | WIP
@@ -97,8 +98,8 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```03.29.2020``` | study
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```06.19.2023``` | this page
 [maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```06.25.2023``` | [demo](https://maxzz.github.io)
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```06.26.2023``` | this page
 
 ## Collaboration repositories
 
