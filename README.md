@@ -13,13 +13,14 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[electron-window-monitor](https://github.com/maxzz/electron-window-monitor) | ```06.16.2023``` | ```07.10.2023``` | WIP
+[pmat-manual-mode](https://github.com/maxzz/pmat-manual-mode) | ```06.26.2023``` | ```07.16.2023``` | [demo](https://maxzz.github.io/pmat-manual-mode)
+[electron-window-monitor](https://github.com/maxzz/electron-window-monitor) | ```06.16.2023``` | ```07.14.2023``` | WIP
+[pm-manifest](https://github.com/maxzz/pm-manifest) | ```07.03.2023``` | ```07.12.2023``` | WIP
+[gluehtml](https://github.com/maxzz/gluehtml) | ```05.27.2020``` | ```07.11.2023``` | [npm](https://www.npmjs.com/package/gluehtml)
 [dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```07.10.2023``` | [demo](https://maxzz.github.io/dropzone)
-[pm-manifest](https://github.com/maxzz/pm-manifest) | ```07.03.2023``` | ```07.10.2023``` | WIP
 [pm-manifest-icons](https://github.com/maxzz/pm-manifest-icons) | ```07.08.2023``` | ```07.08.2023``` | WIP
 [pmac](https://github.com/maxzz/pmac) | ```09.02.2022``` | ```07.04.2023``` | [demo](https://maxzz.github.io/pmac)
 [reactivity-valtio-jotai](https://github.com/maxzz/reactivity-valtio-jotai) | ```04.27.2023``` | ```07.04.2023``` | [demo](https://maxzz.github.io/reactivity-valtio-jotai)
-[pmat-manual-mode](https://github.com/maxzz/pmat-manual-mode) | ```06.26.2023``` | ```06.30.2023``` | WIP
 [react-spring-transition-chain](https://github.com/maxzz/react-spring-transition-chain) | ```06.25.2023``` | ```06.25.2023``` | [demo](https://codesandbox.io/s/github/maxzz/react-spring-transition-chain)
 [react-spring-message-hub](https://github.com/maxzz/react-spring-message-hub) | ```06.25.2023``` | ```06.25.2023``` | [demo](https://codesandbox.io/s/github/maxzz/react-spring-message-hub)
 [electron-react](https://github.com/maxzz/electron-react) | ```01.26.2023``` | ```06.17.2023``` | WIP
@@ -62,7 +63,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [rardir](https://github.com/maxzz/rardir) | ```09.16.2020``` | ```11.03.2022``` | [npm](https://www.npmjs.com/package/rardir)
 [quadratic-curves](https://github.com/maxzz/quadratic-curves) | ```04.23.2021``` | ```10.17.2022``` | [demo](https://maxzz.github.io/quadratic-curves)
 [ch-spy-ext](https://github.com/maxzz/ch-spy-ext) | ```05.08.2021``` | ```09.19.2022``` | [demo](https://github.com/maxzz/ch-spy)
-[gluehtml](https://github.com/maxzz/gluehtml) | ```05.27.2020``` | ```09.10.2022``` | [npm](https://www.npmjs.com/package/gluehtml)
 [simple-border-radius22](https://github.com/maxzz/simple-border-radius22) | ```07.07.2022``` | ```08.01.2022``` | [demo](https://maxzz.github.io/simple-border-radius22)
 [red3-path](https://github.com/maxzz/red3-path) | ```08.23.2021``` | ```07.15.2022``` | [demo](https://maxzz.github.io/red3-path/)
 [red3-curves](https://github.com/maxzz/red3-curves) | ```08.08.2021``` | ```07.06.2022``` | [demo](https://maxzz.github.io/red3-curves)
@@ -101,7 +101,7 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
 [maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```06.25.2023``` | [demo](https://maxzz.github.io)
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```07.03.2023``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```07.11.2023``` | this page
 
 ## Collaboration repositories
 
