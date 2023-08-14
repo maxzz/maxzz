@@ -13,8 +13,10 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
+[node-chalk](https://github.com/maxzz/node-chalk) | ```08.11.2023``` | ```08.14.2023``` | [npm](https://www.npmjs.com/package/node-chalk)
+[pmat-manual-mode](https://github.com/maxzz/pmat-manual-mode) | ```06.26.2023``` | ```08.13.2023``` | [demo](https://maxzz.github.io/pmat-manual-mode)
+[pm-xtn-csui-test-vanilla](https://github.com/maxzz/pm-xtn-csui-test-vanilla) | ```08.08.2023``` | ```08.08.2023``` | [demo](https://maxzz.github.io/pm-xtn-csui-test-vanilla)
 [rollup-plugin-replace-regex](https://github.com/maxzz/rollup-plugin-replace-regex) | ```07.27.2023``` | ```08.06.2023``` | [npm](https://www.npmjs.com/package/rollup-plugin-replace-regex)
-[pmat-manual-mode](https://github.com/maxzz/pmat-manual-mode) | ```06.26.2023``` | ```08.06.2023``` | [demo](https://maxzz.github.io/pmat-manual-mode)
 [gluehtml](https://github.com/maxzz/gluehtml) | ```05.27.2020``` | ```08.01.2023``` | [npm](https://www.npmjs.com/package/gluehtml)
 [pm-xtn-csui](https://github.com/maxzz/pm-xtn-csui) | ```07.20.2023``` | ```08.01.2023``` | WIP
 [pm-xtn-csui-res](https://github.com/maxzz/pm-xtn-csui-res) | ```07.22.2023``` | ```08.01.2023``` | WIP
@@ -104,8 +106,8 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```03.29.2020``` | study
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```07.31.2023``` | this page
-[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```08.01.2023``` | [demo](https://maxzz.github.io)
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```08.07.2023``` | this page
+[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```08.14.2023``` | [demo](https://maxzz.github.io)
 
 ## Collaboration repositories
 
