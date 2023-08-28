@@ -11,28 +11,30 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 ## Original repositories
 
-repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
+[ts-srpclient](https://github.com/maxzz/ts-srpclient) | ```06.15.2023``` | ```08.27.2023``` | WIP
+[ts-sjcl](https://github.com/maxzz/ts-sjcl) | ```06.12.2023``` | ```08.27.2023``` | WIP
+[sftp-shell](https://github.com/maxzz/sftp-shell) | ```11.10.2022``` | ```08.27.2023``` | WIP
+[pm-manifest](https://github.com/maxzz/pm-manifest) | ```07.03.2023``` | ```08.27.2023``` | WIP
+[pm-xtn-csui](https://github.com/maxzz/pm-xtn-csui) | ```07.20.2023``` | ```08.27.2023``` | WIP
+[pm-xtn-csui-test-vanilla](https://github.com/maxzz/pm-xtn-csui-test-vanilla) | ```08.08.2023``` | ```08.27.2023``` | [demo](https://maxzz.github.io/pm-xtn-csui-test-vanilla)
+[rollup-plugin-pack-json-values](https://github.com/maxzz/rollup-plugin-pack-json-values) | ```08.27.2023``` | ```08.27.2023``` | WIP
+[pmat-manual-mode](https://github.com/maxzz/pmat-manual-mode) | ```06.26.2023``` | ```08.26.2023``` | [demo](https://maxzz.github.io/pmat-manual-mode)
+[reactivity-valtio-jotai](https://github.com/maxzz/reactivity-valtio-jotai) | ```04.27.2023``` | ```08.24.2023``` | [demo](https://maxzz.github.io/reactivity-valtio-jotai)
+[ngon-gen22](https://github.com/maxzz/ngon-gen22) | ```04.25.2022``` | ```08.23.2023``` | [demo](https://maxzz.github.io/ngon-gen22)
+[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```08.21.2023``` | [demo](https://maxzz.github.io/dropzone)
 [rollup-plugin-replace-regex](https://github.com/maxzz/rollup-plugin-replace-regex) | ```07.27.2023``` | ```08.19.2023``` | [npm](https://www.npmjs.com/package/rollup-plugin-replace-regex)
-[ngon-gen22](https://github.com/maxzz/ngon-gen22) | ```04.25.2022``` | ```08.19.2023``` | [demo](https://maxzz.github.io/ngon-gen22)
-[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```08.16.2023``` | [demo](https://maxzz.github.io/dropzone)
-[pmat-manual-mode](https://github.com/maxzz/pmat-manual-mode) | ```06.26.2023``` | ```08.15.2023``` | [demo](https://maxzz.github.io/pmat-manual-mode)
 [node-chalk](https://github.com/maxzz/node-chalk) | ```08.11.2023``` | ```08.14.2023``` | [npm](https://www.npmjs.com/package/node-chalk)
-[pm-xtn-csui-test-vanilla](https://github.com/maxzz/pm-xtn-csui-test-vanilla) | ```08.08.2023``` | ```08.08.2023``` | [demo](https://maxzz.github.io/pm-xtn-csui-test-vanilla)
 [gluehtml](https://github.com/maxzz/gluehtml) | ```05.27.2020``` | ```08.01.2023``` | [npm](https://www.npmjs.com/package/gluehtml)
-[pm-xtn-csui](https://github.com/maxzz/pm-xtn-csui) | ```07.20.2023``` | ```08.01.2023``` | WIP
 [pm-xtn-csui-res](https://github.com/maxzz/pm-xtn-csui-res) | ```07.22.2023``` | ```08.01.2023``` | WIP
 [pm-xtn-dom](https://github.com/maxzz/pm-xtn-dom) | ```07.20.2023``` | ```07.31.2023``` | [npm](https://www.npmjs.com/package/pm-xtn-dom)
 [electron-window-monitor](https://github.com/maxzz/electron-window-monitor) | ```06.16.2023``` | ```07.18.2023``` | WIP
-[pm-manifest](https://github.com/maxzz/pm-manifest) | ```07.03.2023``` | ```07.12.2023``` | WIP
 [pm-manifest-icons](https://github.com/maxzz/pm-manifest-icons) | ```07.08.2023``` | ```07.08.2023``` | WIP
 [pmac](https://github.com/maxzz/pmac) | ```09.02.2022``` | ```07.04.2023``` | [demo](https://maxzz.github.io/pmac)
-[reactivity-valtio-jotai](https://github.com/maxzz/reactivity-valtio-jotai) | ```04.27.2023``` | ```07.04.2023``` | [demo](https://maxzz.github.io/reactivity-valtio-jotai)
 [react-spring-transition-chain](https://github.com/maxzz/react-spring-transition-chain) | ```06.25.2023``` | ```06.25.2023``` | [demo](https://codesandbox.io/s/github/maxzz/react-spring-transition-chain)
 [react-spring-message-hub](https://github.com/maxzz/react-spring-message-hub) | ```06.25.2023``` | ```06.25.2023``` | [demo](https://codesandbox.io/s/github/maxzz/react-spring-message-hub)
 [electron-react](https://github.com/maxzz/electron-react) | ```01.26.2023``` | ```06.17.2023``` | WIP
-[ts-sjcl](https://github.com/maxzz/ts-sjcl) | ```06.12.2023``` | ```06.15.2023``` | WIP
-[ts-srpclient](https://github.com/maxzz/ts-srpclient) | ```06.15.2023``` | ```06.15.2023``` | WIP
 [srp-play-tssrp6a](https://github.com/maxzz/srp-play-tssrp6a) | ```05.14.2023``` | ```06.11.2023``` | [demo](https://maxzz.github.io/srp-play-tssrp6a)
 [workers-comlink](https://github.com/maxzz/workers-comlink) | ```05.18.2023``` | ```05.20.2023``` | [demo](https://maxzz.github.io/workers-comlink)
 [giffy](https://github.com/maxzz/giffy) | ```03.15.2020``` | ```05.08.2023``` | [demo](https://maxzz.github.io/giffy)
@@ -43,7 +45,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [ui-pie-menu](https://github.com/maxzz/ui-pie-menu) | ```02.22.2023``` | ```03.30.2023``` | WIP
 [test-pm-domain-logins22](https://github.com/maxzz/test-pm-domain-logins22) | ```05.07.2022``` | ```03.27.2023``` | [demo](https://maxzz.github.io/test-pm-domain-logins22/)
 [rarsrt](https://github.com/maxzz/rarsrt) | ```04.14.2021``` | ```03.23.2023``` | [npm](https://www.npmjs.com/package/rarsrt)
-[sftp-shell](https://github.com/maxzz/sftp-shell) | ```11.10.2022``` | ```03.09.2023``` | WIP
 [ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```03.05.2023``` | [demo](https://maxzz.github.io/ch-spy/)
 [ngon-gen](https://github.com/maxzz/ngon-gen) | ```05.12.2020``` | ```03.04.2023``` | [demo](https://maxzz.github.io/ngon-gen)
 [electron-vite-plugin-e](https://github.com/maxzz/electron-vite-plugin-e) | ```02.07.2023``` | ```02.07.2023``` | WIP
@@ -107,11 +108,11 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
 [maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```08.14.2023``` | [demo](https://maxzz.github.io)
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```08.14.2023``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```08.21.2023``` | this page
 
 ## Collaboration repositories
 
-repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
 [js.org](https://github.com/maxzz/js.org) | ```03.14.2021``` | ```02.21.2021``` | [demo](https://js.org)
 [js-file-downloader](https://github.com/maxzz/js-file-downloader) | ```02.20.2021``` | ```12.11.2020``` | WIP
