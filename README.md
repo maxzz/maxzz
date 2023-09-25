@@ -13,8 +13,9 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
+[react-spring-transition-pages](https://github.com/maxzz/react-spring-transition-pages) | ```09.11.2023``` | ```09.24.2023``` | WIP
+[pm-xtn-dom](https://github.com/maxzz/pm-xtn-dom) | ```07.20.2023``` | ```09.18.2023``` | [npm](https://www.npmjs.com/package/pm-xtn-dom)
 [sftp-shell](https://github.com/maxzz/sftp-shell) | ```11.10.2022``` | ```09.16.2023``` | WIP
-[react-spring-transition-pages](https://github.com/maxzz/react-spring-transition-pages) | ```09.11.2023``` | ```09.16.2023``` | WIP
 [ngon-gen](https://github.com/maxzz/ngon-gen) | ```05.12.2020``` | ```09.11.2023``` | [demo](https://maxzz.github.io/ngon-gen)
 [ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```09.11.2023``` | [demo](https://maxzz.github.io/ch-spy/)
 [pmat-manual-mode](https://github.com/maxzz/pmat-manual-mode) | ```06.26.2023``` | ```09.06.2023``` | [demo](https://maxzz.github.io/pmat-manual-mode)
@@ -25,7 +26,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```08.30.2023``` | [demo](https://maxzz.github.io/dropzone)
 [pm-xtn-csui-res](https://github.com/maxzz/pm-xtn-csui-res) | ```07.22.2023``` | ```08.29.2023``` | WIP
 [pm-xtn-csui](https://github.com/maxzz/pm-xtn-csui) | ```07.20.2023``` | ```08.28.2023``` | WIP
-[pm-xtn-dom](https://github.com/maxzz/pm-xtn-dom) | ```07.20.2023``` | ```08.28.2023``` | [npm](https://www.npmjs.com/package/pm-xtn-dom)
 [ts-srpclient](https://github.com/maxzz/ts-srpclient) | ```06.15.2023``` | ```08.27.2023``` | WIP
 [ts-sjcl](https://github.com/maxzz/ts-sjcl) | ```06.12.2023``` | ```08.27.2023``` | WIP
 [pm-xtn-csui-test-vanilla](https://github.com/maxzz/pm-xtn-csui-test-vanilla) | ```08.08.2023``` | ```08.27.2023``` | [demo](https://maxzz.github.io/pm-xtn-csui-test-vanilla)
@@ -108,8 +108,8 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```03.29.2020``` | study
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
-[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```08.29.2023``` | [demo](https://maxzz.github.io)
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```09.11.2023``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```09.18.2023``` | this page
+[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```09.21.2023``` | [demo](https://maxzz.github.io)
 
 ## Collaboration repositories
 
