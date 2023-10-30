@@ -13,8 +13,9 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[color-names23](https://github.com/maxzz/color-names23) | ```10.08.2023``` | ```10.23.2023``` | [demo](https://maxzz.github.io/color-names23)
-[webfont-tools](https://github.com/maxzz/webfont-tools) | ```09.26.2023``` | ```10.21.2023``` | WIP
+[color-names23](https://github.com/maxzz/color-names23) | ```10.08.2023``` | ```10.29.2023``` | [demo](https://maxzz.github.io/color-names23)
+[ngon-gen](https://github.com/maxzz/ngon-gen) | ```05.12.2020``` | ```10.27.2023``` | [demo](https://maxzz.github.io/ngon-gen)
+[webfont-tools](https://github.com/maxzz/webfont-tools) | ```09.26.2023``` | ```10.27.2023``` | WIP
 [react-spring-tests-sprung](https://github.com/maxzz/react-spring-tests-sprung) | ```10.16.2023``` | ```10.18.2023``` | [demo](https://maxzz.github.io/react-spring-tests-sprung)
 [giffy](https://github.com/maxzz/giffy) | ```03.15.2020``` | ```10.17.2023``` | [demo](https://maxzz.github.io/giffy)
 [tailwindcss-plugin-debug-screens](https://github.com/maxzz/tailwindcss-plugin-debug-screens) | ```10.15.2023``` | ```10.15.2023``` | WIP
@@ -28,7 +29,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-spring-tests](https://github.com/maxzz/react-spring-tests) | ```11.21.2021``` | ```09.30.2023``` | [demo](https://maxzz.github.io/react-spring-tests)
 [pm-xtn-dom](https://github.com/maxzz/pm-xtn-dom) | ```07.20.2023``` | ```09.18.2023``` | [npm](https://www.npmjs.com/package/pm-xtn-dom)
 [sftp-shell](https://github.com/maxzz/sftp-shell) | ```11.10.2022``` | ```09.16.2023``` | WIP
-[ngon-gen](https://github.com/maxzz/ngon-gen) | ```05.12.2020``` | ```09.11.2023``` | [demo](https://maxzz.github.io/ngon-gen)
 [pmat-manual-mode](https://github.com/maxzz/pmat-manual-mode) | ```06.26.2023``` | ```09.06.2023``` | [demo](https://maxzz.github.io/pmat-manual-mode)
 [gluehtml](https://github.com/maxzz/gluehtml) | ```05.27.2020``` | ```09.02.2023``` | [npm](https://www.npmjs.com/package/gluehtml)
 [pm-manifest](https://github.com/maxzz/pm-manifest) | ```07.03.2023``` | ```09.02.2023``` | WIP
@@ -113,8 +113,8 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```03.29.2020``` | study
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```10.16.2023``` | this page
 [maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```10.18.2023``` | [demo](https://maxzz.github.io)
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```10.23.2023``` | this page
 
 ## Collaboration repositories
 
