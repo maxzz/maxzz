@@ -11,16 +11,17 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 ## Original repositories
 
-repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[color-names23](https://github.com/maxzz/color-names23) | ```10.08.2023``` | ```10.29.2023``` | [demo](https://maxzz.github.io/color-names23)
+[color-names23](https://github.com/maxzz/color-names23) | ```10.08.2023``` | ```11.05.2023``` | [demo](https://maxzz.github.io/color-names23)
+[handling-nesting-and-arrays-in-valtio](https://github.com/maxzz/handling-nesting-and-arrays-in-valtio) | ```11.04.2023``` | ```11.04.2023``` | WIP
+[shardcn-tv](https://github.com/maxzz/shardcn-tv) | ```10.07.2023``` | ```10.30.2023``` | [demo](https://maxzz.github.io/shardcn-tv)
 [ngon-gen](https://github.com/maxzz/ngon-gen) | ```05.12.2020``` | ```10.27.2023``` | [demo](https://maxzz.github.io/ngon-gen)
 [webfont-tools](https://github.com/maxzz/webfont-tools) | ```09.26.2023``` | ```10.27.2023``` | WIP
 [react-spring-tests-sprung](https://github.com/maxzz/react-spring-tests-sprung) | ```10.16.2023``` | ```10.18.2023``` | [demo](https://maxzz.github.io/react-spring-tests-sprung)
 [giffy](https://github.com/maxzz/giffy) | ```03.15.2020``` | ```10.17.2023``` | [demo](https://maxzz.github.io/giffy)
 [tailwindcss-plugin-debug-screens](https://github.com/maxzz/tailwindcss-plugin-debug-screens) | ```10.15.2023``` | ```10.15.2023``` | WIP
 [ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```10.15.2023``` | [demo](https://maxzz.github.io/ch-spy/)
-[shardcn-tv](https://github.com/maxzz/shardcn-tv) | ```10.07.2023``` | ```10.09.2023``` | [demo](https://maxzz.github.io/shardcn-tv)
 [color-names22](https://github.com/maxzz/color-names22) | ```04.04.2022``` | ```10.08.2023``` | [demo](https://maxzz.github.io/color-names22)
 [dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```10.06.2023``` | [demo](https://maxzz.github.io/dropzone)
 [react-spring-transition-pages](https://github.com/maxzz/react-spring-transition-pages) | ```09.11.2023``` | ```10.01.2023``` | WIP
@@ -114,11 +115,11 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
 [maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```10.18.2023``` | [demo](https://maxzz.github.io)
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```10.23.2023``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```10.30.2023``` | this page
 
 ## Collaboration repositories
 
-repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
 [js.org](https://github.com/maxzz/js.org) | ```03.14.2021``` | ```02.21.2021``` | [demo](https://js.org)
 [js-file-downloader](https://github.com/maxzz/js-file-downloader) | ```02.20.2021``` | ```12.11.2020``` | WIP
