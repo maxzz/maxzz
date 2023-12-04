@@ -13,7 +13,9 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[color-names23](https://github.com/maxzz/color-names23) | ```10.08.2023``` | ```11.26.2023``` | [demo](https://maxzz.github.io/color-names23)
+[page-qa2](https://github.com/maxzz/page-qa2) | ```03.05.2022``` | ```12.03.2023``` | [demo](https://maxzz.github.io/page-qa2)
+[color-names23](https://github.com/maxzz/color-names23) | ```10.08.2023``` | ```12.02.2023``` | [demo](https://maxzz.github.io/color-names23)
+[digitalpersona-transport](https://github.com/hidglobal/digitalpersona-transport) | ```06.19.2023``` | ```12.01.2023``` | WIP
 [webfont-tools](https://github.com/maxzz/webfont-tools) | ```09.26.2023``` | ```11.18.2023``` | WIP
 [valtio-nesting-arrays](https://github.com/maxzz/valtio-nesting-arrays) | ```11.04.2023``` | ```11.14.2023``` | [demo](https://maxzz.github.io/valtio-nesting-arrays)
 [ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```11.10.2023``` | [demo](https://maxzz.github.io/ch-spy/)
@@ -52,7 +54,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [workers-comlink](https://github.com/maxzz/workers-comlink) | ```05.18.2023``` | ```05.20.2023``` | [demo](https://maxzz.github.io/workers-comlink)
 [forms-react-hook-form-radix](https://github.com/maxzz/forms-react-hook-form-radix) | ```04.06.2023``` | ```04.12.2023``` | [demo](https://maxzz.github.io/forms-react-hook-form-radix)
 [forms-react-hook-form](https://github.com/maxzz/forms-react-hook-form) | ```03.23.2023``` | ```04.11.2023``` | [demo](https://maxzz.github.io/forms-react-hook-form)
-[page-qa2](https://github.com/maxzz/page-qa2) | ```03.05.2022``` | ```04.02.2023``` | [demo](https://maxzz.github.io/page-qa2)
 [ui-pie-menu](https://github.com/maxzz/ui-pie-menu) | ```02.22.2023``` | ```03.30.2023``` | WIP
 [test-pm-domain-logins22](https://github.com/maxzz/test-pm-domain-logins22) | ```05.07.2022``` | ```03.27.2023``` | [demo](https://maxzz.github.io/test-pm-domain-logins22/)
 [rarsrt](https://github.com/maxzz/rarsrt) | ```04.14.2021``` | ```03.23.2023``` | [npm](https://www.npmjs.com/package/rarsrt)
@@ -114,8 +115,8 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```03.29.2020``` | study
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
-[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```10.18.2023``` | [demo](https://maxzz.github.io)
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```11.20.2023``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```11.27.2023``` | this page
+[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```12.02.2023``` | [demo](https://maxzz.github.io)
 
 ## Collaboration repositories
 
