@@ -13,7 +13,7 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[page-qa2](https://github.com/maxzz/page-qa2) | ```03.05.2022``` | ```12.03.2023``` | [demo](https://maxzz.github.io/page-qa2)
+[page-qa2](https://github.com/maxzz/page-qa2) | ```03.05.2022``` | ```12.10.2023``` | [demo](https://maxzz.github.io/page-qa2)
 [color-names23](https://github.com/maxzz/color-names23) | ```10.08.2023``` | ```12.02.2023``` | [demo](https://maxzz.github.io/color-names23)
 [digitalpersona-transport](https://github.com/hidglobal/digitalpersona-transport) | ```06.19.2023``` | ```12.01.2023``` | WIP
 [webfont-tools](https://github.com/maxzz/webfont-tools) | ```09.26.2023``` | ```11.18.2023``` | WIP
@@ -115,8 +115,8 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```03.29.2020``` | study
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```11.27.2023``` | this page
 [maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```12.02.2023``` | [demo](https://maxzz.github.io)
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```12.04.2023``` | this page
 
 ## Collaboration repositories
 
