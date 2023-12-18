@@ -13,14 +13,14 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[page-qa2](https://github.com/maxzz/page-qa2) | ```03.05.2022``` | ```12.10.2023``` | [demo](https://maxzz.github.io/page-qa2)
-[color-names23](https://github.com/maxzz/color-names23) | ```10.08.2023``` | ```12.02.2023``` | [demo](https://maxzz.github.io/color-names23)
+[shardcn-tv](https://github.com/maxzz/shardcn-tv) | ```10.07.2023``` | ```12.17.2023``` | [demo](https://maxzz.github.io/shardcn-tv)
+[color-names23](https://github.com/maxzz/color-names23) | ```10.08.2023``` | ```12.15.2023``` | [demo](https://maxzz.github.io/color-names23)
+[page-qa2](https://github.com/maxzz/page-qa2) | ```03.05.2022``` | ```12.13.2023``` | [demo](https://maxzz.github.io/page-qa2)
 [digitalpersona-transport](https://github.com/hidglobal/digitalpersona-transport) | ```06.19.2023``` | ```12.01.2023``` | WIP
 [webfont-tools](https://github.com/maxzz/webfont-tools) | ```09.26.2023``` | ```11.18.2023``` | WIP
 [valtio-nesting-arrays](https://github.com/maxzz/valtio-nesting-arrays) | ```11.04.2023``` | ```11.14.2023``` | [demo](https://maxzz.github.io/valtio-nesting-arrays)
 [ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```11.10.2023``` | [demo](https://maxzz.github.io/ch-spy/)
 [ch-spy-ext](https://github.com/maxzz/ch-spy-ext) | ```05.08.2021``` | ```11.10.2023``` | [demo](https://github.com/maxzz/ch-spy)
-[shardcn-tv](https://github.com/maxzz/shardcn-tv) | ```10.07.2023``` | ```11.08.2023``` | [demo](https://maxzz.github.io/shardcn-tv)
 [ngon-gen](https://github.com/maxzz/ngon-gen) | ```05.12.2020``` | ```10.27.2023``` | [demo](https://maxzz.github.io/ngon-gen)
 [react-spring-tests-sprung](https://github.com/maxzz/react-spring-tests-sprung) | ```10.16.2023``` | ```10.18.2023``` | [demo](https://maxzz.github.io/react-spring-tests-sprung)
 [giffy](https://github.com/maxzz/giffy) | ```03.15.2020``` | ```10.17.2023``` | [demo](https://maxzz.github.io/giffy)
@@ -116,7 +116,7 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
 [maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```12.02.2023``` | [demo](https://maxzz.github.io)
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```12.04.2023``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```12.11.2023``` | this page
 
 ## Collaboration repositories
 
