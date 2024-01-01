@@ -13,8 +13,8 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[shardcn-tv](https://github.com/maxzz/shardcn-tv) | ```10.07.2023``` | ```12.24.2023``` | [demo](https://maxzz.github.io/shardcn-tv)
-[color-names23](https://github.com/maxzz/color-names23) | ```10.08.2023``` | ```12.15.2023``` | [demo](https://maxzz.github.io/color-names23)
+[shardcn-tv](https://github.com/maxzz/shardcn-tv) | ```10.07.2023``` | ```12.31.2023``` | [demo](https://maxzz.github.io/shardcn-tv)
+[color-names23](https://github.com/maxzz/color-names23) | ```10.08.2023``` | ```12.30.2023``` | [demo](https://maxzz.github.io/color-names23)
 [page-qa2](https://github.com/maxzz/page-qa2) | ```03.05.2022``` | ```12.13.2023``` | [demo](https://maxzz.github.io/page-qa2)
 [digitalpersona-transport](https://github.com/hidglobal/digitalpersona-transport) | ```06.19.2023``` | ```12.01.2023``` | WIP
 [webfont-tools](https://github.com/maxzz/webfont-tools) | ```09.26.2023``` | ```11.18.2023``` | WIP
@@ -116,7 +116,7 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
 [maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```12.02.2023``` | [demo](https://maxzz.github.io)
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```12.18.2023``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```12.25.2023``` | this page
 
 ## Collaboration repositories
 
