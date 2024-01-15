@@ -13,20 +13,24 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[shardcn-tv](https://github.com/maxzz/shardcn-tv) | ```10.07.2023``` | ```01.07.2024``` | [demo](https://maxzz.github.io/shardcn-tv)
-[color-names23](https://github.com/maxzz/color-names23) | ```10.08.2023``` | ```12.30.2023``` | [demo](https://maxzz.github.io/color-names23)
-[page-qa2](https://github.com/maxzz/page-qa2) | ```03.05.2022``` | ```12.13.2023``` | [demo](https://maxzz.github.io/page-qa2)
+[forms-formik](https://github.com/maxzz/forms-formik) | ```01.06.2023``` | ```01.14.2024``` | [demo](https://maxzz.github.io/forms-formik)
+[routes-nextjs](https://github.com/maxzz/routes-nextjs) | ```01.13.2024``` | ```01.13.2024``` | WIP
+[color-names23](https://github.com/maxzz/color-names23) | ```10.08.2023``` | ```01.12.2024``` | [demo](https://maxzz.github.io/color-names23)
+[page-qa2](https://github.com/maxzz/page-qa2) | ```03.05.2022``` | ```01.12.2024``` | [demo](https://maxzz.github.io/page-qa2)
+[highlight-xml-md](https://github.com/maxzz/highlight-xml-md) | ```01.11.2024``` | ```01.12.2024``` | [demo](https://maxzz.github.io/highlight-xml-md)
+[ngon-gen](https://github.com/maxzz/ngon-gen) | ```05.12.2020``` | ```01.11.2024``` | [demo](https://maxzz.github.io/ngon-gen)
+[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```01.10.2024``` | [demo](https://maxzz.github.io/dropzone)
+[shardcn-tv](https://github.com/maxzz/shardcn-tv) | ```10.07.2023``` | ```01.09.2024``` | [demo](https://maxzz.github.io/shardcn-tv)
+[editor-codemirror-highlight](https://github.com/maxzz/editor-codemirror-highlight) | ```01.08.2024``` | ```01.09.2024``` | [demo](https://maxzz.github.io/editor-codemirror-highlight)
 [digitalpersona-transport](https://github.com/hidglobal/digitalpersona-transport) | ```06.19.2023``` | ```12.01.2023``` | WIP
 [webfont-tools](https://github.com/maxzz/webfont-tools) | ```09.26.2023``` | ```11.18.2023``` | WIP
 [valtio-nesting-arrays](https://github.com/maxzz/valtio-nesting-arrays) | ```11.04.2023``` | ```11.14.2023``` | [demo](https://maxzz.github.io/valtio-nesting-arrays)
 [ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```11.10.2023``` | [demo](https://maxzz.github.io/ch-spy/)
 [ch-spy-ext](https://github.com/maxzz/ch-spy-ext) | ```05.08.2021``` | ```11.10.2023``` | [demo](https://github.com/maxzz/ch-spy)
-[ngon-gen](https://github.com/maxzz/ngon-gen) | ```05.12.2020``` | ```10.27.2023``` | [demo](https://maxzz.github.io/ngon-gen)
 [react-spring-tests-sprung](https://github.com/maxzz/react-spring-tests-sprung) | ```10.16.2023``` | ```10.18.2023``` | [demo](https://maxzz.github.io/react-spring-tests-sprung)
 [giffy](https://github.com/maxzz/giffy) | ```03.15.2020``` | ```10.17.2023``` | [demo](https://maxzz.github.io/giffy)
 [tailwindcss-plugin-debug-screens](https://github.com/maxzz/tailwindcss-plugin-debug-screens) | ```10.15.2023``` | ```10.15.2023``` | WIP
 [color-names22](https://github.com/maxzz/color-names22) | ```04.04.2022``` | ```10.08.2023``` | [demo](https://maxzz.github.io/color-names22)
-[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```10.06.2023``` | [demo](https://maxzz.github.io/dropzone)
 [react-spring-transition-pages](https://github.com/maxzz/react-spring-transition-pages) | ```09.11.2023``` | ```10.01.2023``` | WIP
 [react-spring-message-hub](https://github.com/maxzz/react-spring-message-hub) | ```06.25.2023``` | ```09.30.2023``` | [demo](https://maxzz.github.io/react-spring-message-hub)
 [react-spring-transition-chain](https://github.com/maxzz/react-spring-transition-chain) | ```06.25.2023``` | ```09.30.2023``` | [demo](https://maxzz.github.io/react-spring-transition-chain)
@@ -60,7 +64,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [electron-vite-plugin-e](https://github.com/maxzz/electron-vite-plugin-e) | ```02.07.2023``` | ```02.07.2023``` | WIP
 [react-delay-unmount](https://github.com/maxzz/react-delay-unmount) | ```03.13.2021``` | ```01.30.2023``` | [demo](https://maxzz.github.io/react-delay-unmount)
 [forms-wreducer](https://github.com/maxzz/forms-wreducer) | ```01.15.2023``` | ```01.28.2023``` | [demo](https://maxzz.github.io/forms-wreducer)
-[forms-formik](https://github.com/maxzz/forms-formik) | ```01.06.2023``` | ```01.24.2023``` | [demo](https://maxzz.github.io/forms-formik)
 [ui-vanilla-dropdown](https://github.com/maxzz/ui-vanilla-dropdown) | ```01.13.2023``` | ```01.13.2023``` | [demo](https://maxzz.github.io/ui-vanilla-dropdown)
 [wmax-vanilla-vite](https://github.com/maxzz/wmax-vanilla-vite) | ```12.19.2022``` | ```01.11.2023``` | [demo](https://maxzz.github.io/wmax-vanilla-vite)
 [srt-from-vtt](https://github.com/maxzz/srt-from-vtt) | ```12.29.2022``` | ```01.01.2023``` | WIP
@@ -115,8 +118,8 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```03.29.2020``` | study
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
-[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```12.02.2023``` | [demo](https://maxzz.github.io)
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```01.01.2024``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```01.08.2024``` | this page
+[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```01.13.2024``` | [demo](https://maxzz.github.io)
 
 ## Collaboration repositories
 
