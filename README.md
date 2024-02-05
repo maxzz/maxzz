@@ -13,13 +13,14 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[shardcn-tv](https://github.com/maxzz/shardcn-tv) | ```10.07.2023``` | ```01.28.2024``` | [demo](https://maxzz.github.io/shardcn-tv)
+[flow-xarrows](https://github.com/maxzz/flow-xarrows) | ```02.04.2024``` | ```02.04.2024``` | WIP
+[shardcn-tv](https://github.com/maxzz/shardcn-tv) | ```10.07.2023``` | ```02.03.2024``` | [demo](https://maxzz.github.io/shardcn-tv)
+[ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```01.30.2024``` | [demo](https://maxzz.github.io/ch-spy/)
 [page-qa2](https://github.com/maxzz/page-qa2) | ```03.05.2022``` | ```01.26.2024``` | [demo](https://maxzz.github.io/page-qa2)
 [routes-router](https://github.com/maxzz/routes-router) | ```01.16.2024``` | ```01.25.2024``` | [demo](https://maxzz.github.io/routes-router)
 [routes-tan-router](https://github.com/maxzz/routes-tan-router) | ```01.24.2024``` | ```01.25.2024``` | [demo](https://maxzz.github.io/routes-tan-router)
 [color-names23](https://github.com/maxzz/color-names23) | ```10.08.2023``` | ```01.24.2024``` | [demo](https://maxzz.github.io/color-names23)
 [react-spring-tests](https://github.com/maxzz/react-spring-tests) | ```11.21.2021``` | ```01.20.2024``` | [demo](https://maxzz.github.io/react-spring-tests)
-[ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```01.19.2024``` | [demo](https://maxzz.github.io/ch-spy/)
 [forms-formik](https://github.com/maxzz/forms-formik) | ```01.06.2023``` | ```01.17.2024``` | [demo](https://maxzz.github.io/forms-formik)
 [routes-nextjs](https://github.com/maxzz/routes-nextjs) | ```01.13.2024``` | ```01.13.2024``` | WIP
 [highlight-xml-md](https://github.com/maxzz/highlight-xml-md) | ```01.11.2024``` | ```01.12.2024``` | [demo](https://maxzz.github.io/highlight-xml-md)
@@ -120,8 +121,8 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```03.29.2020``` | study
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```01.22.2024``` | this page
 [maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```01.25.2024``` | [demo](https://maxzz.github.io)
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```01.29.2024``` | this page
 
 ## Collaboration repositories
 
