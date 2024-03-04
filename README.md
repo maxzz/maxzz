@@ -13,11 +13,11 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[shardcn-tv](https://github.com/maxzz/shardcn-tv) | ```10.07.2023``` | ```02.25.2024``` | [demo](https://maxzz.github.io/shardcn-tv)
+[shadcn-tv](https://github.com/maxzz/shadcn-tv) | ```10.07.2023``` | ```03.03.2024``` | [demo](https://maxzz.github.io/shardcn-tv)
+[pmat24-lite](https://github.com/maxzz/pmat24-lite) | ```02.11.2024``` | ```03.02.2024``` | WIP
 [color-names23](https://github.com/maxzz/color-names23) | ```10.08.2023``` | ```02.24.2024``` | [demo](https://maxzz.github.io/color-names23)
 [ngon-gen](https://github.com/maxzz/ngon-gen) | ```05.12.2020``` | ```02.23.2024``` | [demo](https://maxzz.github.io/ngon-gen)
 [electron-react](https://github.com/maxzz/electron-react) | ```01.26.2023``` | ```02.21.2024``` | [demo](https://maxzz.github.io/electron-react)
-[pmat24-lite](https://github.com/maxzz/pmat24-lite) | ```02.11.2024``` | ```02.16.2024``` | WIP
 [electron-window-monitor](https://github.com/maxzz/electron-window-monitor) | ```06.16.2023``` | ```02.12.2024``` | WIP
 [pm-manifest](https://github.com/maxzz/pm-manifest) | ```07.03.2023``` | ```02.12.2024``` | WIP
 [electron-react24](https://github.com/maxzz/electron-react24) | ```02.10.2024``` | ```02.10.2024``` | WIP
@@ -123,8 +123,8 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```03.29.2020``` | study
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
-[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```02.13.2024``` | [demo](https://maxzz.github.io)
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```02.19.2024``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```02.26.2024``` | this page
+[maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```02.28.2024``` | [demo](https://maxzz.github.io)
 
 ## Collaboration repositories
 
