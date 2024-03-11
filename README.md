@@ -13,8 +13,9 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[shadcn-tv](https://github.com/maxzz/shadcn-tv) | ```10.07.2023``` | ```03.03.2024``` | [demo](https://maxzz.github.io/shardcn-tv)
-[pmat24-lite](https://github.com/maxzz/pmat24-lite) | ```02.11.2024``` | ```03.02.2024``` | WIP
+[pmat24-lite](https://github.com/maxzz/pmat24-lite) | ```02.11.2024``` | ```03.10.2024``` | WIP
+[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```03.10.2024``` | [demo](https://maxzz.github.io/dropzone)
+[shadcn-tv](https://github.com/maxzz/shadcn-tv) | ```10.07.2023``` | ```03.09.2024``` | [demo](https://maxzz.github.io/shardcn-tv)
 [color-names23](https://github.com/maxzz/color-names23) | ```10.08.2023``` | ```02.24.2024``` | [demo](https://maxzz.github.io/color-names23)
 [ngon-gen](https://github.com/maxzz/ngon-gen) | ```05.12.2020``` | ```02.23.2024``` | [demo](https://maxzz.github.io/ngon-gen)
 [electron-react](https://github.com/maxzz/electron-react) | ```01.26.2023``` | ```02.21.2024``` | [demo](https://maxzz.github.io/electron-react)
@@ -30,7 +31,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [forms-formik](https://github.com/maxzz/forms-formik) | ```01.06.2023``` | ```01.17.2024``` | [demo](https://maxzz.github.io/forms-formik)
 [routes-nextjs](https://github.com/maxzz/routes-nextjs) | ```01.13.2024``` | ```01.13.2024``` | WIP
 [highlight-xml-md](https://github.com/maxzz/highlight-xml-md) | ```01.11.2024``` | ```01.12.2024``` | [demo](https://maxzz.github.io/highlight-xml-md)
-[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```01.10.2024``` | [demo](https://maxzz.github.io/dropzone)
 [editor-codemirror-highlight](https://github.com/maxzz/editor-codemirror-highlight) | ```01.08.2024``` | ```01.09.2024``` | [demo](https://maxzz.github.io/editor-codemirror-highlight)
 [digitalpersona-transport](https://github.com/hidglobal/digitalpersona-transport) | ```06.19.2023``` | ```12.01.2023``` | WIP
 [webfont-tools](https://github.com/maxzz/webfont-tools) | ```09.26.2023``` | ```11.18.2023``` | WIP
@@ -123,8 +123,8 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```03.29.2020``` | study
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```02.26.2024``` | this page
 [maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```02.28.2024``` | [demo](https://maxzz.github.io)
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```03.04.2024``` | this page
 
 ## Collaboration repositories
 
