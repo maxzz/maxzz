@@ -13,11 +13,11 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[pmat24-lite](https://github.com/maxzz/pmat24-lite) | ```02.11.2024``` | ```03.17.2024``` | [demo](https://maxzz.github.io/pmat24-lite/)
+[pmat24-lite](https://github.com/maxzz/pmat24-lite) | ```02.11.2024``` | ```03.24.2024``` | [demo](https://maxzz.github.io/pmat24-lite/)
+[shadcn-tv](https://github.com/maxzz/shadcn-tv) | ```10.07.2023``` | ```03.24.2024``` | [demo](https://maxzz.github.io/shardcn-tv)
+[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```03.23.2024``` | [demo](https://maxzz.github.io/dropzone)
 [ngon-gen](https://github.com/maxzz/ngon-gen) | ```05.12.2020``` | ```03.16.2024``` | [demo](https://maxzz.github.io/ngon-gen)
-[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```03.15.2024``` | [demo](https://maxzz.github.io/dropzone)
 [electron-react](https://github.com/maxzz/electron-react) | ```01.26.2023``` | ```03.12.2024``` | [demo](https://maxzz.github.io/electron-react)
-[shadcn-tv](https://github.com/maxzz/shadcn-tv) | ```10.07.2023``` | ```03.09.2024``` | [demo](https://maxzz.github.io/shardcn-tv)
 [color-names23](https://github.com/maxzz/color-names23) | ```10.08.2023``` | ```02.24.2024``` | [demo](https://maxzz.github.io/color-names23)
 [electron-window-monitor](https://github.com/maxzz/electron-window-monitor) | ```06.16.2023``` | ```02.12.2024``` | WIP
 [pm-manifest](https://github.com/maxzz/pm-manifest) | ```07.03.2023``` | ```02.12.2024``` | WIP
@@ -123,8 +123,8 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [react-lifecycles](https://github.com/maxzz/react-lifecycles) | ```03.29.2020``` | ```03.29.2020``` | study
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```03.11.2024``` | this page
 [maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```03.13.2024``` | [demo](https://maxzz.github.io)
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```03.18.2024``` | this page
 
 ## Collaboration repositories
 
