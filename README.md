@@ -13,15 +13,17 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[pmat24-lite](https://github.com/maxzz/pmat24-lite) | ```02.11.2024``` | ```04.15.2024``` | [demo](https://maxzz.github.io/pmat24-lite/)
+[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```04.21.2024``` | [demo](https://maxzz.github.io/dropzone)
+[pmat24-lite](https://github.com/maxzz/pmat24-lite) | ```02.11.2024``` | ```04.21.2024``` | [demo](https://maxzz.github.io/pmat24-lite/)
+[pm-manifest](https://github.com/maxzz/pm-manifest) | ```07.03.2023``` | ```04.21.2024``` | WIP
+[ts-sjcl](https://github.com/maxzz/ts-sjcl) | ```06.12.2023``` | ```04.20.2024``` | WIP
+[srp-play-tssrp6a](https://github.com/maxzz/srp-play-tssrp6a) | ```05.14.2023``` | ```04.20.2024``` | [demo](https://maxzz.github.io/srp-play-tssrp6a)
 [shadcn-tv](https://github.com/maxzz/shadcn-tv) | ```10.07.2023``` | ```04.14.2024``` | [demo](https://maxzz.github.io/shardcn-tv)
-[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```04.13.2024``` | [demo](https://maxzz.github.io/dropzone)
 [color-names23](https://github.com/maxzz/color-names23) | ```10.08.2023``` | ```04.07.2024``` | [demo](https://maxzz.github.io/color-names23)
 [ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```04.05.2024``` | [demo](https://maxzz.github.io/ch-spy/)
 [ngon-gen](https://github.com/maxzz/ngon-gen) | ```05.12.2020``` | ```03.27.2024``` | [demo](https://maxzz.github.io/ngon-gen)
 [electron-react](https://github.com/maxzz/electron-react) | ```01.26.2023``` | ```03.12.2024``` | [demo](https://maxzz.github.io/electron-react)
 [electron-window-monitor](https://github.com/maxzz/electron-window-monitor) | ```06.16.2023``` | ```02.12.2024``` | WIP
-[pm-manifest](https://github.com/maxzz/pm-manifest) | ```07.03.2023``` | ```02.12.2024``` | WIP
 [electron-react24](https://github.com/maxzz/electron-react24) | ```02.10.2024``` | ```02.10.2024``` | WIP
 [flow-xarrows](https://github.com/maxzz/flow-xarrows) | ```02.04.2024``` | ```02.05.2024``` | [demo](https://maxzz.github.io/flow-xarrows)
 [page-qa2](https://github.com/maxzz/page-qa2) | ```03.05.2022``` | ```01.26.2024``` | [demo](https://maxzz.github.io/page-qa2)
@@ -51,7 +53,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [pm-xtn-csui-res](https://github.com/maxzz/pm-xtn-csui-res) | ```07.22.2023``` | ```08.29.2023``` | WIP
 [pm-xtn-csui](https://github.com/maxzz/pm-xtn-csui) | ```07.20.2023``` | ```08.28.2023``` | WIP
 [ts-srpclient](https://github.com/maxzz/ts-srpclient) | ```06.15.2023``` | ```08.27.2023``` | WIP
-[ts-sjcl](https://github.com/maxzz/ts-sjcl) | ```06.12.2023``` | ```08.27.2023``` | WIP
 [pm-xtn-csui-test-vanilla](https://github.com/maxzz/pm-xtn-csui-test-vanilla) | ```08.08.2023``` | ```08.27.2023``` | [demo](https://maxzz.github.io/pm-xtn-csui-test-vanilla)
 [rollup-plugin-pack-json-values](https://github.com/maxzz/rollup-plugin-pack-json-values) | ```08.27.2023``` | ```08.27.2023``` | WIP
 [ngon-gen22](https://github.com/maxzz/ngon-gen22) | ```04.25.2022``` | ```08.23.2023``` | [demo](https://maxzz.github.io/ngon-gen22)
@@ -59,7 +60,6 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [node-chalk](https://github.com/maxzz/node-chalk) | ```08.11.2023``` | ```08.14.2023``` | [npm](https://www.npmjs.com/package/node-chalk)
 [pm-manifest-icons](https://github.com/maxzz/pm-manifest-icons) | ```07.08.2023``` | ```07.08.2023``` | WIP
 [pmac](https://github.com/maxzz/pmac) | ```09.02.2022``` | ```07.04.2023``` | [demo](https://maxzz.github.io/pmac)
-[srp-play-tssrp6a](https://github.com/maxzz/srp-play-tssrp6a) | ```05.14.2023``` | ```06.11.2023``` | [demo](https://maxzz.github.io/srp-play-tssrp6a)
 [workers-comlink](https://github.com/maxzz/workers-comlink) | ```05.18.2023``` | ```05.20.2023``` | [demo](https://maxzz.github.io/workers-comlink)
 [forms-react-hook-form-radix](https://github.com/maxzz/forms-react-hook-form-radix) | ```04.06.2023``` | ```04.12.2023``` | [demo](https://maxzz.github.io/forms-react-hook-form-radix)
 [forms-react-hook-form](https://github.com/maxzz/forms-react-hook-form) | ```03.23.2023``` | ```04.11.2023``` | [demo](https://maxzz.github.io/forms-react-hook-form)
@@ -124,7 +124,7 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
 [maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```03.13.2024``` | [demo](https://maxzz.github.io)
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```04.08.2024``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```04.15.2024``` | this page
 
 ## Collaboration repositories
 
