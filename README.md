@@ -13,12 +13,12 @@ You can find out more about my projects at [maxzz.github.io](https://maxzz.githu
 
 repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | created | updated | home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -|-|-|-
-[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```04.21.2024``` | [demo](https://maxzz.github.io/dropzone)
-[pmat24-lite](https://github.com/maxzz/pmat24-lite) | ```02.11.2024``` | ```04.21.2024``` | [demo](https://maxzz.github.io/pmat24-lite/)
-[pm-manifest](https://github.com/maxzz/pm-manifest) | ```07.03.2023``` | ```04.21.2024``` | WIP
+[pmat24-lite](https://github.com/maxzz/pmat24-lite) | ```02.11.2024``` | ```04.28.2024``` | [demo](https://maxzz.github.io/pmat24-lite/)
+[pm-manifest](https://github.com/maxzz/pm-manifest) | ```07.03.2023``` | ```04.28.2024``` | WIP
+[shadcn-tv](https://github.com/maxzz/shadcn-tv) | ```10.07.2023``` | ```04.25.2024``` | [demo](https://maxzz.github.io/shardcn-tv)
+[dropzone](https://github.com/maxzz/dropzone) | ```09.16.2021``` | ```04.22.2024``` | [demo](https://maxzz.github.io/dropzone)
 [ts-sjcl](https://github.com/maxzz/ts-sjcl) | ```06.12.2023``` | ```04.20.2024``` | WIP
 [srp-play-tssrp6a](https://github.com/maxzz/srp-play-tssrp6a) | ```05.14.2023``` | ```04.20.2024``` | [demo](https://maxzz.github.io/srp-play-tssrp6a)
-[shadcn-tv](https://github.com/maxzz/shadcn-tv) | ```10.07.2023``` | ```04.14.2024``` | [demo](https://maxzz.github.io/shardcn-tv)
 [color-names23](https://github.com/maxzz/color-names23) | ```10.08.2023``` | ```04.07.2024``` | [demo](https://maxzz.github.io/color-names23)
 [ch-spy](https://github.com/maxzz/ch-spy) | ```06.16.2020``` | ```04.05.2024``` | [demo](https://maxzz.github.io/ch-spy/)
 [ngon-gen](https://github.com/maxzz/ngon-gen) | ```05.12.2020``` | ```03.27.2024``` | [demo](https://maxzz.github.io/ngon-gen)
@@ -124,7 +124,7 @@ repo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [maxzz-python](https://github.com/maxzz/maxzz-python) | ```07.18.2020``` | ```07.18.2020``` | study
 [maxzz-proxy](https://github.com/maxzz/maxzz-proxy) | ```01.04.2020``` | ```12.11.2022``` | server
 [maxzz.github.io](https://github.com/maxzz/maxzz.github.io) | ```10.20.2021``` | ```03.13.2024``` | [demo](https://maxzz.github.io)
-[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```04.15.2024``` | this page
+[maxzz](https://github.com/maxzz/maxzz) | ```07.18.2020``` | ```04.22.2024``` | this page
 
 ## Collaboration repositories
 
